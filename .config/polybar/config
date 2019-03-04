@@ -1,0 +1,90 @@
+;=====================================================
+;     File Includes
+;=====================================================
+
+[section/base]
+include-file = /home/carlosado/.config/polybar/master.conf
+include-file = /home/carlosado/.config/polybar/modules.conf
+
+
+;=====================================================
+;     Openbox Bars
+;=====================================================
+
+[bar/openbox-bar]
+inherit = bar/master
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
+
+modules-left   = jgmenu workspaces
+modules-center = window_switch clock
+modules-right  = ${env:POLYBAR_MODULES:temperature pkg network volume}
+
+
+;=====================================================
+;     i3 Bars
+;=====================================================
+
+; Top bar configuration
+[bar/i3-bar]
+inherit = bar/master
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor = LVDS1
+
+modules-left   = i3
+modules-center = clock
+modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pack network volume}
+
+
+; Bottom bar configuration
+[bar/i3-bottom-bar]
+
+; inherits all the properties of the master (template) bar
+inherit = bar/master
+
+; if you use a multi-head setup then setting this may be required
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor = LVDS1
+
+; whether the bar is located at the top or bottom of your screen
+bottom = true
+
+; this puts the white border line on top of the bar
+border-top-size = 1
+border-bottom-size = 0
+
+; setting which modules should be added, and where
+modules-left   = kernel mpd
+modules-center = 
+modules-right  = system-usb-udev redshift compton_toggle keyboard filesystem
+
+;=====================================================
+;     Bspwm Bars
+;=====================================================
+
+[bar/bspwm-bar]
+inherit = bar/master
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
+
+modules-left   = bspwm menu
+modules-center = clock
+modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pkg network volume}
+
+;=====================================================
+;     Openbox Bars
+;=====================================================
+
+[bar/generic-bar]
+inherit = bar/master
+
+; Use $ xrandr -q | grep " connected" | cut -d ' ' -f1
+monitor =
+
+modules-left   = workspaces menu
+modules-center = clock
+modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pkg network volume}
+
