@@ -283,7 +283,7 @@ for_window [class="(?i)(?:geany|firefox)"]  focus
 
 # Assign Applications to specific workspace
 # get class with xprop
-assign [class="XTerm"] → $WS1
+assign [class="xterm"] → $WS1
 assign [class="Opera"]  → $WS2
 assign [class="Termite"]  → $WS3
 assign [class="feh"] → $WS4

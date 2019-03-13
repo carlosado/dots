@@ -1,9 +1,9 @@
-sw_volume: 98
+sw_volume: 100
 audio_device_state:1:My HTTP Stream
 audio_device_state:1:pulse audio
 audio_device_state:1:my_fifo
 state: stop
-current: 1199
+current: 1911
 random: 1
 repeat: 1
 single: 0
@@ -107,1109 +107,2896 @@ playlist_begin
 92:Barclay James Harvest/Life is for Living.mp3
 93:Barry White/Just The Way You Are.m4a
 94:The Beach Boys/Kokomo.m4a
-95:Beatles/Track 04.m4a
-96:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/09 and i love her.mp3
-97:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/14 can't buy me love.mp3
-98:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/24 i'll be back.mp3
-99:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/01 come together.mp3
-100:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/16 here comes the sun.mp3
-101:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/25 she came through the bathroom window.mp3
-102:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/27 golden slumbers.mp3
-103:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/06 no reply.mp3
-104:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/08 rock and roll music.mp3
-105:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/18 eight days a week.mp3
-106:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/03 help!.mp3
-107:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/13 your going to lose that girl.mp3
-108:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/17 ticket to ride.mp3
-109:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/26 yesterday.mp3
-110:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/23 get back.mp3
-111:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/05 magical mystery tour.mp3
-112:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/11 i am the walrus.mp3
-113:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/15 hello goodbye.mp3
-114:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/20 strawberry fields forever.mp3
-115:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/22 penny lane.mp3
-116:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/29 i wanna hold your hand.mp3
-117:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/31 long tall sally.mp3
-118:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/32 lady madonna.mp3
-119:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/33 hey jude.mp3
-120:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/34 revolution.mp3
-121:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/35 don't let me down.mp3
-122:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/36 the ballad of john and yoko.mp3
-123:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/37 let it be.mp3
-124:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/04 i saw her standing there.mp3
-125:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/19 love me do.mp3
-126:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/21 p.s i love you.mp3
-127:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/12 yellow subarine.mp3
-128:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/02 drive my car.mp3
-129:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/38 sgt. peppers lonely hearts club band.mp3
-130:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/39 with a little help from my friends.mp3
-131:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/40 sgt peppers lonely hearts club band (reprise).mp3
-132:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/41 a day in the life.mp3
-133:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/28 ob la di ob la da.mp3
-134:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/30 while my guitar gently weeps.mp3
-135:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/07 all my loving.mp3
-136:The Beatles [2009] Greatest Hits CDRip [Remastered][Bubanee]/10 all you need is love.mp3
-137:Bee Gees/Barbra Streisand & Barry Gibb - Guilty (HQ).mp3
-138:Bee Gees/Barbra Streisand & Barry Gibb - What Kind Of Fool (1980).mp3
-139:Bee Gees/How Can You Mend a Broken Heart - The Bee Gees (Lyrics on screen).mp3
-140:Bee Gees/I started A Joke lyrics The Bee Gees.mp3
-141:Bee Gees/To Love Somebody.m4a
-142:Bee Gees/Massachusetts.m4a
-143:Bee Gees/Words.m4a
-144:Bee Gees/Run To Me.m4a
-145:Bee Gees/Jive Talkin'.m4a
-146:Bee Gees/You Should Be Dancing.m4a
-147:Bee Gees/How Deep Is Your Love.m4a
-148:Bee Gees/More Than A Woman.m4a
-149:Bee Gees/Stayin' Alive.m4a
-150:Bee Gees/Night Fever.m4a
-151:Bee Gees/Too Much Heaven.m4a
-152:Bee Gees/Tragedy.m4a
-153:Bee Gees/You Win Again.m4a
-154:Billy Idol/Eyes Without A Face.mp3
-155:Billy Idol/Sweet Sixteen.mp3
-156:Bjork/Army of Me (feat. Skunk Anansie).mp3
-157:Blake Shelton/Came Here To Forget.mp3
-158:Blake Shelton/Honey Bee.mp3
-159:Blake Shelton/Who Are You When I'm Not Looking.mp3
-160:Bobby McFerrin/Don't Worry, Be Happy.m4a
-161:Bon Jovi/Runaway.mp3
-162:Boston - Greatest Hits/01 Tell Me.mp3
-163:Boston - Greatest Hits/02 Higher Power.mp3
-164:Boston - Greatest Hits/03 More Than a Feeling.mp3
-165:Boston - Greatest Hits/04 Peace of Mind.mp3
-166:Boston - Greatest Hits/05 Don't Look Back.mp3
-167:Boston - Greatest Hits/06 Cool the Engines.mp3
-168:Boston - Greatest Hits/07 Livin' For You.mp3
-169:Boston - Greatest Hits/08 Feelin' Satisfied.mp3
-170:Boston - Greatest Hits/09 Party.mp3
-171:Boston - Greatest Hits/10 Foreplay - Long Time.mp3
-172:Boston - Greatest Hits/11 Amanda.mp3
-173:Boston - Greatest Hits/12 Rock & Roll Band.mp3
-174:Boston - Greatest Hits/13 Smokin'.mp3
-175:Boston - Greatest Hits/14 A Man I'll Never Be.mp3
-176:Boston - Greatest Hits/15 4th of July Reprise.mp3
-177:Boston - Greatest Hits/16 Higher Power (Kalodner Edit).mp3
-178:Boyzone/No Matter What.mp3
-179:Boyzone/You Needed Me.mp3
-180:Boyzone/A Picture Of You.m4a
-181:Brett Eldredge/Wanna be that song.mp3
-182:Brett Young/In Case You Didn't Know.mp3
-183:Brett Young/Sleep Without You.mp3
-184:Britney Spears/My Prerogative.m4a
-185:Britney Spears/I'm A Slave 4 U.m4a
-186:Britney Spears/Oops!... I Did It Again.m4a
-187:Britney Spears/Me Against The Music.m4a
-188:Britney Spears/Everytime.m4a
-189:Britney Spears/...Baby One More Time.m4a
-190:Britney Spears/(You Drive Me) Crazy (The Stop Remix!).m4a
-191:Britney Spears/Boys (The Co-Ed Remix).m4a
-192:Britney Spears/Sometimes.m4a
-193:Britney Spears/Overprotected (The Dark Child Remix , Radio Edit).m4a
-194:Britney Spears/Lucky.m4a
-195:Britney Spears/Outrageous.m4a
-196:Britney Spears/Born To Make You Happy.m4a
-197:Britney Spears/I Love Rock 'N' Roll.m4a
-198:Britney Spears/I'm Not A Girl, Not Yet A Woman.m4a
-199:Bruce Springsteen/Dancing in the Dark.mp3
-200:Bruce Springsteen/Streets Of Philadelphia.mp3
-201:Bryan Adams/Brand New Day.mp3
-202:Bryan Adams/Don't Even Try.mp3
-203:Bryan Adams/I Thought I'd Seen Everything.mp3
-204:Bryan Adams/You Belong To Me.mp3
-205:Bryan Adams/Let's Make A Night To Remember.mp3
-206:Bryan Adams/I'm Ready.mp3
-207:Bryan Adams/When You're Gone ft. Melanie C.mp3
-208:Bryan Adams/Heaven - Acoustic Live.mp3
-209:Bryan Adams/It's Only Love.mp3
-210:Bryan Adams/Run To You.mp3
-211:Bryan Adams/Summer Of '69.mp3
-212:Bryan Adams/Can't Stop This Thing We Started.m4a
-213:Bryan Adams/Please Forgive Me.mp3
-214:Bryan Adams/Best Of Me.mp3
-215:Bryan Adams/Can't Stop This Thing We Started.mp3
-216:Bryan Adams/Do I Have To Say The Words.mp3
-217:Caetano Veloso/Sozinho.m4a
-218:Caetano Veloso/Samba De Verao.m4a
-219:Caetano Veloso/Leãozinho.m4a
-220:Caetano Veloso/Sonhos.m4a
-221:Calcanhoto/Vambora.mp3
-222:Calcanhoto/Adriana Calcanhoto - 02-Mais Feliz.mp3
-223:Calcanhoto/Adriana Calcanhoto - 07-Vambora.mp3
-224:The Calling/Wherever You Will Go.mp3
-225:Carlos do Carmo/Gaivota.m4a
-226:Carlos do Carmo/Por Morrer Uma Andorinha.m4a
-227:Carlos do Carmo/Canoas Do Tejo.m4a
-228:Carlos do Carmo/Os putos.m4a
-229:Carlos Paredes/Danças Portuguesas.m4a
-230:Carlos Paredes/Acção.m4a
-231:Carlos Paredes/Porto Santo.m4a
-232:Carlos Paredes/Divertimento.m4a
-233:Carlos Paredes/Canção Verdes Anos.m4a
-234:Carlos Paredes/Sede e Morte.m4a
-235:Carpenters/Close to you.mp3
-236:Carpenters/We've Only Just Begun.mp3
-237:Carpenters/Yesterday Once More.mp3
-238:The Cars/Drive.mp3
-239:Cat Stevens - Best Of/01.The Wind.mp3
-240:Cat Stevens - Best Of/02.Wild World.mp3
-241:Cat Stevens - Best Of/03.Oh Very Young.mp3
-242:Cat Stevens - Best Of/04.Where Do The Children Play.mp3
-243:Cat Stevens - Best Of/05.Hard Headed Woman.mp3
-244:Cat Stevens - Best Of/06.Moonshadow.mp3
-245:Cat Stevens - Best Of/07.Peace Train.mp3
-246:Cat Stevens - Best Of/08.Father And Son.mp3
-247:Cat Stevens - Best Of/09.Sitting.mp3
-248:Cat Stevens - Best Of/10.How Can I Tell You.mp3
-249:Cat Stevens - Best Of/11.Morning Has Broken.mp3
-250:Cat Stevens - Best Of/12.The First Cut Is The Deepest.mp3
-251:Celine Dion/I Drove All Night.mp3
-252:Celine Dion/Think Twice.mp3
-253:Celine Dion/Loved Me Back to Life.mp3
-254:Celine Dion/All By Myself.mp3
-255:Celine Dion/My Heart Will Go On.mp3
-256:Celine Dion/Pour que tu m' aimes encore.mp3
-257:Celine Dion/Beauty and the Beast.mp3
-258:Cher/Heart Of Stone [Live - The Farewell Tour].mp3
-259:Cher/Believe.m4a
-260:Cher/The Shoop Shoop Song (It's In His Kiss).m4a
-261:Cher/If I Could Turn Back Time.m4a
-262:Cher/Heart Of Stone.m4a
-263:Cher/Strong Enough.m4a
-264:Cher/All Or Nothing.m4a
-265:Cher/Dov'e L'Amore (Emilio Estefan Jnr. Mix).m4a
-266:Chicago/If You Leave Me Now.mp3
-267:Chicago - Best Of/101-Chicago-Make_Me_Smile_(New_Edit)-HHI.mp3
-268:Chicago - Best Of/102-Chicago-25_Or_6_To_4-HHI.mp3
-269:Chicago - Best Of/103-Chicago-Does_Anybody_Really_Know_What_Time_It_Is-HHI.mp3
-270:Chicago - Best Of/104-Chicago-Beginnings-HHI.mp3
-271:Chicago - Best Of/105-Chicago-Questions_67_And_68-HHI.mp3
-272:Chicago - Best Of/106-Chicago-Im_A_Man_(New_Edit)-HHI.mp3
-273:Chicago - Best Of/107-Chicago-Colour_My_World-HHI.mp3
-274:Chicago - Best Of/108-Chicago-Free-HHI.mp3
-275:Chicago - Best Of/109-Chicago-Lowdown-HHI.mp3
-276:Chicago - Best Of/110-Chicago-Saturday_In_The_Park-HHI.mp3
-277:Chicago - Best Of/111-Chicago-Dialogue_(Part_I_and_II)_(Single_Version)-HHI.mp3
-278:Chicago - Best Of/112-Chicago-Just_You_N_Me-HHI.mp3
-279:Chicago - Best Of/113-Chicago-Feelin_Stronger_Every_Day-HHI.mp3
-280:Chicago - Best Of/114-Chicago-(Ive_Been)_Searchin_So_Long-HHI.mp3
-281:Chicago - Best Of/115-Chicago-Wishing_You_Were_Here-HHI.mp3
-282:Chicago - Best Of/116-Chicago-Call_On_Me-HHI.mp3
-283:Chicago - Best Of/117-Chicago-Happy_Man_(Edit_Form_1981s_Greatest_Hits_Volume_II)-HHI.mp3
-284:Chicago - Best Of/118-Chicago-Another_Rainy_Day_In_New_York_City-HHI.mp3
-285:Chicago - Best Of/119-Chicago-If_You_Leave_Me_Now-HHI.mp3
-286:Chicago - Best Of/201-Chicago-Old_Days-HHI.mp3
-287:Chicago - Best Of/202-Chicago-Baby_What_A_Big_Surprise-HHI.mp3
-288:Chicago - Best Of/203-Chicago-Take_Me_Back_To_Chicago_(Single_Version)-HHI.mp3
-289:Chicago - Best Of/204-Chicago-Alive_Again-HHI.mp3
-290:Chicago - Best Of/205-Chicago-No_Tell_Lover-HHI.mp3
-291:Chicago - Best Of/206-Chicago-Love_Me_Tomorrow_(Single_Version)-HHI.mp3
-292:Chicago - Best Of/207-Chicago-Hard_To_Say_Im_Sorryget_Away-HHI.mp3
-293:Chicago - Best Of/208-Chicago-Stay_The_Night-HHI.mp3
-294:Chicago - Best Of/209-Chicago-Hard_Habit_To_Break-HHI.mp3
-295:Chicago - Best Of/210-Chicago-Youre_The_Inspiration-HHI.mp3
-296:Chicago - Best Of/211-Chicago-Along_Comes_A_Woman_(Single_Version)-HHI.mp3
-297:Chicago - Best Of/212-Chicago-Will_You_Still_Love_Me._(Single_Version)-HHI.mp3
-298:Chicago - Best Of/213-Chicago-If_She_Would_Have_Been_Faithful___-HHI.mp3
-299:Chicago - Best Of/214-Chicago-Look_Away_(Single_Version)-HHI.mp3
-300:Chicago - Best Of/215-Chicago-What_Kind_Of_Man_Would_I_Be._(Single_Version)-HHI.mp3
-301:Chicago - Best Of/216-Chicago-I_Dont_Wanna_Live_Without_Your_Love-HHI.mp3
-302:Chicago - Best Of/217-Chicago-We_Can_Last_Forever_(Single_Version)-HHI.mp3
-303:Chicago - Best Of/218-Chicago-Youre_Not_Alone_(Single_Version)-HHI.mp3
-304:Chicago - Best Of/219-Chicago-Chasin_The_Wind-HHI.mp3
-305:Chicago - Best Of/220-Chicago-Sing_Sing_Sing_(W_The_Gypsy_Kings)-HHI.mp3
-306:Chico Buarque_Elza Soares/Façamos (Vamos Amar).m4a
-307:Clã/Sopro do coração.mp3
-308:Cliff Richard/We Don't Talk Anymore.mp3
-309:Cock Robin/Just Around The Corner.mp3
-310:Collective Soul/Shine.mp3
-311:Compilations/Metal Ballads Vol. 2/02 Love Don't Lie.m4a
-312:Compilations/Metal Ballads Vol. 2/03 Soldier Of Fortune.m4a
-313:Compilations/Metal Ballads Vol. 2/04 Don't Wanna Be Your Fool.m4a
-314:Compilations/Metal Ballads Vol. 2/07 You Make Me Feel.m4a
-315:Compilations/Metal Ballads Vol. 2/09 What Love Can Be.m4a
-316:Compilations/Metal Ballads Vol. 2/10 Empty Rooms.m4a
-317:Compilations/Metal Ballads Vol. 2/12 You're All I Need.m4a
-318:Compilations/Metal Ballads Vol. 2/13 Dream On.m4a
-319:Compilations/Metal Ballads Vol. 2/14 When The Children Cry.m4a
-320:Compilations/Now 14/1-01 Because of You.m4a
-321:Compilations/Now 14/1-02 Talk.m4a
-322:Compilations/Now 14/1-03 First Day of My Life.m4a
-323:Compilations/Now 14/1-04 Sei-te de Cor.m4a
-324:Compilations/Now 14/1-06 Advertising Space.m4a
-325:Compilations/Now 14/1-07 I Belong to You.m4a
-326:Compilations/Now 14/1-09 Love Generation.m4a
-327:Compilations/Now 14/1-11 I Still.m4a
-328:Compilations/Now 14/1-13 A Dança.m4a
-329:Compilations/Now 14/1-16 Suddenly I See.m4a
-330:Compilations/Now 14/1-18 Problema de Expressão (ao vivo).m4a
-331:Compilations/Now 14/2-02 Check On It.m4a
-332:Compilations/Now 14/2-03 My Humps.m4a
-333:Compilations/Now 14/2-05 If It's Lovin'.m4a
-334:Compilations/Now 14/2-10 Suffer Well.m4a
-335:Compilations/Now 14/2-11 Number 1.m4a
-336:Compilations/Now 14/2-13 Stickwitu.m4a
-337:Compilations/Páginas Da Vida - Nacional/10 Se Quiser (Anytime).m4a
-338:Compilations/Páginas Da Vida - Nacional/12 Eu Sei.m4a
-339:Compilations/Páginas Da Vida - Nacional/16 Melodia (Da Ópera De Orfeu E Eurídice).m4a
-340:Compilations/Ricky Martin/01 Livin' La Vida Loca.m4a
-341:Compilations/Ricky Martin/03 She's All I Ever Had.m4a
-342:Compilations/Ricky Martin/04 Shake Your Bon-Bon.m4a
-343:Compilations/Ricky Martin/05 Be Careful (Cuidado Con Mi Corazon).m4a
-344:Compilations/Ricky Martin/07 Love You For A Day.m4a
-345:Compilations/The Best Of/04 Private Emotion.m4a
-346:Compilations/The Best Of/10 Come To Me.m4a
-347:The Corrs/Dreams.mp3
-348:The Cranberries/Linger.mp3
-349:The Cranberries/When You_re Gone.mp3
-350:Credence Clearwatter Revival/Have You Ever Seen The Rain.mp3
-351:Creed/With Arms Wide Open.mp3
-352:Daniel Potter/Track 09.m4a
-353:Daniela Mercury/Mutante.m4a
-354:David Gray/Babylon.mp3
-355:David Gray/Please Forgive Me.mp3
-356:David Gray/Sail Away.mp3
-357:David Gray/Say Hello Wave Goodbye.mp3
-358:David Gray/The One I Love.mp3
-359:David Gray/This Year's Love.mp3
-360:Deep Purple/Child in Time.mp3
-361:Deep Purple/Highway Star.mp3
-362:Deep Purple/Perfect Strangers.mp3
-363:Deep Purple/Smoke on the Water.mp3
-364:Deep Purple/Hush.mp3
-365:Deep Purple/Smoke On The Water.mp3
-366:Deep Purple/Soldier Of Fortune.mp3
-367:Deep Purple/Sweet Child In Time.MP3
-368:Def Leppard/Animal.mp3
-369:Def Leppard/Hysteria.mp3
-370:Def Leppard/Foolin.mp3
-371:Delicious/Supermodel.m4a
-372:Depeche Mode/ Just Can't Get Enough.mp3
-373:Depeche Mode/Enjoy The Silence.mp3
-374:Depeche Mode/It's No Good.mp3
-375:Depeche Mode/Personal jesus.mp3
-376:Depeche Mode/Policy Of Truth.mp3
-377:Depeche Mode/Precious.mp3
-378:Depeche Mode/Strangelove.mp3
-379:Dido/White Flag.mp3
-380:Dire Straits/Communiqué.mp3
-381:Dire Straits/Down To The Waterline.mp3
-382:Dire Straits/How Long.mp3
-383:Dire Straits/Lady Writer.mp3
-384:Dire Straits/Money For Nothing.mp3
-385:Dire Straits/News.mp3
-386:Dire Straits/Once Upon A Time In The West.mp3
-387:Dire Straits/Private Investigations.mp3
-388:Dire Straits/Setting Me Up.mp3
-389:Dire Straits/Sultans Of Swing   lyrics.mp3
-390:Dire Straits/Sultans Of Swing live.mp3
-391:Dire Straits/Telegraph Road.mp3
-392:Dire Straits/The Man's Too Strong.mp3
-393:Dire Straits/Tunnel of Love.mp3
-394:Dire Straits/Water Of Love.mp3
-395:Dire Straits/When It Comes To You.mp3
-396:Dire Straits/Where Do You Think You're Going.mp3
-397:Dire Straits/You And Your Friend.mp3
-398:Dire Straits/Your Latest Trick.mp3
-399:Dire Straits/Sultans of Swing.mp3
-400:Disturbed/Land Of Confusion.mp3
-401:Disturbed/The Light.mp3
-402:Disturbed/The Sound Of Silence.mp3
-403:Don Henley/All She Wants To Do Is Dance.m4a
-404:Doors/Hello, I Love You.mp3
-405:Doors/L.A. Woman (Orginal).mp3
-406:Doors/Light My Fire.mp3
-407:Doors/Love Her Madly.mp3
-408:Doors/Love Me Two Times.mp3
-409:Doors/People Are Strange.mp3
-410:Doors/Riders On The Storm.mp3
-411:Doors/Roadhouse Blues.mp3
-412:Doors/Touch Me.mp3
-413:Doug Supernaw & The Beach Boys/Long Tall Texan.m4a
-414:Duran Duran/Come Undone.mp3
-415:Duran Duran/Notorious.mp3
-416:Duran Duran/Ordinary World.mp3
-417:Eagles/Hotel California.mp3
-418:Eagles/Lying Eyes.mp3
-419:Eagles/Take It Easy.mp3
-420:Electric Light Orchestra - Best Of/CD 1/01. Turn to Stone.mp3
-421:Electric Light Orchestra - Best Of/CD 1/02. Evil Woman.mp3
-422:Electric Light Orchestra - Best Of/CD 1/03. Livin' Thing.mp3
-423:Electric Light Orchestra - Best Of/CD 1/04. Twilight.mp3
-424:Electric Light Orchestra - Best Of/CD 1/05. Telephone Line.mp3
-425:Electric Light Orchestra - Best Of/CD 1/06. Four Little Diamonds.mp3
-426:Electric Light Orchestra - Best Of/CD 1/07. Xanadu.mp3
-427:Electric Light Orchestra - Best Of/CD 1/08. Last Train to London.mp3
-428:Electric Light Orchestra - Best Of/CD 1/09. Strange Magic (7' Edit).mp3
-429:Electric Light Orchestra - Best Of/CD 1/10. Ma Ma Ma Belle (7' Edit).mp3
-430:Electric Light Orchestra - Best Of/CD 1/11. Confusion.mp3
-431:Electric Light Orchestra - Best Of/CD 1/12. Rock 'N' Roll is King.mp3
-432:Electric Light Orchestra - Best Of/CD 1/13. The Way Life's Meant to Be.mp3
-433:Electric Light Orchestra - Best Of/CD 1/14. Can't Get it Out of My Head (7' Edit).mp3
-434:Electric Light Orchestra - Best Of/CD 1/15. Secret Messages (Special Version From the LP).mp3
-435:Electric Light Orchestra - Best Of/CD 1/16. Calling America.mp3
-436:Electric Light Orchestra - Best Of/CD 1/17. Don't Walk Away.mp3
-437:Electric Light Orchestra - Best Of/CD 1/18. Don't Bring Me Down.mp3
-438:Electric Light Orchestra - Best Of/CD 1/19. Mr. Blue Sky.mp3
-439:Electric Light Orchestra - Best Of/CD 2/01. Sweet Talkin' Woman.mp3
-440:Electric Light Orchestra - Best Of/CD 2/02. I'm Alive.mp3
-441:Electric Light Orchestra - Best Of/CD 2/03. Shine a Little Love.mp3
-442:Electric Light Orchestra - Best Of/CD 2/04. Ticket to the Moon.mp3
-443:Electric Light Orchestra - Best Of/CD 2/05. Illusions in G Major.mp3
-444:Electric Light Orchestra - Best Of/CD 2/06. So Serious.mp3
-445:Electric Light Orchestra - Best Of/CD 2/07. Nightrider (7' Edit).mp3
-446:Electric Light Orchestra - Best Of/CD 2/08. All Over the World.mp3
-447:Electric Light Orchestra - Best Of/CD 2/09. Here is the News.mp3
-448:Electric Light Orchestra - Best Of/CD 2/10. The Diary of Horace Wimp.mp3
-449:Electric Light Orchestra - Best Of/CD 2/11. Across the Border (EP Version).mp3
-450:Electric Light Orchestra - Best Of/CD 2/12. Showdown.mp3
-451:Electric Light Orchestra - Best Of/CD 2/13. Hold on Tight.mp3
-452:Electric Light Orchestra - Best Of/CD 2/14. Wild West Hero.mp3
-453:Electric Light Orchestra - Best Of/CD 2/15. Do Ya.mp3
-454:Electric Light Orchestra - Best Of/CD 2/16. 10538 Overture (7' Edit).mp3
-455:Electric Light Orchestra - Best Of/CD 2/17. Getting to the Point.mp3
-456:Electric Light Orchestra - Best Of/CD 2/18. Rockaria!.mp3
-457:Electric Light Orchestra - Best Of/CD 2/19. Roll Over Beethoven (7' Edit).mp3
-458:Elton John/Candle In The Wind.m4a
-459:EMF/Unbelievable.m4a
-460:Enrique Iglesias/Rhythm Divine.mp3
-461:Enrique Iglesias/Ritmo Total (Rhythm Divine).m4a
-462:Enrique Iglesias/Be With You.m4a
-463:Enrique Iglesias/Bailamos.m4a
-464:Enrique Iglesias/You're My (Duet With Sandy & Junior).m4a
-465:Enrique Iglesias/Could I Have This Kiss Forever(Remix With Whitney Houston).m4a
-466:Eric Church/Kill A Word.mp3
-467:Excesso/Não Sei Viver Sem Ti.mp3
-468:Extreme/More Than Words.mp3
-469:Fausto/Atrás dos tempos outros tempos vêm.mp3
-470:Fausto/(10) Ao Longo de Um Claro Rio de Água Doce - Fausto Bordalo Dias.mp3
-471:Fergie/Track 05.m4a
-472:Fingertips/Track 06.m4a
-473:Five/Keep On Movin'.mp3
-474:Five Finger Death Punch/Wrong Side Of Heaven.mp3
-475:Fleetwood Mac/Dreams.mp3
-476:Fleetwood Mac/Go Your Own Way.mp3
-477:Florida Georgia Line/H.O.L.Y..mp3
-478:Foo Fighters/The Pretender.mp3
-479:Foreigner/Urgent.mp3
-480:Foreigner/Waiting for a Girl Like You.mp3
-481:Foreigner/Double Vision.mp3
-482:Foreigner/Feels Like The First Time.mp3
-483:Foreigner/That Was Yesterday.mp3
-484:Foreigner/Cold As Ice.mp3
-485:Foreigner/I Want to Know What Love Is.mp3
-486:Free/All Right Now.mp3
-487:Garbage/Push it.mp3
-488:Gary Barlow/Forever Love.mp3
-489:Gary Moore/I Love You More Than You'll Ever Know.mp3
-490:Gary Moore/Still Got The Blues.mp3
-491:Gary Moore/Story Of The Blues.m4a
-492:Gary Moore/Separate Ways.m4a
-493:Gary Moore/Still Got The Blues (For You).m4a
-494:Gary Moore/The Sky Is Crying.m4a
-495:Gary Moore/Parisienne Walkways.m4a
-496:Gary Moore/Jumping At Shadows.m4a
-497:George Michael/FastLove.mp3
-498:George Michael/Outside.mp3
-499:George Michael/Amazing.m4a
-500:George Michael/John And Elvis Are Dead.m4a
-501:George Michael/Flawless (Go To The City).m4a
-502:George Michael/Careless Whisper.mp3
-503:George Michael/Desafinado.mp3
-504:George Michael/Kissing a Fool.mp3
-505:Gerry Rafferty/Baker street.mp3
-506:Gerry Rafferty/Right Down the Line.mp3
-507:Gerry Rafferty/Stuck In The Middle With You.mp3
-508:Gloria Estefan/Reach.mp3
-509:GNR/Asas Electricas.mp3
-510:GNR/Bellevue.mp3
-511:GNR/Bem-Vindo ao Passado.mp3
-512:GNR/Mais Vale Nunca.mp3
-513:GNR/Morte ao Sol.mp3
-514:GNR/Popless.mp3
-515:GNR/Saliva.mp3
-516:GNR/Sexta-feira (Um seu criado).mp3
-517:GNR/Tirana.mp3
-518:GNR/Video Maria.mp3
-519:GNR/Sub 16.m4a
-520:GNR/Efectivamente.m4a
-521:GNR/Dunas.m4a
-522:GNR/Cais.m4a
-523:GNR/Asas.m4a
-524:GNR/Pronuncia do norte.m4a
-525:GNR/Mais vale nunca.m4a
-526:GNR/Ana Lee.m4a
-527:Harry Styles/Sign Of The Times.mp3
-528:Heart/Alone.mp3
-529:Heart/What About Love.mp3
-530:Heart/These Dreams.m4a
-531:INXS/Need You Tonight.m4a
-532:INXS/Mystify.m4a
-533:Irene Cara/Flash dance.m4a
-534:Jacobs Piano/1 HOUR RELAXING PIANO  Studying and Relaxation  Jacobs Piano.mp3
-535:Jennifer Lopez/Waiting  for tonight.mp3
-536:Jennifer Paige/Crush.mp3
-537:Joe Dassin/04.Les Champs-Elysees.mp3
-538:Joe Dassin/01.Et Si Tu N'Existais Pas.mp3
-539:Joe Dassin/10.Salut.mp3
-540:Joe Dassin/13.L'Ete Indien.mp3
-541:Jon Bon Jovi/Midnight in Chelsea.mp3
-542:Jon Secada/Just Another Day.mp3
-543:Jon Secada/Too Late Too Soon.mp3
-544:Justin Timberlake/Track 02.m4a
-545:Kansas/Dust In The Wind.mp3
-546:Keane/A Bad Dream.mp3
-547:Keane/Is It Any Wonder.mp3
-548:Keane/Nothing In My Way.mp3
-549:Keane/Somewhere Only We Know.m4a
-550:Keane/This Is the Last Time.m4a
-551:Keane/Bend And Break.m4a
-552:Keane/We Might As Well Be Strangers.m4a
-553:Keane/Everybody's Changing.m4a
-554:Keane/Your Eyes Open.m4a
-555:Keane/She Has No Time.m4a
-556:Keane/Can't Stop Now.m4a
-557:Keane/Sunshine.m4a
-558:Keane/Untitled 1.m4a
-559:Keane/Bedshaped.m4a
-560:Keith Urban/Blue Ain't Your Color.mp3
-561:Keith Urban/Somebody Like You.mp3
-562:Keith Urban/The Fighter_Ft Carrie Underwood.mp3
-563:Keith Urban/Wasted Time.mp3
-564:Korn/Get Up.mp3
-565:Kylie Minogue/More, More, More.m4a
-566:Kylie Minogue/Love At First Sight.m4a
-567:Kylie Minogue/Can't Get You Out Of My Head.m4a
-568:Kylie Minogue/Fever.m4a
-569:Kylie Minogue/In Your Eyes.m4a
-570:Laura Pausini/Per te.m4a
-571:LeAnn Rimes/Can't Fight The Moonlight.m4a
-572:LeAnn Rimes/Please Remember.m4a
-573:LeAnn Rimes/The Right Kind Of Wrong.m4a
-574:LeAnn Rimes/But I Do Love You.m4a
-575:LeAnn Rimes/Life Goes On.m4a
-576:LeAnn Rimes/How Do I Live.m4a
-577:LeAnn Rimes/Last Thing On My Mind.m4a
-578:LeAnn Rimes/Crazy.m4a
-579:LeAnn Rimes/Blue.m4a
-580:LeAnn Rimes/17 You Light Up My Life.m4a
-581:LeAnn Rimes/19 How Do I Live (Mig Dance Radio Edit).m4a
-582:LeAnn Rimes/20 Can't Fight The Moonlight (Latino Mix).m4a
-583:Led Zepplin/Black Dog & Rock and Roll.mp3
-584:Led Zepplin/Immigrant Song.mp3
-585:Led Zepplin/Kashmir.mp3
-586:Led Zepplin/Stairway To Heaven.mp3
-587:Lenny Kravitz/Fly away.mp3
-588:Lenny Kravitz/I Belong To You.mp3
-589:Lenny Kravitz/Stillness of Heart.mp3
-590:Leonard/When Susana Cryes.mp3
-591:Lighthouse Family/High.m4a
-592:Lionel Richie/Hello.m4a
-593:Lita Ford/Close My eyes Forever.mp3
-594:Little Richard/Tutti Frutti.m4a
-595:Lynyrd Skynyrd/Free bird.mp3
-596:Madonna/Hung up.m4a
-597:Madonna/Forbiden love.m4a
-598:Madonna/Ray of light.mp3
-599:Madonna/The Beast Within.m4a
-600:Madonna/Vogue.m4a
-601:Madonna/Nobody Knows Me.m4a
-602:Madonna/American Life.m4a
-603:Madonna/Hollywood (Remix).m4a
-604:Madonna/Die Another Day.m4a
-605:Madonna/Lament.m4a
-606:Madonna/Like A Prayer.m4a
-607:Madonna/Mother And Father.m4a
-608:Madonna/Imagine.m4a
-609:Madonna/Susan MacLeod _ Into The Groove.m4a
-610:Madonna/Music.m4a
-611:Madonna/Holiday.m4a
-612:Madonna/I Love New York.m4a
-613:Madonna/Frozen.m4a
-614:Madredeus/A Vaca De Fogo.mp3
-615:Madredeus/Ao longe o mar.mp3
-616:Madredeus/Haja O Que Houver.mp3
-617:Madredeus/O Pastor.mp3
-618:Madredeus/Vem (Além Da Solidão).mp3
-619:Marcia/A Insatisfação.mp3
-620:Marcia/A Pele Que Há Em Mim.mp3
-621:Marcia/Cabra-Cega.mp3
-622:Marcia/Deixa Ser.mp3
-623:Marcia/Eu Seguro.mp3
-624:Maria Rita/A Festa.m4a
-625:Maria Rita/Veja Bem Meu Beu.m4a
-626:Marisa Monte/A Sua.m4a
-627:Mariza/Já Me Deixou.mp3
-628:Mariza/Minh' alma.mp3
-629:Mariza/Rosa Branca.mp3
-630:Mariza/Recurso.mp3
-631:Mariza/Beijo De Saudade.mp3
-632:Mariza/Vozes Do Mar.mp3
-633:Mariza/Fronteira.mp3
-634:Mariza/Alfama.mp3
-635:Mariza/Tasco Da Mouraria.mp3
-636:Mariza/Mariza - Alma de vento.mp3
-637:Mariza/Mariza - Se eu mandasse nas palavras.mp3
-638:Mariza/As Guitarras.mp3
-639:Mariza/Pequenas Verdades.mp3
-640:Mariza/Morada Aberta.mp3
-641:Metallica/Nothing Else Matters.mp3
-642:Michael Jackson/ In The Closet.mp3
-643:Michael Jackson/Beat It.mp3
-644:Michael Jackson/Billie Jean.mp3
-645:Michael Jackson/Don't Stop 'Til You Get Enough.mp3
-646:Michael Jackson/Michael Jackson - Rock With You.mp3
-647:Michael Jackson/One Day In Your Life.mp3
-648:Michael Jackson/Smooth Criminal.mp3
-649:Michael Jackson/Wanna Be Startin' Somethin'.mp3
-650:Midnight Oil/Beds Are Burning.mp3
-651:Miguel Ângelo/Só Eu Te Posso Ajudar.mp3
-652:Mika/Track 07.m4a
-653:Mike And The Mechanics/Now That You've Gone.mp3
-654:Mike Oldfield/Moonlight Shadow.mp3
-655:Mozart Violin Concertos/1-01 Mozart_ Violin Concerto #3 In G, K 216 - 1. Allegro.m4a
-656:Mozart Violin Concertos/1-02 Mozart_ Violin Concerto #3 In G, K 216 - 2. Adagio.m4a
-657:Mozart Violin Concertos/1-03 Mozart_ Violin Concerto #3 In G, K 216 - 3. Rondeau_ Allegro.m4a
-658:Mozart Violin Concertos/1-04 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 1. Allegro Aperto.m4a
-659:Mozart Violin Concertos/1-05 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 2. Adagio.m4a
-660:Mozart Violin Concertos/1-06 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 3. Rondeau_ Tempo Di Menuetto.m4a
-661:Natalie Imbruglia/Torn.mp3
-662:Neil Diamond - Best Of/01 - Solitary Man.mp3
-663:Neil Diamond - Best Of/02 - Cherry, Cherry.mp3
-664:Neil Diamond - Best Of/03 - I've Got The Feeling (Oh No No).mp3
-665:Neil Diamond - Best Of/04 - You Got To Me.mp3
-666:Neil Diamond - Best Of/05 - Girl, You'll Be A Woman Soon.mp3
-667:Neil Diamond - Best Of/06 - I'm A Believer.mp3
-668:Neil Diamond - Best Of/07 - Thank The Lord For The Night Time.mp3
-669:Neil Diamond - Best Of/08 - Red, Red Wine.mp3
-670:Neil Diamond - Best Of/09 - Sunday Sun.mp3
-671:Neil Diamond - Best Of/10 - Shilo.mp3
-672:Neil Diamond - Best Of/11 - Kentucky Woman.mp3
-673:Neil Diamond - Best Of/12 - Brooklyn Roads.mp3
-674:Neil Diamond - Best Of/13 - Glory Road.mp3
-675:Neil Diamond - Best Of/14 - Holly Holy.mp3
-676:Neil Diamond - Best Of/15 - And The Grass Won't Pay No Mind.mp3
-677:Neil Diamond - Best Of/16 - Sweet Caroline.mp3
-678:Neil Diamond - Best Of/17 - Brother Love's Traveling Salvation Show.mp3
-679:Neil Diamond - Best Of/18 - Done Too Soon.mp3
-680:Neil Diamond - Best Of/19 - Soolaimon.mp3
-681:Neil Diamond - Best Of/20 - Cracklin' Rosie.mp3
-682:Neil Diamond - Best Of/21 - Crunchy Granola Suite.mp3
-683:Neil Diamond - Best Of/22 - I Am...I Said.mp3
-684:Neil Diamond - Best Of/23 - Stones.mp3
-685:Neil Diamond - Best Of/24 - Morningside.mp3
-686:Neil Diamond - Best Of/25 - Song Sung Blue.mp3
-687:Neil Diamond - Best Of/26 - Play Me.mp3
-688:Neil Diamond - Best Of/27 - Be (Recapitulation And Farewell To Fletcher).mp3
-689:Neil Diamond - Best Of/28 - Skybird.mp3
-690:Neil Diamond - Best Of/29 - Lonely Looking Sky.mp3
-691:Neil Diamond - Best Of/30 - I've Been This Way Before.mp3
-692:Neil Diamond - Best Of/31 - Longfellow Serenade.mp3
-693:Neil Diamond - Best Of/32 - Beautiful Noise.mp3
-694:Neil Diamond - Best Of/33 - Street Life.mp3
-695:Neil Diamond - Best Of/34 - If You Know What I Mean.mp3
-696:Neil Diamond - Best Of/35 - Desiree.mp3
-697:Neil Diamond - Best Of/36 - You Don't Bring Me Flowers.mp3
-698:Neil Diamond - Best Of/37 - Forever In Blue Jeans.mp3
-699:Neil Diamond - Best Of/38 - September Morn.mp3
-700:Neil Diamond - Best Of/39 - The Story Of My Life.mp3
-701:Neil Diamond - Best Of/40 - Yesterday's Songs.mp3
-702:Neil Diamond - Best Of/41 - I Believe In Happy Endings.mp3
-703:Neil Diamond - Best Of/42 - Hello Again.mp3
-704:Neil Diamond - Best Of/43 - Love On The Rocks (From The Jazz Singer Soundtrack).mp3
-705:Neil Diamond - Best Of/44 - Heartlight.mp3
-706:Neil Diamond - Best Of/45 - Lady-Oh.mp3
-707:Neil Diamond - Best Of/46 - Pretty Amazing Grace.mp3
-708:Neil Diamond - Best Of/47 - Hell Yeah.mp3
-709:Neil Diamond - Best Of/48 - We.mp3
-710:Neil Diamond - Best Of/49 - The Art Of Love.mp3
-711:Neil Diamond - Best Of/50 - America (From The Jazz Singer Soundtrack).mp3
-712:Neil Young/Harvest Moon.mp3
-713:Neil Young/Heart of Gold.mp3
-714:Nelly Furtado/Track 01.m4a
-715:Nelly Furtado/Turn of the Light.m4a
-716:New Radicals/You Get What You Give.mp3
-717:Nickelback/Sharp Dressed Man 2007 Live.mp3
-718:Nickelback/Animals.mp3
-719:Nickelback/Far Away.mp3
-720:Nickelback/Photograph.mp3
-721:Nickelback/Rockstar.mp3
-722:Nickelback/Burn It To The Ground.mp3
-723:Nickelback/Bottoms Up.mp3
-724:Nickelback/This Means War.mp3
-725:Nickelback/What Are You Waiting For.mp3
-726:Nickelback/ Never Again .mp3
-727:Nickelback/How You Remind Me.mp3
-728:Nirvana/Smells Like Teen Spirit.mp3
-729:No Doubt/It's My Life.mp3
-730:Oasis/Wonderwall.mp3
-731:Olivia Newton John/Hopelessly Devoted To You.mp3
-732:Orlando Morais/Na Paz.m4a
-733:Passenger/Let Her Go.mp3
-734:Paul Young/Everytime You Go Away.mp3
-735:Paulo Gonzo/Dei-te Quase Tudo.mp3
-736:Paulo Gonzo/Espelho (De Outra Agua).mp3
-737:Paulo Gonzo/Jardins Proibidos.mp3
-738:Paulo Gonzo/Leve Beijo Triste.mp3
-739:Paulo Gonzo/Quem De Nós Dois.mp3
-740:Paulo Gonzo/Sei-te De Cor.mp3
-741:Peter Frampton/Baby, I Love Your Way.mp3
-742:Peter Frampton/Do You Feel Like I Do_.mp3
-743:Peter Frampton/Show Me The Way.mp3
-744:Phill Collins/A Groovy Kind Of Love.mp3
-745:Phill Collins/Against All Odds.mp3
-746:Phill Collins/Another Day In Paradise.mp3
-747:Phill Collins/Don't Let Him Steal Your Heart Away.mp3
-748:Pink Floyd - Best Of/103-pink_floyd-the_happiest_days_of_our_lives.mp3
-749:Pink Floyd - Best Of/104-pink_floyd-another_brick_in_the_wall_(part_2).mp3
-750:Pink Floyd - Best Of/106-pink_floyd-hey_you.mp3
-751:Pink Floyd - Best Of/108-pink_floyd-the_great_gig_in_the_sky.mp3
-752:Pink Floyd - Best Of/110-pink_floyd-money.mp3
-753:Pink Floyd - Best Of/201-pink_floyd-shine_on_you_crazy_diamond_(parts_1-7).mp3
-754:Pink Floyd - Best Of/202-pink_floyd-time.mp3
-755:Pink Floyd - Best Of/204-pink_floyd-comfortably_numb.mp3
-756:Pink Floyd - Best Of/207-pink_floyd-us_and_them.mp3
-757:Pink Floyd - Best Of/208-pink_floyd-learning_to_fly.mp3
-758:Pink Floyd - Best Of/210-pink_floyd-wish_you_were_here.mp3
-759:Pretenders/Brass In Pocket.mp3
-760:Pretenders/I'll Stand By You.mp3
-761:Prince/Kiss.mp3
-762:Prince/Diamonds And Pearls.m4a
-763:Prince/Cream.m4a
-764:Prince/Strollin'.m4a
-765:Prince/Money Don't Matter 2 Night.m4a
-766:Pussycat Dolls/Don't cha.m4a
-767:Queen/Bohemian Rhapsody.m4a
-768:Queen/Another One Bites The Dust.m4a
-769:Queen/Bicycle Race.m4a
-770:Queen/You're My Best Friend.m4a
-771:Queen/Don't Stop Me Now.m4a
-772:Queen/Crazy Little Thing Called Love.m4a
-773:Queen/Somebody To Love.m4a
-774:Queen/We Will Rock You 1.m4a
-775:Queen/We Are The Champions.m4a
-776:Queen/A Kind Of Magic.m4a
-777:Queen/Under Pressure.m4a
-778:Queen/Radio GA GA.m4a
-779:Queen/I Want It All.m4a
-780:Queen/I Want To Break Free.m4a
-781:Queen/It's A Hard Life.m4a
-782:Queen/Who Wants To Live Forever.m4a
-783:Queen/The Show Must Go On.m4a
-784:Queen/One Vision.m4a
-785:Quinta do Bill/Se Te Amo.mp3
-786:Quinta do Bill/Voa.mp3
-787:R. Kelly/I Believe I Can Fly.mp3
-788:Radio Macau/Amanhã é sempre longe demais.mp3
-789:Radio Macau/Cantiga de Amor.mp3
-790:Radio Macau/Manual De Sobrevivência.mp3
-791:Radio Macau/O anzol.mp3
-792:Rainbow/All Night Long.mp3
-793:Rainbow/Can't Let You Go.mp3
-794:Rainbow/I Surrender.mp3
-795:Rainbow/Since You've Been Gone.mp3
-796:Rainbow/Street Of Dreams.mp3
-797:Rare Blend/Boom Boom Boom.m4a
-798:Ray LaMontagne/01 You Are the Best Thing.m4a
-799:Ray LaMontagne/02 Let It Be Me.m4a
-800:Ray LaMontagne/03 Sarah.m4a
-801:Ray LaMontagne/04 I Still Care for You.m4a
-802:Ray LaMontagne/05 Winter Birds.m4a
-803:Ray LaMontagne/06 Meg White.m4a
-804:Ray LaMontagne/07 Hey Me, Hey M__a.m4a
-805:Ray LaMontagne/08 Henry Nearly Killed Me (It's a Shame).m4a
-806:Ray LaMontagne/09 A Falling Through.m4a
-807:Ray LaMontagne/10 Gossip In the Grain.m4a
-808:Richard Marx/Right Here Waiting.mp3
-809:Ricky Martin/She's All I Ever Had.mp3
-810:Ricky Martin/I don't care.m4a
-811:Ricky Martin/Jaleo.m4a
-812:Ricky Martin/La Copa De La Vida.m4a
-813:Ricky Martin/Fuego de Noche, Nieve de Dia.mp3
-814:Ricky Van Shelton & The Beach Boys/Fun, Fun, Fun.m4a
-815:Rihana/Umbrella.m4a
-816:Rihana/Push Up On Me.m4a
-817:Rihana/Don't Stop The Music.m4a
-818:Rihana/Shut Up And Drive.m4a
-819:Robbie Williams/millenium.mp3
-820:Robbie Williams/She's the One.mp3
-821:Robbie Williams/Angels.mp3
-822:Ronan Keating/Life Is A Rollercoaster.mp3
-823:Ronan Keating/when you say nothing at all.mp3
-824:Ronnie James Dio/Dream On.mp3
-825:Ronnie James Dio/Holy Diver.mp3
-826:Ronnie James Dio/Rainbow In The Dark.mp3
-827:Ronnie James Dio/The Last In Line.mp3
-828:Rosana/El Talismán.m4a
-829:Rosana/A Fuego Lento.m4a
-830:Rosana/Si Tú No Estás.m4a
-831:Rosana/Bebes De Mí.m4a
-832:Rosana/Sin Miedo.m4a
-833:Rosana/Deray.m4a
-834:Roxxette/Vulnerable.mp3
-835:Sade/By Your Side.mp3
-836:Sade/Your Love Is King.mp3
-837:Sam Hunt/Take your Time.mp3
-838:Sarah/Time to Say Goodbye.mp3
-839:Savage Garden/I Knew I Love You.mp3
-840:Savage Garden/To The Moon & Back.mp3
-841:Sawyer Brown & The Beach Boys/05 I Get Around.m4a
-842:Saxon/Ride Like The Wind.mp3
-843:Saxon/Back on the Streets.mp3
-844:Scorpions/No One Like You.mp3
-845:Scorpions/Rock You Like A Hurricane.mp3
-846:Scorpions/Allways Somewhere.mp3
-847:Scorpions/Holiday.mp3
-848:Scorpions/Send Me An Angel.mp3
-849:Scorpions/When The Smoke Is Going Down.mp3
-850:Scorpions/Wind Of Change.mp3
-851:Scorpions/You And I.mp3
-852:Scorpions/Still Loving You.m4a
-853:Scorpions/When The Smoke Is Going Down.m4a
-854:Scorpions/Always Somewhere.m4a
-855:Scorpions/Lady Starlight.m4a
-856:Scorpions/Holiday.m4a
-857:Seal/Kiss From A Rose.m4a
-858:Seu Jorge - Best Of/01 Burguesinha.mp3
-859:Seu Jorge - Best Of/02 Mina Do Condomínio.mp3
-860:Seu Jorge - Best Of/03 Tive Razão (ao vivo).mp3
-861:Seu Jorge - Best Of/04 Carolina (ao vivo).mp3
-862:Seu Jorge - Best Of/05 País Tropical (ao vivo).mp3
-863:Seu Jorge - Best Of/06 São Gonça (ao vivo).mp3
-864:Seu Jorge - Best Of/07 É Isso Aí (acústico).mp3
-865:Seu Jorge - Best Of/08 Zé Do Caroço (ao vivo).mp3
-866:Seu Jorge - Best Of/09 Eu Sou O Samba.mp3
-867:Seu Jorge - Best Of/10 Pessoal Particular.mp3
-868:Seu Jorge - Best Of/11 Seu Olhar.mp3
-869:Seu Jorge - Best Of/12 Me Deixa Em Paz.mp3
-870:Seu Jorge - Best Of/13 Pode Acreditar (Meu Laiá Laiá).mp3
-871:Seu Jorge - Best Of/14 Cotidiano.mp3
-872:Seu Jorge - Musicas para Churrasco/CD1/01. Dia de Comemorar.mp3
-873:Seu Jorge - Musicas para Churrasco/CD1/02. Mina do Condominio.mp3
-874:Seu Jorge - Musicas para Churrasco/CD1/03. Chega no Swingue.mp3
-875:Seu Jorge - Musicas para Churrasco/CD1/04. Pessoal Particular.mp3
-876:Seu Jorge - Musicas para Churrasco/CD1/05. A Doida.mp3
-877:Seu Jorge - Musicas para Churrasco/CD1/06. Vizinha.mp3
-878:Seu Jorge - Musicas para Churrasco/CD1/07. Eu sou o Samba.mp3
-879:Seu Jorge - Musicas para Churrasco/CD1/08. Meu Parceiro.mp3
-880:Seu Jorge - Musicas para Churrasco/CD1/09. Lua de Ogum.mp3
-881:Seu Jorge - Musicas para Churrasco/CD1/10. Judia de Mim.mp3
-882:Seu Jorge - Musicas para Churrasco/CD1/11. Hei de Guardar teu Nome , Vou lhe deixar no Sereno , Quem Sorriu foi a Patroa , Bagaco da Laranja.mp3
-883:Seu Jorge - Musicas para Churrasco/CD1/12. Deixa a Vida me Levar.mp3
-884:Seu Jorge - Musicas para Churrasco/CD1/13. Sao Gonca.mp3
-885:Seu Jorge - Musicas para Churrasco/CD1/14. Desde que o Samba e Samba.mp3
-886:Seu Jorge - Musicas para Churrasco/CD1/15. Dois Beijinhos.mp3
-887:Seu Jorge - Musicas para Churrasco/CD2/01. Quem nao quer sou Eu.mp3
-888:Seu Jorge - Musicas para Churrasco/CD2/02. Carolina.mp3
-889:Seu Jorge - Musicas para Churrasco/CD2/03. Preto do Beco.mp3
-890:Seu Jorge - Musicas para Churrasco/CD2/04. Ze do Caroco.mp3
-891:Seu Jorge - Musicas para Churrasco/CD2/05. Diario de um Detento.mp3
-892:Seu Jorge - Musicas para Churrasco/CD2/06. Negro Drama.mp3
-893:Seu Jorge - Musicas para Churrasco/CD2/07. Olhos Coloridos.mp3
-894:Seu Jorge - Musicas para Churrasco/CD2/08. Mangueira.mp3
-895:Seu Jorge - Musicas para Churrasco/CD2/09. Tive Razao.mp3
-896:Seu Jorge - Musicas para Churrasco/CD2/10. Burguesinha.mp3
-897:Seu Jorge - Musicas para Churrasco/CD2/11. Ilarie.mp3
-898:Seu Jorge - Musicas para Churrasco/CD2/12. Sossego.mp3
-899:Shadows/Theme from the deer Hunter (Cavatina).mp3
-900:Shakira/La tortura.m4a
-901:Shakira/Don't bother.m4a
-902:Shania Twain/Man! I Feel Like A Woman!.m4a
-903:Shania Twain/I'm Holdin' On To Love (To Save My Life).m4a
-904:Shania Twain/Love Gets Me Every Time.m4a
-905:Shania Twain/Don't Be Stupid (You Know I Love You).m4a
-906:Shania Twain/You're Still The One.m4a
-907:Shania Twain/That Don't Impress Me Much.m4a
-908:Shania Twain/Whose Bed Have Your Boots Been Under.m4a
-909:Shania Twain/No One Needs To Know.m4a
-910:Sheryl Crow/Run Baby Run.m4a
-911:Sia/Academia.mp3
-912:Sia/Big Girls Cry.mp3
-913:Sia/Day Too Soon.mp3
-914:Sia/Distractions.mp3
-915:Sia/Electric Bird.mp3
-916:Sia/Lentil.mp3
-917:Sia/Little Black Sandals.mp3
-918:Sia/Soon We'll Be Found.mp3
-919:Sia/The Girl You Lost to Cocaine.mp3
-920:Simon & Garfunkel/The Sound of Silence (Original Version from 1964).mp3
-921:Simone/Muito Estranho (Cuida Bem de Mim).m4a
-922:Simply Red/Sunrise.mp3
-923:Simply Red/You Make Me Feel Brand New.mp3
-924:Simply Red/Something Got Me Started.m4a
-925:Simply Red/Stars.m4a
-926:Simply Red/For Your Babies.m4a
-927:Sisters Sledge/Family.m4a
-928:Sixpence None The Richer/Kiss Me.mp3
-929:Skrillex/Equinox (First Of The Year) (Drum Cover).mp3
-930:Snap!/The Power.m4a
-931:Soundgarden/Black Hole Sun.mp3
-932:Spice Girls/Stop.m4a
-933:Steel Dragon/We All Die Young.mp3
-934:Sting/When We Dance.m4a
-935:Sting/Fields Of Gold.m4a
-936:Sting/Englishman In New York.m4a
-937:Sting/If I Ever Lose My Faith In You.m4a
-938:Sting/Fragile.m4a
-939:Sting/Fragilidad.mp3
-940:Stravinsky - The Rite Of Spring, Firebird Suite/01 Stravinsky_ The Rite Of Spring - Part 1_ Introduction.m4a
-941:Stravinsky - The Rite Of Spring, Firebird Suite/02 Stravinsky_ The Rite Of Spring - Part 1_ Harbingers Of Spring.m4a
-942:Stravinsky - The Rite Of Spring, Firebird Suite/03 Stravinsky_ The Rite Of Spring - Part 1_ Mock Abduction.m4a
-943:Stravinsky - The Rite Of Spring, Firebird Suite/04 Stravinsky_ The Rite Of Spring - Part 1_ Spring Rounds.m4a
-944:Stravinsky - The Rite Of Spring, Firebird Suite/05 Stravinsky_ The Rite Of Spring - Part 1_ Games Of The Rival Tribes.m4a
-945:Stravinsky - The Rite Of Spring, Firebird Suite/06 Stravinsky_ The Rite Of Spring - Part 1_ Procession Of The Wise Elder.m4a
-946:Stravinsky - The Rite Of Spring, Firebird Suite/07 Stravinsky_ The Rite Of Spring - Part 1_ Adoration Of The Earth.m4a
-947:Stravinsky - The Rite Of Spring, Firebird Suite/08 Stravinsky_ The Rite Of Spring - Part 1_ Dance Of The Earth.m4a
-948:Stravinsky - The Rite Of Spring, Firebird Suite/09 Stravinsky_ The Rite Of Spring - Part 2_ Introduction.m4a
-949:Stravinsky - The Rite Of Spring, Firebird Suite/10 Stravinsky_ The Rite Of Spring - Part 2_ Mystic Circles Of The Young Girls.m4a
-950:Stravinsky - The Rite Of Spring, Firebird Suite/11 Stravinsky_ The Rite Of Spring - Part 2_ Glorification Of The Chosen One.m4a
-951:Stravinsky - The Rite Of Spring, Firebird Suite/12 Stravinsky_ The Rite Of Spring - Part 2_ Summoning Of The Ancients.m4a
-952:Stravinsky - The Rite Of Spring, Firebird Suite/13 Stravinsky_ The Rite Of Spring - Part 2_ Ritual Of The Ancients.m4a
-953:Stravinsky - The Rite Of Spring, Firebird Suite/14 Stravinsky_ The Rite Of Spring - Part 2_ Sacrificial Dance.m4a
-954:Stravinsky - The Rite Of Spring, Firebird Suite/15 Stravinsky_ The Firebird - Introduction.m4a
-955:Stravinsky - The Rite Of Spring, Firebird Suite/16 Stravinsky_ The Firebird - The Firebird & His Dance.m4a
-956:Stravinsky - The Rite Of Spring, Firebird Suite/17 Stravinsky_ The Firebird - Variation Of The Firebird.m4a
-957:Stravinsky - The Rite Of Spring, Firebird Suite/18 Stravinsky_ The Firebird - The Round Of The Princesses.m4a
-958:Stravinsky - The Rite Of Spring, Firebird Suite/19 Stravinsky_ The Firebird - Infernal Dance Of King Kastchei.m4a
-959:Stravinsky - The Rite Of Spring, Firebird Suite/20 Stravinsky_ The Firebird - Berceuse.m4a
-960:Stravinsky - The Rite Of Spring, Firebird Suite/21 Stravinsky_ The Firebird - Finale.m4a
-961:Supertramp/School.m4a
-962:Supertramp/Goodbye Stranger.m4a
-963:Supertramp/The Logical Song.m4a
-964:Supertramp/Bloody Well Right.m4a
-965:Supertramp/Breakfast In America.m4a
-966:Supertramp/Rudy.m4a
-967:Supertramp/Take The Long Way Home.m4a
-968:Supertramp/Crime Of The Century.m4a
-969:Supertramp/Dreamer.m4a
-970:Supertramp/Ain't Nobody But Me.m4a
-971:Supertramp/Hide In Your Shell.m4a
-972:Supertramp/From Now On.m4a
-973:Supertramp/Give A Little Bit.m4a
-974:Supertramp/It's Raining Again.m4a
-975:Supertramp/Cannonball.m4a
-976:Supertramp/Lady.m4a
-977:Supertramp/Oh Darling.m4a
-978:Supertramp/Even In The Quietest Moment.m4a
-979:Supertramp/Waiting So Long.m4a
-980:Supertramp/Babaji.m4a
-981:Supertramp/Gone Hollywood.m4a
-982:Supertramp/If Everyone Was Listening.m4a
-983:Supertramp/Just Another Nervous Wreck.m4a
-984:Supertramp/Don't Leave Me Now.m4a
-985:Supertramp/My Kind Of Lady.m4a
-986:Supertramp/A Soapbox Opera.m4a
-987:Supertramp/Downstream.m4a
-988:Supertramp/Fool's Overture.m4a
-989:System Of A Down/Lonely Day.mp3
-990:System Of A Down/B.Y.O.B.mp3
-991:System Of A Down/Aerials.mp3
-992:System Of A Down/Chop Suey!.mp3
-993:System Of A Down/Toxicity.mp3
-994:Talk Talk/It´s My Life.mp3
-995:Talk Talk/Such A Shame.mp3
-996:Talk Talk/Talk Talk.m4a
-997:Thomas Rhett/It Goes Like This.mp3
-998:Three Days Grace/I Hate Everything About You.mp3
-999:Tiago Bettencourt/Caminho De Voltar.mp3
-1000:Tiago Bettencourt/Fúria e Paz.mp3
-1001:Tiago Bettencourt/Maria.mp3
-1002:Tiago Bettencourt/Partimos a Pedra.mp3
-1003:Tiago Bettencourt/Sara.mp3
-1004:Tiago Bettencourt/Se Me Deixasses Ser.mp3
-1005:Tiago Bettencourt/Sol de Março.mp3
-1006:Timothy B. Schmit & The Beach Boys/Caroline, No.m4a
-1007:Tina Turner/The Best.m4a
-1008:Tina Turner/What's Love Got To Do With It.m4a
-1009:Tina Turner/I Can't Stand The Rain.m4a
-1010:Tina Turner/I Don't Wanna Lose You.m4a
-1011:Tina Turner/Let's Stay Together.m4a
-1012:Tina Turner/Private Dancer.m4a
-1013:Tina Turner/We Don't Need Another Hero.m4a
-1014:Tina Turner/Typical Male.m4a
-1015:Tina Turner/Way Of The World.m4a
-1016:Titãs/Epitáfio.m4a
-1017:Toranja/Carta.mp3
-1018:Toranja/Laços.mp3
-1019:Toranja/Quebramos os Dois.mp3
-1020:Train/Drops Of Jupiter.mp3
-1021:Tres Tristes Tigres/O mundo a meus pés.mp3
-1022:Trovante/125 Azul.mp3
-1023:Trovante/Balada das Sete Saias.mp3
-1024:Trovante/Fizeram os Dias Assim.mp3
-1025:Trovante/Um Caso Mais.mp3
-1026:U2/Magnificent.mp3
-1027:U2/Mysterious Ways.mp3
-1028:UB40/Kingston Town.m4a
-1029:Van Halen/Ain't Talkin' 'Bout Love.mp3
-1030:Van Halen/Dreams.mp3
-1031:Van Halen/Eruption_You Really Got Me.mp3
-1032:Van Halen/Panama.mp3
-1033:Van Halen/When Its Love.mp3
-1034:Van Halen/Eruption.mp3
-1035:Van Halen/Jump.mp3
-1036:Van Halen/Love Walks In.mp3
-1037:Van Halen/Why Cant This Be Love.mp3
-1038:Van Halen - The Very Best Of Van Halen (2015)/cd1/01 - Eruption (2015 Remastered).mp3
-1039:Van Halen - The Very Best Of Van Halen (2015)/cd1/02 - It's About Time.mp3
-1040:Van Halen - The Very Best Of Van Halen (2015)/cd1/03 - Up For Breakfast.mp3
-1041:Van Halen - The Very Best Of Van Halen (2015)/cd1/04 - Learning To See.mp3
-1042:Van Halen - The Very Best Of Van Halen (2015)/cd1/05 - Ain't Talkin' 'Bout Love (2015 Remastered).mp3
-1043:Van Halen - The Very Best Of Van Halen (2015)/cd1/06 - Finish What Ya Started (Remastered Album Version).mp3
-1044:Van Halen - The Very Best Of Van Halen (2015)/cd1/07 - You Really Got Me (2015 Remastered).mp3
-1045:Van Halen - The Very Best Of Van Halen (2015)/cd1/08 - Dreams (Remastered Version).mp3
-1046:Van Halen - The Very Best Of Van Halen (2015)/cd1/09 - Hot For Teacher (2015 Remastered).mp3
-1047:Van Halen - The Very Best Of Van Halen (2015)/cd1/10 - Poundcake (Remastered Album Version).mp3
-1048:Van Halen - The Very Best Of Van Halen (2015)/cd1/11 - And The Cradle Will Rock...(2015 Remastered).mp3
-1049:Van Halen - The Very Best Of Van Halen (2015)/cd1/12 - Black And Blue (Remastered Album Version).mp3
-1050:Van Halen - The Very Best Of Van Halen (2015)/cd1/13 - Jump (2015 Remastered).mp3
-1051:Van Halen - The Very Best Of Van Halen (2015)/cd1/14 - Top Of The World (Remastered Album Version).mp3
-1052:Van Halen - The Very Best Of Van Halen (2015)/cd1/15 - (Oh) Pretty Woman (2015 Remastered).mp3
-1053:Van Halen - The Very Best Of Van Halen (2015)/cd1/16 - Love Walks In (Remastered Album Version).mp3
-1054:Van Halen - The Very Best Of Van Halen (2015)/cd1/17 - Beautiful Girls (2015 Remastered).mp3
-1055:Van Halen - The Very Best Of Van Halen (2015)/cd1/18 - Can't Stop Lovin' You (Remastered Album Version).mp3
-1056:Van Halen - The Very Best Of Van Halen (2015)/cd1/19 - Unchained (2015 Remastered).mp3
-1057:Van Halen - The Very Best Of Van Halen (2015)/cd2/01 - Panama (2015 Remastered).mp3
-1058:Van Halen - The Very Best Of Van Halen (2015)/cd2/02 - Best Of Both Worlds (Remastered Album Version).mp3
-1059:Van Halen - The Very Best Of Van Halen (2015)/cd2/03 - Jamie's Cryin' (2015 Remastered).mp3
-1060:Van Halen - The Very Best Of Van Halen (2015)/cd2/04 - Runaround (Remastered Album Version).mp3
-1061:Van Halen - The Very Best Of Van Halen (2015)/cd2/05 - I'll Wait (2015 Remastered).mp3
-1062:Van Halen - The Very Best Of Van Halen (2015)/cd2/06 - Why Can't This Be Love (Remastered Version).mp3
-1063:Van Halen - The Very Best Of Van Halen (2015)/cd2/07 - Runnin' With The Devil (2015 Remastered).mp3
-1064:Van Halen - The Very Best Of Van Halen (2015)/cd2/08 - When It's Love (Remastered Album Version).mp3
-1065:Van Halen - The Very Best Of Van Halen (2015)/cd2/09 - Dancing In The Street (2015 Remastered).mp3
-1066:Van Halen - The Very Best Of Van Halen (2015)/cd2/10 - Not Enough (Remastered Album Version).mp3
-1067:Van Halen - The Very Best Of Van Halen (2015)/cd2/11 - Feels So Good (Remastered Single Version).mp3
-1068:Van Halen - The Very Best Of Van Halen (2015)/cd2/12 - Right Now (Remastered Album Version).mp3
-1069:Van Halen - The Very Best Of Van Halen (2015)/cd2/13 - Everybody Wants Some!! (2015 Remastered).mp3
-1070:Van Halen - The Very Best Of Van Halen (2015)/cd2/14 - Dance The Night Away (2015 Remastered).mp3
-1071:Van Halen - The Very Best Of Van Halen (2015)/cd2/15 - Ain't Talkin' 'Bout Love (Remastered Live Version).mp3
-1072:Van Halen - The Very Best Of Van Halen (2015)/cd2/16 - Panama (Remastered Live Version).mp3
-1073:Van Halen - The Very Best Of Van Halen (2015)/cd2/17 - Jump (Remastered Live Version).mp3
-1074:Vários Artistas/01 Call on me_ Eric Prydz.m4a
-1075:Vários Artistas/05 World Filled With Love_ Craig David.m4a
-1076:Vários Artistas/06 If You're Not the One_ Daniel Bedingfield.m4a
-1077:Vários Artistas/07 Driving You Slow_ The Gift.m4a
-1078:Vários Artistas/08 Never Felt Like This Before_ Shaznay Lewis.m4a
-1079:Vários Artistas/12 Despre Tine_ O-Zone.m4a
-1080:Vários Artistas/13 Sorte Grande_ Ivete Sangalo.m4a
-1081:Vários Artistas/15 Try_ Nelly Furtado.m4a
-1082:Vários Artistas/16 You Make Me Feel Brand New_ Simply Red.m4a
-1083:The Verve/The Drugs Don_t Work.mp3
-1084:White Lion/When The Children Cry.mp3
-1085:Whitesnake/Crying in the Rain.mp3
-1086:Whitesnake/Slow an' Easy.mp3
-1087:Whitesnake/Spit It Out.mp3
-1088:Whitesnake/Love Ain't No Stranger.mp3
-1089:Whitesnake/Still Of The Night.m4a
-1090:Whitesnake/Here I Go Again.m4a
-1091:Whitesnake/Give Me All Your Love.m4a
-1092:Whitesnake/Is This Love.m4a
-1093:Whitesnake/Don't Turn Away.m4a
-1094:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/01 Konzert für Flöte und Hafe C-.Dur KV 299 1. Allegro.m4a
-1095:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/02 Konzert für Flöte und Hafe C-.Dur KV 299 2. Andantino.m4a
-1096:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/03 Konzert für Flöte und Hafe C-.Dur KV 299 3. Rondeau - Allegro.m4a
-1097:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/04 Konzer für Flöte und Orchester G-Dur KV 313 1. Allegro maestoso.m4a
-1098:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/05 Konzer für Flöte und Orchester G-Dur KV 313 2. Adagio ma non troppo.m4a
-1099:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/06 Konzer für Flöte und Orchester G-Dur KV 313 3. Rondeau - tempo di menu etto.m4a
-1100:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/07 Andante für Flöte und Orchester C-Dur KV 315.m4a
-1101:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/01 Concerto for Oboe and Orchestra in C major, K314 - I. Allegro aperto.m4a
-1102:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/02 II. Adagio non troppo.m4a
-1103:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/03 III. Rondo (Allegretto).m4a
-1104:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/04 Concerto for Clarinet and Orchestra in A major, K622 - I. Allegro.m4a
-1105:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/05 II. Adagio.m4a
-1106:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/06 III. Rondo (Allegro).m4a
-1107:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/07 Concerto for Bassoon and Orchestra in B flat, K191 - I. Allegro.m4a
-1108:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/08 II. Andante ma adagio.m4a
-1109:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/09 III. Rondo (Tempo di menuetto).m4a
-1110:Wolfgang Amadeus Mozart/The Four Horn Concertos/01 Concerto for Horn and Orchestra No. 1 in D-dur, K412 - I. Allegro.m4a
-1111:Wolfgang Amadeus Mozart/The Four Horn Concertos/02 II. Rondo - Allegro.m4a
-1112:Wolfgang Amadeus Mozart/The Four Horn Concertos/03 Concerto for Horn and Orchestra No. 4 in Es-dur, K495 - I. Allegro maestoso.m4a
-1113:Wolfgang Amadeus Mozart/The Four Horn Concertos/04 II. Romance - Andante cantabile.m4a
-1114:Wolfgang Amadeus Mozart/The Four Horn Concertos/05 III. Rondo - Allegro vivace.m4a
-1115:Wolfgang Amadeus Mozart/The Four Horn Concertos/06 Concerto for Horn and Orchestra No. 2 in Es-dur, K417 - I. Allegro.m4a
-1116:Wolfgang Amadeus Mozart/The Four Horn Concertos/07 II. Andante.m4a
-1117:Wolfgang Amadeus Mozart/The Four Horn Concertos/08 III. Rondo - Allegro.m4a
-1118:Wolfgang Amadeus Mozart/The Four Horn Concertos/09 Concerto for Horn and Orchestra No. 3 in Es-dur, K447 - I. Allegro.m4a
-1119:Wolfgang Amadeus Mozart/The Four Horn Concertos/10 II. Romance - Larghetto.m4a
-1120:Wolfgang Amadeus Mozart/The Four Horn Concertos/11 III. Allegro.m4a
-1121:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/01 Concerto for Violin and Orchestra No. 2 in D major, K211 - I. Allegro moderato.m4a
-1122:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/02 II. Andante.m4a
-1123:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/03 III. Rondeau - Allegro.m4a
-1124:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/04 Concerto for Violin and Orchestra No. 4 in D major, K218 - I. Allegro.m4a
-1125:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/05 II. Andante cantabile.m4a
-1126:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/06 III. Rondeau.m4a
-1127:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/07 Sinfonia concertante in E flat major, K364 - I. Allegro maestoso.m4a
-1128:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/08 II. Andante.m4a
-1129:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/09 III. Presto.m4a
-1130:Xutos E Pontapés/Chuva Dissolvente.mp3
-1131:Xutos E Pontapés/Circo de Feras.mp3
-1132:Xutos E Pontapés/Homem do Leme.mp3
-1133:Zero 7/Destiny.mp3
-1134:Zero 7/Destiny.mp3
-1135:Zero 7/Destiny.mp3
-1136:Zero 7/Destiny.mp3
-1137:Zero 7/Destiny.mp3
-1138:Zero 7/Destiny.mp3
-1139:Zero 7/Destiny.mp3
-1140:Zero 7/Destiny.mp3
-1141:Zero 7/Destiny.mp3
-1142:Zero 7/Destiny.mp3
-1143:Zero 7/Destiny.mp3
-1144:Zero 7/Destiny.mp3
-1145:Amos Lee's Greatest Hits (2009 Ed.)/01. Amos Lee - Keep It Loose, Keep It Tight.mp3
-1146:Earth Wind and Fire.The Very Best Of.1991/CD 1/02. Getaway.mp3
-1147:Earth Wind and Fire.The Very Best Of.1991/CD 1/03. Shining Star.mp3
-1148:Earth Wind and Fire.The Very Best Of.1991/CD 1/04. Spread Your Love.mp3
-1149:Earth Wind and Fire.The Very Best Of.1991/CD 1/05. Reasons.mp3
-1150:Earth Wind and Fire.The Very Best Of.1991/CD 1/06. Can't Let Go.mp3
-1151:Earth Wind and Fire.The Very Best Of.1991/CD 1/07. Serpentine Fire.mp3
-1152:Earth Wind and Fire.The Very Best Of.1991/CD 1/08. Boogie Wonderland.mp3
-1153:Earth Wind and Fire.The Very Best Of.1991/CD 1/09. Star.mp3
-1154:Earth Wind and Fire.The Very Best Of.1991/CD 1/10. Jupiter.mp3
-1155:Earth Wind and Fire.The Very Best Of.1991/CD 1/11. Electric Nation.mp3
-1156:Earth Wind and Fire.The Very Best Of.1991/CD 1/12. Fall In Love With Me.mp3
-1157:Earth Wind and Fire.The Very Best Of.1991/CD 1/13. And Love Goes On.mp3
-1158:Earth Wind and Fire.The Very Best Of.1991/CD 1/14. Keep Your Head To The Sky.mp3
-1159:Earth Wind and Fire.The Very Best Of.1991/CD 2/01. Fantasy.mp3
-1160:Earth Wind and Fire.The Very Best Of.1991/CD 2/02. Sing A Song.mp3
-1161:Earth Wind and Fire.The Very Best Of.1991/CD 2/03. Magnetic.mp3
-1162:Earth Wind and Fire.The Very Best Of.1991/CD 2/04. I've Had Enough.mp3
-1163:Earth Wind and Fire.The Very Best Of.1991/CD 2/05. Got To Get You Into My Live.mp3
-1164:Earth Wind and Fire.The Very Best Of.1991/CD 2/06. Could It Be Right.mp3
-1165:Earth Wind and Fire.The Very Best Of.1991/CD 2/07. After The Love Has Gone.mp3
-1166:Earth Wind and Fire.The Very Best Of.1991/CD 2/08. September.mp3
-1167:Earth Wind and Fire.The Very Best Of.1991/CD 2/09. Wait.mp3
-1168:Earth Wind and Fire.The Very Best Of.1991/CD 2/10. I'll Write A Song For You.mp3
-1169:Earth Wind and Fire.The Very Best Of.1991/CD 2/11. That's The Way Of The World.mp3
-1170:Earth Wind and Fire.The Very Best Of.1991/CD 2/13. I Wanna Be With You.mp3
-1171:Earth Wind and Fire.The Very Best Of.1991/CD 2/14. Saturday Nite.mp3
-1172:Earth Wind and Fire.The Very Best Of.1991/CD 1/01. Let's Groove.mp3
-1173:John Mayer's Greatest Hits (2009 Ed.)/13. John Mayer - Say.mp3
-1174:John Mayer 2019/01 New Light.mp3
-1175:Alizee The Best Songs/14. Hey! Amigo!.mp3
-1176:America Greatest Hits/(01) America - A Horse with No Name.mp3
-1177:America Greatest Hits/(02) America - Sandman.mp3
-1178:America Greatest Hits/(03) America - I Need You.mp3
-1179:America Greatest Hits/(04) America - Everyone I Meet Is from California.mp3
-1180:America Greatest Hits/(05) America - Ventura Highway.mp3
-1181:America Greatest Hits/(06) America - Don't Cross the River.mp3
-1182:America Greatest Hits/(08) America - Muskrat Love.mp3
-1183:America Greatest Hits/(09) America - Another Try.mp3
-1184:America Greatest Hits/(10) America - Tin Man.mp3
-1185:America Greatest Hits/(11) America - Lonely People.mp3
-1186:America Greatest Hits/(12) America - Sister Golden Hair.mp3
-1187:America Greatest Hits/(13) America - Daisy Jane.mp3
-1188:America Greatest Hits/(14) America - Woman Tonight.mp3
-1189:America Greatest Hits/(15) America - Today's the Day.mp3
-1190:America Greatest Hits/(16) America - Amber Cascades.mp3
-1191:America Greatest Hits/(17) America - California Dreamin'.mp3
-1192:America Greatest Hits/(18) America - You Can Do Magic.mp3
-1193:America Greatest Hits/(19) America - Right Before Your Eyes.mp3
-1194:America Greatest Hits/(20) America - The Border.mp3
-1195:America Greatest Hits/(21) America - World of Light.mp3
-1196:Alizee The Best Songs/07. Abracadabra.mp3
-1197:Alizee The Best Songs/14. Hey! Amigo!.mp3
-1198:Alizee The Best Songs/01. Moi... Lolita.mp3
-1199:The Doobie Brothers - Greatest Hits/01.Listen To The Music.mp3
+95:Bee Gees/Barbra Streisand & Barry Gibb - Guilty (HQ).mp3
+96:Bee Gees/Barbra Streisand & Barry Gibb - What Kind Of Fool (1980).mp3
+97:Bee Gees/To Love Somebody.m4a
+98:Bee Gees/Massachusetts.m4a
+99:Bee Gees/Words.m4a
+100:Bee Gees/Run To Me.m4a
+101:Bee Gees/Jive Talkin'.m4a
+102:Bee Gees/You Should Be Dancing.m4a
+103:Bee Gees/How Deep Is Your Love.m4a
+104:Bee Gees/More Than A Woman.m4a
+105:Bee Gees/Stayin' Alive.m4a
+106:Bee Gees/Night Fever.m4a
+107:Bee Gees/Too Much Heaven.m4a
+108:Bee Gees/Tragedy.m4a
+109:Bee Gees/You Win Again.m4a
+110:Billy Idol/Eyes Without A Face.mp3
+111:Billy Idol/Sweet Sixteen.mp3
+112:Bjork/Army of Me (feat. Skunk Anansie).mp3
+113:Blake Shelton/Came Here To Forget.mp3
+114:Blake Shelton/Honey Bee.mp3
+115:Blake Shelton/Who Are You When I'm Not Looking.mp3
+116:Bobby McFerrin/Don't Worry, Be Happy.m4a
+117:Bon Jovi/Runaway.mp3
+118:Boston - Greatest Hits/01 Tell Me.mp3
+119:Boston - Greatest Hits/02 Higher Power.mp3
+120:Boston - Greatest Hits/03 More Than a Feeling.mp3
+121:Boston - Greatest Hits/04 Peace of Mind.mp3
+122:Boston - Greatest Hits/05 Don't Look Back.mp3
+123:Boston - Greatest Hits/06 Cool the Engines.mp3
+124:Boston - Greatest Hits/07 Livin' For You.mp3
+125:Boston - Greatest Hits/08 Feelin' Satisfied.mp3
+126:Boston - Greatest Hits/09 Party.mp3
+127:Boston - Greatest Hits/10 Foreplay - Long Time.mp3
+128:Boston - Greatest Hits/11 Amanda.mp3
+129:Boston - Greatest Hits/12 Rock & Roll Band.mp3
+130:Boston - Greatest Hits/13 Smokin'.mp3
+131:Boston - Greatest Hits/14 A Man I'll Never Be.mp3
+132:Boston - Greatest Hits/15 4th of July Reprise.mp3
+133:Boston - Greatest Hits/16 Higher Power (Kalodner Edit).mp3
+134:Boyzone/No Matter What.mp3
+135:Boyzone/You Needed Me.mp3
+136:Boyzone/A Picture Of You.m4a
+137:Brett Eldredge/Wanna be that song.mp3
+138:Brett Young/In Case You Didn't Know.mp3
+139:Brett Young/Sleep Without You.mp3
+140:Britney Spears/My Prerogative.m4a
+141:Britney Spears/I'm A Slave 4 U.m4a
+142:Britney Spears/Oops!... I Did It Again.m4a
+143:Britney Spears/Me Against The Music.m4a
+144:Britney Spears/Everytime.m4a
+145:Britney Spears/...Baby One More Time.m4a
+146:Britney Spears/(You Drive Me) Crazy (The Stop Remix!).m4a
+147:Britney Spears/Boys (The Co-Ed Remix).m4a
+148:Britney Spears/Sometimes.m4a
+149:Britney Spears/Overprotected (The Dark Child Remix , Radio Edit).m4a
+150:Britney Spears/Lucky.m4a
+151:Britney Spears/Outrageous.m4a
+152:Britney Spears/Born To Make You Happy.m4a
+153:Britney Spears/I Love Rock 'N' Roll.m4a
+154:Britney Spears/I'm Not A Girl, Not Yet A Woman.m4a
+155:Bruce Springsteen/Dancing in the Dark.mp3
+156:Bruce Springsteen/Streets Of Philadelphia.mp3
+157:Bryan Adams/Brand New Day.mp3
+158:Bryan Adams/Don't Even Try.mp3
+159:Bryan Adams/I Thought I'd Seen Everything.mp3
+160:Bryan Adams/You Belong To Me.mp3
+161:Bryan Adams/Let's Make A Night To Remember.mp3
+162:Bryan Adams/I'm Ready.mp3
+163:Bryan Adams/When You're Gone ft. Melanie C.mp3
+164:Bryan Adams/Heaven - Acoustic Live.mp3
+165:Bryan Adams/It's Only Love.mp3
+166:Bryan Adams/Run To You.mp3
+167:Bryan Adams/Summer Of '69.mp3
+168:Bryan Adams/Can't Stop This Thing We Started.m4a
+169:Bryan Adams/Please Forgive Me.mp3
+170:Bryan Adams/Best Of Me.mp3
+171:Bryan Adams/Can't Stop This Thing We Started.mp3
+172:Bryan Adams/Do I Have To Say The Words.mp3
+173:Caetano Veloso/Sozinho.m4a
+174:Caetano Veloso/Samba De Verao.m4a
+175:Caetano Veloso/Leãozinho.m4a
+176:Caetano Veloso/Sonhos.m4a
+177:Calcanhoto/Vambora.mp3
+178:Calcanhoto/Adriana Calcanhoto - 02-Mais Feliz.mp3
+179:Calcanhoto/Adriana Calcanhoto - 07-Vambora.mp3
+180:The Calling/Wherever You Will Go.mp3
+181:Carlos do Carmo/Gaivota.m4a
+182:Carlos do Carmo/Por Morrer Uma Andorinha.m4a
+183:Carlos do Carmo/Canoas Do Tejo.m4a
+184:Carlos do Carmo/Os putos.m4a
+185:Carlos Paredes/Danças Portuguesas.m4a
+186:Carlos Paredes/Acção.m4a
+187:Carlos Paredes/Porto Santo.m4a
+188:Carlos Paredes/Divertimento.m4a
+189:Carlos Paredes/Canção Verdes Anos.m4a
+190:Carlos Paredes/Sede e Morte.m4a
+191:Carpenters/Close to you.mp3
+192:Carpenters/We've Only Just Begun.mp3
+193:Carpenters/Yesterday Once More.mp3
+194:The Cars/Drive.mp3
+195:Cat Stevens - Best Of/01.The Wind.mp3
+196:Cat Stevens - Best Of/02.Wild World.mp3
+197:Cat Stevens - Best Of/03.Oh Very Young.mp3
+198:Cat Stevens - Best Of/04.Where Do The Children Play.mp3
+199:Cat Stevens - Best Of/05.Hard Headed Woman.mp3
+200:Cat Stevens - Best Of/06.Moonshadow.mp3
+201:Cat Stevens - Best Of/07.Peace Train.mp3
+202:Cat Stevens - Best Of/08.Father And Son.mp3
+203:Cat Stevens - Best Of/09.Sitting.mp3
+204:Cat Stevens - Best Of/10.How Can I Tell You.mp3
+205:Cat Stevens - Best Of/11.Morning Has Broken.mp3
+206:Cat Stevens - Best Of/12.The First Cut Is The Deepest.mp3
+207:Celine Dion/I Drove All Night.mp3
+208:Celine Dion/Think Twice.mp3
+209:Celine Dion/Loved Me Back to Life.mp3
+210:Celine Dion/All By Myself.mp3
+211:Celine Dion/My Heart Will Go On.mp3
+212:Celine Dion/Pour que tu m' aimes encore.mp3
+213:Celine Dion/Beauty and the Beast.mp3
+214:Cher/Heart Of Stone [Live - The Farewell Tour].mp3
+215:Cher/Believe.m4a
+216:Cher/The Shoop Shoop Song (It's In His Kiss).m4a
+217:Cher/If I Could Turn Back Time.m4a
+218:Cher/Heart Of Stone.m4a
+219:Cher/Strong Enough.m4a
+220:Cher/All Or Nothing.m4a
+221:Cher/Dov'e L'Amore (Emilio Estefan Jnr. Mix).m4a
+222:Chicago/If You Leave Me Now.mp3
+223:Chicago - Best Of/101-Chicago-Make_Me_Smile_(New_Edit)-HHI.mp3
+224:Chicago - Best Of/102-Chicago-25_Or_6_To_4-HHI.mp3
+225:Chicago - Best Of/103-Chicago-Does_Anybody_Really_Know_What_Time_It_Is-HHI.mp3
+226:Chicago - Best Of/104-Chicago-Beginnings-HHI.mp3
+227:Chicago - Best Of/105-Chicago-Questions_67_And_68-HHI.mp3
+228:Chicago - Best Of/106-Chicago-Im_A_Man_(New_Edit)-HHI.mp3
+229:Chicago - Best Of/107-Chicago-Colour_My_World-HHI.mp3
+230:Chicago - Best Of/108-Chicago-Free-HHI.mp3
+231:Chicago - Best Of/109-Chicago-Lowdown-HHI.mp3
+232:Chicago - Best Of/110-Chicago-Saturday_In_The_Park-HHI.mp3
+233:Chicago - Best Of/111-Chicago-Dialogue_(Part_I_and_II)_(Single_Version)-HHI.mp3
+234:Chicago - Best Of/112-Chicago-Just_You_N_Me-HHI.mp3
+235:Chicago - Best Of/113-Chicago-Feelin_Stronger_Every_Day-HHI.mp3
+236:Chicago - Best Of/114-Chicago-(Ive_Been)_Searchin_So_Long-HHI.mp3
+237:Chicago - Best Of/115-Chicago-Wishing_You_Were_Here-HHI.mp3
+238:Chicago - Best Of/116-Chicago-Call_On_Me-HHI.mp3
+239:Chicago - Best Of/117-Chicago-Happy_Man_(Edit_Form_1981s_Greatest_Hits_Volume_II)-HHI.mp3
+240:Chicago - Best Of/118-Chicago-Another_Rainy_Day_In_New_York_City-HHI.mp3
+241:Chicago - Best Of/119-Chicago-If_You_Leave_Me_Now-HHI.mp3
+242:Chicago - Best Of/201-Chicago-Old_Days-HHI.mp3
+243:Chicago - Best Of/202-Chicago-Baby_What_A_Big_Surprise-HHI.mp3
+244:Chicago - Best Of/203-Chicago-Take_Me_Back_To_Chicago_(Single_Version)-HHI.mp3
+245:Chicago - Best Of/204-Chicago-Alive_Again-HHI.mp3
+246:Chicago - Best Of/205-Chicago-No_Tell_Lover-HHI.mp3
+247:Chicago - Best Of/206-Chicago-Love_Me_Tomorrow_(Single_Version)-HHI.mp3
+248:Chicago - Best Of/207-Chicago-Hard_To_Say_Im_Sorryget_Away-HHI.mp3
+249:Chicago - Best Of/208-Chicago-Stay_The_Night-HHI.mp3
+250:Chicago - Best Of/209-Chicago-Hard_Habit_To_Break-HHI.mp3
+251:Chicago - Best Of/210-Chicago-Youre_The_Inspiration-HHI.mp3
+252:Chicago - Best Of/211-Chicago-Along_Comes_A_Woman_(Single_Version)-HHI.mp3
+253:Chicago - Best Of/212-Chicago-Will_You_Still_Love_Me._(Single_Version)-HHI.mp3
+254:Chicago - Best Of/213-Chicago-If_She_Would_Have_Been_Faithful___-HHI.mp3
+255:Chicago - Best Of/214-Chicago-Look_Away_(Single_Version)-HHI.mp3
+256:Chicago - Best Of/215-Chicago-What_Kind_Of_Man_Would_I_Be._(Single_Version)-HHI.mp3
+257:Chicago - Best Of/216-Chicago-I_Dont_Wanna_Live_Without_Your_Love-HHI.mp3
+258:Chicago - Best Of/217-Chicago-We_Can_Last_Forever_(Single_Version)-HHI.mp3
+259:Chicago - Best Of/218-Chicago-Youre_Not_Alone_(Single_Version)-HHI.mp3
+260:Chicago - Best Of/219-Chicago-Chasin_The_Wind-HHI.mp3
+261:Chicago - Best Of/220-Chicago-Sing_Sing_Sing_(W_The_Gypsy_Kings)-HHI.mp3
+262:Chico Buarque_Elza Soares/Façamos (Vamos Amar).m4a
+263:Clã/Sopro do coração.mp3
+264:Cliff Richard/We Don't Talk Anymore.mp3
+265:Cock Robin/Just Around The Corner.mp3
+266:Collective Soul/Shine.mp3
+267:Compilations/Metal Ballads Vol. 2/02 Love Don't Lie.m4a
+268:Compilations/Metal Ballads Vol. 2/03 Soldier Of Fortune.m4a
+269:Compilations/Metal Ballads Vol. 2/04 Don't Wanna Be Your Fool.m4a
+270:Compilations/Metal Ballads Vol. 2/07 You Make Me Feel.m4a
+271:Compilations/Metal Ballads Vol. 2/09 What Love Can Be.m4a
+272:Compilations/Metal Ballads Vol. 2/10 Empty Rooms.m4a
+273:Compilations/Metal Ballads Vol. 2/12 You're All I Need.m4a
+274:Compilations/Metal Ballads Vol. 2/13 Dream On.m4a
+275:Compilations/Metal Ballads Vol. 2/14 When The Children Cry.m4a
+276:Compilations/Now 14/1-01 Because of You.m4a
+277:Compilations/Now 14/1-02 Talk.m4a
+278:Compilations/Now 14/1-03 First Day of My Life.m4a
+279:Compilations/Now 14/1-04 Sei-te de Cor.m4a
+280:Compilations/Now 14/1-06 Advertising Space.m4a
+281:Compilations/Now 14/1-07 I Belong to You.m4a
+282:Compilations/Now 14/1-09 Love Generation.m4a
+283:Compilations/Now 14/1-11 I Still.m4a
+284:Compilations/Now 14/1-13 A Dança.m4a
+285:Compilations/Now 14/1-16 Suddenly I See.m4a
+286:Compilations/Now 14/1-18 Problema de Expressão (ao vivo).m4a
+287:Compilations/Now 14/2-02 Check On It.m4a
+288:Compilations/Now 14/2-03 My Humps.m4a
+289:Compilations/Now 14/2-05 If It's Lovin'.m4a
+290:Compilations/Now 14/2-10 Suffer Well.m4a
+291:Compilations/Now 14/2-11 Number 1.m4a
+292:Compilations/Now 14/2-13 Stickwitu.m4a
+293:Compilations/Páginas Da Vida - Nacional/10 Se Quiser (Anytime).m4a
+294:Compilations/Páginas Da Vida - Nacional/12 Eu Sei.m4a
+295:Compilations/Páginas Da Vida - Nacional/16 Melodia (Da Ópera De Orfeu E Eurídice).m4a
+296:Compilations/Ricky Martin/01 Livin' La Vida Loca.m4a
+297:Compilations/Ricky Martin/03 She's All I Ever Had.m4a
+298:Compilations/Ricky Martin/04 Shake Your Bon-Bon.m4a
+299:Compilations/Ricky Martin/05 Be Careful (Cuidado Con Mi Corazon).m4a
+300:Compilations/Ricky Martin/07 Love You For A Day.m4a
+301:Compilations/The Best Of/04 Private Emotion.m4a
+302:Compilations/The Best Of/10 Come To Me.m4a
+303:The Corrs/Dreams.mp3
+304:The Cranberries/Linger.mp3
+305:The Cranberries/When You_re Gone.mp3
+306:Credence Clearwatter Revival/Have You Ever Seen The Rain.mp3
+307:Creed/With Arms Wide Open.mp3
+308:Daniel Potter/Track 09.m4a
+309:Daniela Mercury/Mutante.m4a
+310:David Gray/Babylon.mp3
+311:David Gray/Please Forgive Me.mp3
+312:David Gray/Sail Away.mp3
+313:David Gray/Say Hello Wave Goodbye.mp3
+314:David Gray/The One I Love.mp3
+315:David Gray/This Year's Love.mp3
+316:Deep Purple/Child in Time.mp3
+317:Deep Purple/Highway Star.mp3
+318:Deep Purple/Perfect Strangers.mp3
+319:Deep Purple/Smoke on the Water.mp3
+320:Deep Purple/Hush.mp3
+321:Deep Purple/Smoke On The Water.mp3
+322:Deep Purple/Soldier Of Fortune.mp3
+323:Deep Purple/Sweet Child In Time.MP3
+324:Def Leppard/Animal.mp3
+325:Def Leppard/Hysteria.mp3
+326:Def Leppard/Foolin.mp3
+327:Delicious/Supermodel.m4a
+328:Depeche Mode/ Just Can't Get Enough.mp3
+329:Depeche Mode/Enjoy The Silence.mp3
+330:Depeche Mode/It's No Good.mp3
+331:Depeche Mode/Personal jesus.mp3
+332:Depeche Mode/Policy Of Truth.mp3
+333:Depeche Mode/Precious.mp3
+334:Depeche Mode/Strangelove.mp3
+335:Dido/White Flag.mp3
+336:Dire Straits/Communiqué.mp3
+337:Dire Straits/Down To The Waterline.mp3
+338:Dire Straits/How Long.mp3
+339:Dire Straits/Lady Writer.mp3
+340:Dire Straits/Money For Nothing.mp3
+341:Dire Straits/News.mp3
+342:Dire Straits/Once Upon A Time In The West.mp3
+343:Dire Straits/Private Investigations.mp3
+344:Dire Straits/Setting Me Up.mp3
+345:Dire Straits/Sultans Of Swing   lyrics.mp3
+346:Dire Straits/Sultans Of Swing live.mp3
+347:Dire Straits/Telegraph Road.mp3
+348:Dire Straits/The Man's Too Strong.mp3
+349:Dire Straits/Tunnel of Love.mp3
+350:Dire Straits/Water Of Love.mp3
+351:Dire Straits/When It Comes To You.mp3
+352:Dire Straits/Where Do You Think You're Going.mp3
+353:Dire Straits/You And Your Friend.mp3
+354:Dire Straits/Your Latest Trick.mp3
+355:Dire Straits/Sultans of Swing.mp3
+356:Disturbed/Land Of Confusion.mp3
+357:Disturbed/The Light.mp3
+358:Disturbed/The Sound Of Silence.mp3
+359:Don Henley/All She Wants To Do Is Dance.m4a
+360:Doors/Hello, I Love You.mp3
+361:Doors/L.A. Woman (Orginal).mp3
+362:Doors/Light My Fire.mp3
+363:Doors/Love Her Madly.mp3
+364:Doors/Love Me Two Times.mp3
+365:Doors/People Are Strange.mp3
+366:Doors/Riders On The Storm.mp3
+367:Doors/Roadhouse Blues.mp3
+368:Doors/Touch Me.mp3
+369:Doug Supernaw & The Beach Boys/Long Tall Texan.m4a
+370:Duran Duran/Come Undone.mp3
+371:Duran Duran/Notorious.mp3
+372:Duran Duran/Ordinary World.mp3
+373:Elton John/Candle In The Wind.m4a
+374:EMF/Unbelievable.m4a
+375:Enrique Iglesias/Rhythm Divine.mp3
+376:Enrique Iglesias/Ritmo Total (Rhythm Divine).m4a
+377:Enrique Iglesias/Be With You.m4a
+378:Enrique Iglesias/Bailamos.m4a
+379:Enrique Iglesias/You're My (Duet With Sandy & Junior).m4a
+380:Enrique Iglesias/Could I Have This Kiss Forever(Remix With Whitney Houston).m4a
+381:Eric Church/Kill A Word.mp3
+382:Excesso/Não Sei Viver Sem Ti.mp3
+383:Extreme/More Than Words.mp3
+384:Fausto/Atrás dos tempos outros tempos vêm.mp3
+385:Fausto/(10) Ao Longo de Um Claro Rio de Água Doce - Fausto Bordalo Dias.mp3
+386:Fergie/Track 05.m4a
+387:Fingertips/Track 06.m4a
+388:Five/Keep On Movin'.mp3
+389:Five Finger Death Punch/Wrong Side Of Heaven.mp3
+390:Fleetwood Mac/Dreams.mp3
+391:Fleetwood Mac/Go Your Own Way.mp3
+392:Florida Georgia Line/H.O.L.Y..mp3
+393:Foo Fighters/The Pretender.mp3
+394:Foreigner/Urgent.mp3
+395:Foreigner/Waiting for a Girl Like You.mp3
+396:Foreigner/Double Vision.mp3
+397:Foreigner/Feels Like The First Time.mp3
+398:Foreigner/That Was Yesterday.mp3
+399:Foreigner/Cold As Ice.mp3
+400:Foreigner/I Want to Know What Love Is.mp3
+401:Free/All Right Now.mp3
+402:Garbage/Push it.mp3
+403:Gary Barlow/Forever Love.mp3
+404:Gary Moore/I Love You More Than You'll Ever Know.mp3
+405:Gary Moore/Still Got The Blues.mp3
+406:Gary Moore/Story Of The Blues.m4a
+407:Gary Moore/Separate Ways.m4a
+408:Gary Moore/Still Got The Blues (For You).m4a
+409:Gary Moore/The Sky Is Crying.m4a
+410:Gary Moore/Parisienne Walkways.m4a
+411:Gary Moore/Jumping At Shadows.m4a
+412:George Michael/FastLove.mp3
+413:George Michael/Outside.mp3
+414:George Michael/Amazing.m4a
+415:George Michael/John And Elvis Are Dead.m4a
+416:George Michael/Flawless (Go To The City).m4a
+417:George Michael/Careless Whisper.mp3
+418:George Michael/Desafinado.mp3
+419:George Michael/Kissing a Fool.mp3
+420:Gerry Rafferty/Baker street.mp3
+421:Gerry Rafferty/Right Down the Line.mp3
+422:Gerry Rafferty/Stuck In The Middle With You.mp3
+423:Gloria Estefan/Reach.mp3
+424:GNR/Asas Electricas.mp3
+425:GNR/Bellevue.mp3
+426:GNR/Bem-Vindo ao Passado.mp3
+427:GNR/Mais Vale Nunca.mp3
+428:GNR/Morte ao Sol.mp3
+429:GNR/Popless.mp3
+430:GNR/Saliva.mp3
+431:GNR/Sexta-feira (Um seu criado).mp3
+432:GNR/Tirana.mp3
+433:GNR/Video Maria.mp3
+434:GNR/Sub 16.m4a
+435:GNR/Efectivamente.m4a
+436:GNR/Dunas.m4a
+437:GNR/Cais.m4a
+438:GNR/Asas.m4a
+439:GNR/Pronuncia do norte.m4a
+440:GNR/Mais vale nunca.m4a
+441:GNR/Ana Lee.m4a
+442:Harry Styles/Sign Of The Times.mp3
+443:Heart/Alone.mp3
+444:Heart/What About Love.mp3
+445:Heart/These Dreams.m4a
+446:INXS/Need You Tonight.m4a
+447:INXS/Mystify.m4a
+448:Irene Cara/Flash dance.m4a
+449:Jacobs Piano/1 HOUR RELAXING PIANO  Studying and Relaxation  Jacobs Piano.mp3
+450:Jennifer Lopez/Waiting  for tonight.mp3
+451:Jennifer Paige/Crush.mp3
+452:Joe Dassin/04.Les Champs-Elysees.mp3
+453:Joe Dassin/01.Et Si Tu N'Existais Pas.mp3
+454:Joe Dassin/10.Salut.mp3
+455:Joe Dassin/13.L'Ete Indien.mp3
+456:Jon Bon Jovi/Midnight in Chelsea.mp3
+457:Jon Secada/Just Another Day.mp3
+458:Jon Secada/Too Late Too Soon.mp3
+459:Justin Timberlake/Track 02.m4a
+460:Kansas/Dust In The Wind.mp3
+461:Keane/A Bad Dream.mp3
+462:Keane/Is It Any Wonder.mp3
+463:Keane/Nothing In My Way.mp3
+464:Keane/Somewhere Only We Know.m4a
+465:Keane/This Is the Last Time.m4a
+466:Keane/Bend And Break.m4a
+467:Keane/We Might As Well Be Strangers.m4a
+468:Keane/Everybody's Changing.m4a
+469:Keane/Your Eyes Open.m4a
+470:Keane/She Has No Time.m4a
+471:Keane/Can't Stop Now.m4a
+472:Keane/Sunshine.m4a
+473:Keane/Untitled 1.m4a
+474:Keane/Bedshaped.m4a
+475:Keith Urban/Blue Ain't Your Color.mp3
+476:Keith Urban/Somebody Like You.mp3
+477:Keith Urban/The Fighter_Ft Carrie Underwood.mp3
+478:Keith Urban/Wasted Time.mp3
+479:Korn/Get Up.mp3
+480:Kylie Minogue/More, More, More.m4a
+481:Kylie Minogue/Love At First Sight.m4a
+482:Kylie Minogue/Can't Get You Out Of My Head.m4a
+483:Kylie Minogue/Fever.m4a
+484:Kylie Minogue/In Your Eyes.m4a
+485:Laura Pausini/Per te.m4a
+486:LeAnn Rimes/Can't Fight The Moonlight.m4a
+487:LeAnn Rimes/Please Remember.m4a
+488:LeAnn Rimes/The Right Kind Of Wrong.m4a
+489:LeAnn Rimes/But I Do Love You.m4a
+490:LeAnn Rimes/Life Goes On.m4a
+491:LeAnn Rimes/How Do I Live.m4a
+492:LeAnn Rimes/Last Thing On My Mind.m4a
+493:LeAnn Rimes/Crazy.m4a
+494:LeAnn Rimes/Blue.m4a
+495:LeAnn Rimes/17 You Light Up My Life.m4a
+496:LeAnn Rimes/19 How Do I Live (Mig Dance Radio Edit).m4a
+497:LeAnn Rimes/20 Can't Fight The Moonlight (Latino Mix).m4a
+498:Led Zepplin/Black Dog & Rock and Roll.mp3
+499:Led Zepplin/Immigrant Song.mp3
+500:Led Zepplin/Kashmir.mp3
+501:Led Zepplin/Stairway To Heaven.mp3
+502:Lenny Kravitz/Fly away.mp3
+503:Lenny Kravitz/I Belong To You.mp3
+504:Lenny Kravitz/Stillness of Heart.mp3
+505:Leonard/When Susana Cryes.mp3
+506:Lighthouse Family/High.m4a
+507:Lionel Richie/Hello.m4a
+508:Lita Ford/Close My eyes Forever.mp3
+509:Little Richard/Tutti Frutti.m4a
+510:Lynyrd Skynyrd/Free bird.mp3
+511:Madonna/Hung up.m4a
+512:Madonna/Forbiden love.m4a
+513:Madonna/Ray of light.mp3
+514:Madonna/The Beast Within.m4a
+515:Madonna/Vogue.m4a
+516:Madonna/Nobody Knows Me.m4a
+517:Madonna/American Life.m4a
+518:Madonna/Hollywood (Remix).m4a
+519:Madonna/Die Another Day.m4a
+520:Madonna/Lament.m4a
+521:Madonna/Like A Prayer.m4a
+522:Madonna/Mother And Father.m4a
+523:Madonna/Imagine.m4a
+524:Madonna/Susan MacLeod _ Into The Groove.m4a
+525:Madonna/Music.m4a
+526:Madonna/Holiday.m4a
+527:Madonna/I Love New York.m4a
+528:Madonna/Frozen.m4a
+529:Madredeus/A Vaca De Fogo.mp3
+530:Madredeus/Ao longe o mar.mp3
+531:Madredeus/Haja O Que Houver.mp3
+532:Madredeus/O Pastor.mp3
+533:Madredeus/Vem (Além Da Solidão).mp3
+534:Marcia/A Insatisfação.mp3
+535:Marcia/A Pele Que Há Em Mim.mp3
+536:Marcia/Cabra-Cega.mp3
+537:Marcia/Deixa Ser.mp3
+538:Marcia/Eu Seguro.mp3
+539:Maria Rita/A Festa.m4a
+540:Maria Rita/Veja Bem Meu Beu.m4a
+541:Marisa Monte/A Sua.m4a
+542:Mariza/Já Me Deixou.mp3
+543:Mariza/Minh' alma.mp3
+544:Mariza/Rosa Branca.mp3
+545:Mariza/Recurso.mp3
+546:Mariza/Beijo De Saudade.mp3
+547:Mariza/Vozes Do Mar.mp3
+548:Mariza/Fronteira.mp3
+549:Mariza/Alfama.mp3
+550:Mariza/Tasco Da Mouraria.mp3
+551:Mariza/Mariza - Alma de vento.mp3
+552:Mariza/Mariza - Se eu mandasse nas palavras.mp3
+553:Mariza/As Guitarras.mp3
+554:Mariza/Pequenas Verdades.mp3
+555:Mariza/Morada Aberta.mp3
+556:Metallica/Nothing Else Matters.mp3
+557:Michael Jackson/ In The Closet.mp3
+558:Michael Jackson/Beat It.mp3
+559:Michael Jackson/Billie Jean.mp3
+560:Michael Jackson/Don't Stop 'Til You Get Enough.mp3
+561:Michael Jackson/Michael Jackson - Rock With You.mp3
+562:Michael Jackson/One Day In Your Life.mp3
+563:Michael Jackson/Smooth Criminal.mp3
+564:Michael Jackson/Wanna Be Startin' Somethin'.mp3
+565:Midnight Oil/Beds Are Burning.mp3
+566:Miguel Ângelo/Só Eu Te Posso Ajudar.mp3
+567:Mika/Track 07.m4a
+568:Mike And The Mechanics/Now That You've Gone.mp3
+569:Mike Oldfield/Moonlight Shadow.mp3
+570:Mozart Violin Concertos/1-01 Mozart_ Violin Concerto #3 In G, K 216 - 1. Allegro.m4a
+571:Mozart Violin Concertos/1-02 Mozart_ Violin Concerto #3 In G, K 216 - 2. Adagio.m4a
+572:Mozart Violin Concertos/1-03 Mozart_ Violin Concerto #3 In G, K 216 - 3. Rondeau_ Allegro.m4a
+573:Mozart Violin Concertos/1-04 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 1. Allegro Aperto.m4a
+574:Mozart Violin Concertos/1-05 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 2. Adagio.m4a
+575:Mozart Violin Concertos/1-06 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 3. Rondeau_ Tempo Di Menuetto.m4a
+576:Natalie Imbruglia/Torn.mp3
+577:Neil Diamond - Best Of/01 - Solitary Man.mp3
+578:Neil Diamond - Best Of/02 - Cherry, Cherry.mp3
+579:Neil Diamond - Best Of/03 - I've Got The Feeling (Oh No No).mp3
+580:Neil Diamond - Best Of/04 - You Got To Me.mp3
+581:Neil Diamond - Best Of/05 - Girl, You'll Be A Woman Soon.mp3
+582:Neil Diamond - Best Of/06 - I'm A Believer.mp3
+583:Neil Diamond - Best Of/07 - Thank The Lord For The Night Time.mp3
+584:Neil Diamond - Best Of/08 - Red, Red Wine.mp3
+585:Neil Diamond - Best Of/09 - Sunday Sun.mp3
+586:Neil Diamond - Best Of/10 - Shilo.mp3
+587:Neil Diamond - Best Of/11 - Kentucky Woman.mp3
+588:Neil Diamond - Best Of/12 - Brooklyn Roads.mp3
+589:Neil Diamond - Best Of/13 - Glory Road.mp3
+590:Neil Diamond - Best Of/14 - Holly Holy.mp3
+591:Neil Diamond - Best Of/15 - And The Grass Won't Pay No Mind.mp3
+592:Neil Diamond - Best Of/16 - Sweet Caroline.mp3
+593:Neil Diamond - Best Of/17 - Brother Love's Traveling Salvation Show.mp3
+594:Neil Diamond - Best Of/18 - Done Too Soon.mp3
+595:Neil Diamond - Best Of/19 - Soolaimon.mp3
+596:Neil Diamond - Best Of/20 - Cracklin' Rosie.mp3
+597:Neil Diamond - Best Of/21 - Crunchy Granola Suite.mp3
+598:Neil Diamond - Best Of/22 - I Am...I Said.mp3
+599:Neil Diamond - Best Of/23 - Stones.mp3
+600:Neil Diamond - Best Of/24 - Morningside.mp3
+601:Neil Diamond - Best Of/25 - Song Sung Blue.mp3
+602:Neil Diamond - Best Of/26 - Play Me.mp3
+603:Neil Diamond - Best Of/27 - Be (Recapitulation And Farewell To Fletcher).mp3
+604:Neil Diamond - Best Of/28 - Skybird.mp3
+605:Neil Diamond - Best Of/29 - Lonely Looking Sky.mp3
+606:Neil Diamond - Best Of/30 - I've Been This Way Before.mp3
+607:Neil Diamond - Best Of/31 - Longfellow Serenade.mp3
+608:Neil Diamond - Best Of/32 - Beautiful Noise.mp3
+609:Neil Diamond - Best Of/33 - Street Life.mp3
+610:Neil Diamond - Best Of/34 - If You Know What I Mean.mp3
+611:Neil Diamond - Best Of/35 - Desiree.mp3
+612:Neil Diamond - Best Of/36 - You Don't Bring Me Flowers.mp3
+613:Neil Diamond - Best Of/37 - Forever In Blue Jeans.mp3
+614:Neil Diamond - Best Of/38 - September Morn.mp3
+615:Neil Diamond - Best Of/39 - The Story Of My Life.mp3
+616:Neil Diamond - Best Of/40 - Yesterday's Songs.mp3
+617:Neil Diamond - Best Of/41 - I Believe In Happy Endings.mp3
+618:Neil Diamond - Best Of/42 - Hello Again.mp3
+619:Neil Diamond - Best Of/43 - Love On The Rocks (From The Jazz Singer Soundtrack).mp3
+620:Neil Diamond - Best Of/44 - Heartlight.mp3
+621:Neil Diamond - Best Of/45 - Lady-Oh.mp3
+622:Neil Diamond - Best Of/46 - Pretty Amazing Grace.mp3
+623:Neil Diamond - Best Of/47 - Hell Yeah.mp3
+624:Neil Diamond - Best Of/48 - We.mp3
+625:Neil Diamond - Best Of/49 - The Art Of Love.mp3
+626:Neil Diamond - Best Of/50 - America (From The Jazz Singer Soundtrack).mp3
+627:Neil Young/Harvest Moon.mp3
+628:Neil Young/Heart of Gold.mp3
+629:Nelly Furtado/Track 01.m4a
+630:Nelly Furtado/Turn of the Light.m4a
+631:New Radicals/You Get What You Give.mp3
+632:Nickelback/Sharp Dressed Man 2007 Live.mp3
+633:Nickelback/Animals.mp3
+634:Nickelback/Far Away.mp3
+635:Nickelback/Photograph.mp3
+636:Nickelback/Rockstar.mp3
+637:Nickelback/Burn It To The Ground.mp3
+638:Nickelback/Bottoms Up.mp3
+639:Nickelback/This Means War.mp3
+640:Nickelback/What Are You Waiting For.mp3
+641:Nickelback/ Never Again .mp3
+642:Nickelback/How You Remind Me.mp3
+643:Nirvana/Smells Like Teen Spirit.mp3
+644:No Doubt/It's My Life.mp3
+645:Oasis/Wonderwall.mp3
+646:Olivia Newton John/Hopelessly Devoted To You.mp3
+647:Orlando Morais/Na Paz.m4a
+648:Passenger/Let Her Go.mp3
+649:Paul Young/Everytime You Go Away.mp3
+650:Paulo Gonzo/Dei-te Quase Tudo.mp3
+651:Paulo Gonzo/Espelho (De Outra Agua).mp3
+652:Paulo Gonzo/Jardins Proibidos.mp3
+653:Paulo Gonzo/Leve Beijo Triste.mp3
+654:Paulo Gonzo/Quem De Nós Dois.mp3
+655:Paulo Gonzo/Sei-te De Cor.mp3
+656:Peter Frampton/Baby, I Love Your Way.mp3
+657:Peter Frampton/Do You Feel Like I Do_.mp3
+658:Peter Frampton/Show Me The Way.mp3
+659:Phill Collins/A Groovy Kind Of Love.mp3
+660:Phill Collins/Against All Odds.mp3
+661:Phill Collins/Another Day In Paradise.mp3
+662:Phill Collins/Don't Let Him Steal Your Heart Away.mp3
+663:Pink Floyd - Best Of/103-pink_floyd-the_happiest_days_of_our_lives.mp3
+664:Pink Floyd - Best Of/104-pink_floyd-another_brick_in_the_wall_(part_2).mp3
+665:Pink Floyd - Best Of/106-pink_floyd-hey_you.mp3
+666:Pink Floyd - Best Of/108-pink_floyd-the_great_gig_in_the_sky.mp3
+667:Pink Floyd - Best Of/110-pink_floyd-money.mp3
+668:Pink Floyd - Best Of/201-pink_floyd-shine_on_you_crazy_diamond_(parts_1-7).mp3
+669:Pink Floyd - Best Of/202-pink_floyd-time.mp3
+670:Pink Floyd - Best Of/204-pink_floyd-comfortably_numb.mp3
+671:Pink Floyd - Best Of/207-pink_floyd-us_and_them.mp3
+672:Pink Floyd - Best Of/208-pink_floyd-learning_to_fly.mp3
+673:Pink Floyd - Best Of/210-pink_floyd-wish_you_were_here.mp3
+674:Pretenders/Brass In Pocket.mp3
+675:Pretenders/I'll Stand By You.mp3
+676:Prince/Kiss.mp3
+677:Prince/Diamonds And Pearls.m4a
+678:Prince/Cream.m4a
+679:Prince/Strollin'.m4a
+680:Prince/Money Don't Matter 2 Night.m4a
+681:Pussycat Dolls/Don't cha.m4a
+682:Queen/Bohemian Rhapsody.m4a
+683:Queen/Another One Bites The Dust.m4a
+684:Queen/Bicycle Race.m4a
+685:Queen/You're My Best Friend.m4a
+686:Queen/Don't Stop Me Now.m4a
+687:Queen/Crazy Little Thing Called Love.m4a
+688:Queen/Somebody To Love.m4a
+689:Queen/We Will Rock You 1.m4a
+690:Queen/We Are The Champions.m4a
+691:Queen/A Kind Of Magic.m4a
+692:Queen/Under Pressure.m4a
+693:Queen/Radio GA GA.m4a
+694:Queen/I Want It All.m4a
+695:Queen/I Want To Break Free.m4a
+696:Queen/It's A Hard Life.m4a
+697:Queen/Who Wants To Live Forever.m4a
+698:Queen/The Show Must Go On.m4a
+699:Queen/One Vision.m4a
+700:Quinta do Bill/Se Te Amo.mp3
+701:Quinta do Bill/Voa.mp3
+702:R. Kelly/I Believe I Can Fly.mp3
+703:Radio Macau/Amanhã é sempre longe demais.mp3
+704:Radio Macau/Cantiga de Amor.mp3
+705:Radio Macau/Manual De Sobrevivência.mp3
+706:Radio Macau/O anzol.mp3
+707:Rainbow/All Night Long.mp3
+708:Rainbow/Can't Let You Go.mp3
+709:Rainbow/I Surrender.mp3
+710:Rainbow/Since You've Been Gone.mp3
+711:Rainbow/Street Of Dreams.mp3
+712:Rare Blend/Boom Boom Boom.m4a
+713:Ray LaMontagne/01 You Are the Best Thing.m4a
+714:Ray LaMontagne/02 Let It Be Me.m4a
+715:Ray LaMontagne/03 Sarah.m4a
+716:Ray LaMontagne/04 I Still Care for You.m4a
+717:Ray LaMontagne/05 Winter Birds.m4a
+718:Ray LaMontagne/06 Meg White.m4a
+719:Ray LaMontagne/07 Hey Me, Hey M__a.m4a
+720:Ray LaMontagne/08 Henry Nearly Killed Me (It's a Shame).m4a
+721:Ray LaMontagne/09 A Falling Through.m4a
+722:Ray LaMontagne/10 Gossip In the Grain.m4a
+723:Richard Marx/Right Here Waiting.mp3
+724:Ricky Martin/She's All I Ever Had.mp3
+725:Ricky Martin/I don't care.m4a
+726:Ricky Martin/Jaleo.m4a
+727:Ricky Martin/La Copa De La Vida.m4a
+728:Ricky Martin/Fuego de Noche, Nieve de Dia.mp3
+729:Ricky Van Shelton & The Beach Boys/Fun, Fun, Fun.m4a
+730:Rihana/Umbrella.m4a
+731:Rihana/Push Up On Me.m4a
+732:Rihana/Don't Stop The Music.m4a
+733:Rihana/Shut Up And Drive.m4a
+734:Robbie Williams/millenium.mp3
+735:Robbie Williams/She's the One.mp3
+736:Robbie Williams/Angels.mp3
+737:Ronan Keating/Life Is A Rollercoaster.mp3
+738:Ronan Keating/when you say nothing at all.mp3
+739:Ronnie James Dio/Dream On.mp3
+740:Ronnie James Dio/Holy Diver.mp3
+741:Ronnie James Dio/Rainbow In The Dark.mp3
+742:Ronnie James Dio/The Last In Line.mp3
+743:Rosana/El Talismán.m4a
+744:Rosana/A Fuego Lento.m4a
+745:Rosana/Si Tú No Estás.m4a
+746:Rosana/Bebes De Mí.m4a
+747:Rosana/Sin Miedo.m4a
+748:Rosana/Deray.m4a
+749:Roxxette/Vulnerable.mp3
+750:Sade/By Your Side.mp3
+751:Sade/Your Love Is King.mp3
+752:Sam Hunt/Take your Time.mp3
+753:Sarah/Time to Say Goodbye.mp3
+754:Savage Garden/I Knew I Love You.mp3
+755:Savage Garden/To The Moon & Back.mp3
+756:Sawyer Brown & The Beach Boys/05 I Get Around.m4a
+757:Saxon/Ride Like The Wind.mp3
+758:Saxon/Back on the Streets.mp3
+759:Scorpions/No One Like You.mp3
+760:Scorpions/Rock You Like A Hurricane.mp3
+761:Scorpions/Holiday.mp3
+762:Scorpions/Send Me An Angel.mp3
+763:Scorpions/Wind Of Change.mp3
+764:Scorpions/You And I.mp3
+765:Scorpions/Still Loving You.m4a
+766:Scorpions/When The Smoke Is Going Down.m4a
+767:Scorpions/Always Somewhere.m4a
+768:Scorpions/Lady Starlight.m4a
+769:Scorpions/Holiday.m4a
+770:Seal/Kiss From A Rose.m4a
+771:Seu Jorge - Best Of/01 Burguesinha.mp3
+772:Seu Jorge - Best Of/02 Mina Do Condomínio.mp3
+773:Seu Jorge - Best Of/03 Tive Razão (ao vivo).mp3
+774:Seu Jorge - Best Of/04 Carolina (ao vivo).mp3
+775:Seu Jorge - Best Of/05 País Tropical (ao vivo).mp3
+776:Seu Jorge - Best Of/06 São Gonça (ao vivo).mp3
+777:Seu Jorge - Best Of/07 É Isso Aí (acústico).mp3
+778:Seu Jorge - Best Of/08 Zé Do Caroço (ao vivo).mp3
+779:Seu Jorge - Best Of/09 Eu Sou O Samba.mp3
+780:Seu Jorge - Best Of/10 Pessoal Particular.mp3
+781:Seu Jorge - Best Of/11 Seu Olhar.mp3
+782:Seu Jorge - Best Of/12 Me Deixa Em Paz.mp3
+783:Seu Jorge - Best Of/13 Pode Acreditar (Meu Laiá Laiá).mp3
+784:Seu Jorge - Best Of/14 Cotidiano.mp3
+785:Shadows/Theme from the deer Hunter (Cavatina).mp3
+786:Shakira/La tortura.m4a
+787:Shakira/Don't bother.m4a
+788:Shania Twain/Man! I Feel Like A Woman!.m4a
+789:Shania Twain/I'm Holdin' On To Love (To Save My Life).m4a
+790:Shania Twain/Love Gets Me Every Time.m4a
+791:Shania Twain/Don't Be Stupid (You Know I Love You).m4a
+792:Shania Twain/You're Still The One.m4a
+793:Shania Twain/That Don't Impress Me Much.m4a
+794:Shania Twain/Whose Bed Have Your Boots Been Under.m4a
+795:Shania Twain/No One Needs To Know.m4a
+796:Sheryl Crow/Run Baby Run.m4a
+797:Sia/Academia.mp3
+798:Sia/Big Girls Cry.mp3
+799:Sia/Day Too Soon.mp3
+800:Sia/Distractions.mp3
+801:Sia/Electric Bird.mp3
+802:Sia/Lentil.mp3
+803:Sia/Little Black Sandals.mp3
+804:Sia/Soon We'll Be Found.mp3
+805:Sia/The Girl You Lost to Cocaine.mp3
+806:Simon & Garfunkel/The Sound of Silence (Original Version from 1964).mp3
+807:Simone/Muito Estranho (Cuida Bem de Mim).m4a
+808:Simply Red/Sunrise.mp3
+809:Simply Red/You Make Me Feel Brand New.mp3
+810:Simply Red/Something Got Me Started.m4a
+811:Simply Red/Stars.m4a
+812:Simply Red/For Your Babies.m4a
+813:Sisters Sledge/Family.m4a
+814:Sixpence None The Richer/Kiss Me.mp3
+815:Skrillex/Equinox (First Of The Year) (Drum Cover).mp3
+816:Snap!/The Power.m4a
+817:Soundgarden/Black Hole Sun.mp3
+818:Spice Girls/Stop.m4a
+819:Steel Dragon/We All Die Young.mp3
+820:Sting/When We Dance.m4a
+821:Sting/Fields Of Gold.m4a
+822:Sting/Englishman In New York.m4a
+823:Sting/If I Ever Lose My Faith In You.m4a
+824:Sting/Fragile.m4a
+825:Sting/Fragilidad.mp3
+826:Stravinsky - The Rite Of Spring, Firebird Suite/01 Stravinsky_ The Rite Of Spring - Part 1_ Introduction.m4a
+827:Stravinsky - The Rite Of Spring, Firebird Suite/02 Stravinsky_ The Rite Of Spring - Part 1_ Harbingers Of Spring.m4a
+828:Stravinsky - The Rite Of Spring, Firebird Suite/03 Stravinsky_ The Rite Of Spring - Part 1_ Mock Abduction.m4a
+829:Stravinsky - The Rite Of Spring, Firebird Suite/04 Stravinsky_ The Rite Of Spring - Part 1_ Spring Rounds.m4a
+830:Stravinsky - The Rite Of Spring, Firebird Suite/05 Stravinsky_ The Rite Of Spring - Part 1_ Games Of The Rival Tribes.m4a
+831:Stravinsky - The Rite Of Spring, Firebird Suite/06 Stravinsky_ The Rite Of Spring - Part 1_ Procession Of The Wise Elder.m4a
+832:Stravinsky - The Rite Of Spring, Firebird Suite/07 Stravinsky_ The Rite Of Spring - Part 1_ Adoration Of The Earth.m4a
+833:Stravinsky - The Rite Of Spring, Firebird Suite/08 Stravinsky_ The Rite Of Spring - Part 1_ Dance Of The Earth.m4a
+834:Stravinsky - The Rite Of Spring, Firebird Suite/09 Stravinsky_ The Rite Of Spring - Part 2_ Introduction.m4a
+835:Stravinsky - The Rite Of Spring, Firebird Suite/10 Stravinsky_ The Rite Of Spring - Part 2_ Mystic Circles Of The Young Girls.m4a
+836:Stravinsky - The Rite Of Spring, Firebird Suite/11 Stravinsky_ The Rite Of Spring - Part 2_ Glorification Of The Chosen One.m4a
+837:Stravinsky - The Rite Of Spring, Firebird Suite/12 Stravinsky_ The Rite Of Spring - Part 2_ Summoning Of The Ancients.m4a
+838:Stravinsky - The Rite Of Spring, Firebird Suite/13 Stravinsky_ The Rite Of Spring - Part 2_ Ritual Of The Ancients.m4a
+839:Stravinsky - The Rite Of Spring, Firebird Suite/14 Stravinsky_ The Rite Of Spring - Part 2_ Sacrificial Dance.m4a
+840:Stravinsky - The Rite Of Spring, Firebird Suite/15 Stravinsky_ The Firebird - Introduction.m4a
+841:Stravinsky - The Rite Of Spring, Firebird Suite/16 Stravinsky_ The Firebird - The Firebird & His Dance.m4a
+842:Stravinsky - The Rite Of Spring, Firebird Suite/17 Stravinsky_ The Firebird - Variation Of The Firebird.m4a
+843:Stravinsky - The Rite Of Spring, Firebird Suite/18 Stravinsky_ The Firebird - The Round Of The Princesses.m4a
+844:Stravinsky - The Rite Of Spring, Firebird Suite/19 Stravinsky_ The Firebird - Infernal Dance Of King Kastchei.m4a
+845:Stravinsky - The Rite Of Spring, Firebird Suite/20 Stravinsky_ The Firebird - Berceuse.m4a
+846:Stravinsky - The Rite Of Spring, Firebird Suite/21 Stravinsky_ The Firebird - Finale.m4a
+847:Supertramp/School.m4a
+848:Supertramp/Goodbye Stranger.m4a
+849:Supertramp/The Logical Song.m4a
+850:Supertramp/Bloody Well Right.m4a
+851:Supertramp/Breakfast In America.m4a
+852:Supertramp/Rudy.m4a
+853:Supertramp/Take The Long Way Home.m4a
+854:Supertramp/Crime Of The Century.m4a
+855:Supertramp/Dreamer.m4a
+856:Supertramp/Ain't Nobody But Me.m4a
+857:Supertramp/Hide In Your Shell.m4a
+858:Supertramp/From Now On.m4a
+859:Supertramp/Give A Little Bit.m4a
+860:Supertramp/It's Raining Again.m4a
+861:Supertramp/Cannonball.m4a
+862:Supertramp/Lady.m4a
+863:Supertramp/Oh Darling.m4a
+864:Supertramp/Even In The Quietest Moment.m4a
+865:Supertramp/Waiting So Long.m4a
+866:Supertramp/Babaji.m4a
+867:Supertramp/Gone Hollywood.m4a
+868:Supertramp/If Everyone Was Listening.m4a
+869:Supertramp/Just Another Nervous Wreck.m4a
+870:Supertramp/Don't Leave Me Now.m4a
+871:Supertramp/My Kind Of Lady.m4a
+872:Supertramp/A Soapbox Opera.m4a
+873:Supertramp/Downstream.m4a
+874:Supertramp/Fool's Overture.m4a
+875:System Of A Down/Lonely Day.mp3
+876:System Of A Down/B.Y.O.B.mp3
+877:System Of A Down/Aerials.mp3
+878:System Of A Down/Chop Suey!.mp3
+879:System Of A Down/Toxicity.mp3
+880:Talk Talk/It´s My Life.mp3
+881:Talk Talk/Such A Shame.mp3
+882:Talk Talk/Talk Talk.m4a
+883:Thomas Rhett/It Goes Like This.mp3
+884:Three Days Grace/I Hate Everything About You.mp3
+885:Tiago Bettencourt/Caminho De Voltar.mp3
+886:Tiago Bettencourt/Fúria e Paz.mp3
+887:Tiago Bettencourt/Maria.mp3
+888:Tiago Bettencourt/Partimos a Pedra.mp3
+889:Tiago Bettencourt/Sara.mp3
+890:Tiago Bettencourt/Se Me Deixasses Ser.mp3
+891:Tiago Bettencourt/Sol de Março.mp3
+892:Timothy B. Schmit & The Beach Boys/Caroline, No.m4a
+893:Tina Turner/The Best.m4a
+894:Tina Turner/What's Love Got To Do With It.m4a
+895:Tina Turner/I Can't Stand The Rain.m4a
+896:Tina Turner/I Don't Wanna Lose You.m4a
+897:Tina Turner/Let's Stay Together.m4a
+898:Tina Turner/Private Dancer.m4a
+899:Tina Turner/We Don't Need Another Hero.m4a
+900:Tina Turner/Typical Male.m4a
+901:Tina Turner/Way Of The World.m4a
+902:Titãs/Epitáfio.m4a
+903:Toranja/Carta.mp3
+904:Toranja/Laços.mp3
+905:Toranja/Quebramos os Dois.mp3
+906:Train/Drops Of Jupiter.mp3
+907:Tres Tristes Tigres/O mundo a meus pés.mp3
+908:Trovante/125 Azul.mp3
+909:Trovante/Balada das Sete Saias.mp3
+910:Trovante/Fizeram os Dias Assim.mp3
+911:Trovante/Um Caso Mais.mp3
+912:U2/Magnificent.mp3
+913:U2/Mysterious Ways.mp3
+914:UB40/Kingston Town.m4a
+915:Van Halen/Ain't Talkin' 'Bout Love.mp3
+916:Van Halen/Dreams.mp3
+917:Van Halen/Eruption_You Really Got Me.mp3
+918:Van Halen/Panama.mp3
+919:Van Halen/When Its Love.mp3
+920:Van Halen/Eruption.mp3
+921:Van Halen/Jump.mp3
+922:Van Halen/Love Walks In.mp3
+923:Van Halen/Why Cant This Be Love.mp3
+924:The Verve/The Drugs Don_t Work.mp3
+925:White Lion/When The Children Cry.mp3
+926:Whitesnake/Crying in the Rain.mp3
+927:Whitesnake/Slow an' Easy.mp3
+928:Whitesnake/Spit It Out.mp3
+929:Whitesnake/Love Ain't No Stranger.mp3
+930:Whitesnake/Still Of The Night.m4a
+931:Whitesnake/Here I Go Again.m4a
+932:Whitesnake/Give Me All Your Love.m4a
+933:Whitesnake/Is This Love.m4a
+934:Whitesnake/Don't Turn Away.m4a
+935:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/01 Konzert für Flöte und Hafe C-.Dur KV 299 1. Allegro.m4a
+936:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/02 Konzert für Flöte und Hafe C-.Dur KV 299 2. Andantino.m4a
+937:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/03 Konzert für Flöte und Hafe C-.Dur KV 299 3. Rondeau - Allegro.m4a
+938:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/04 Konzer für Flöte und Orchester G-Dur KV 313 1. Allegro maestoso.m4a
+939:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/05 Konzer für Flöte und Orchester G-Dur KV 313 2. Adagio ma non troppo.m4a
+940:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/06 Konzer für Flöte und Orchester G-Dur KV 313 3. Rondeau - tempo di menu etto.m4a
+941:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/07 Andante für Flöte und Orchester C-Dur KV 315.m4a
+942:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/01 Concerto for Oboe and Orchestra in C major, K314 - I. Allegro aperto.m4a
+943:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/02 II. Adagio non troppo.m4a
+944:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/03 III. Rondo (Allegretto).m4a
+945:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/04 Concerto for Clarinet and Orchestra in A major, K622 - I. Allegro.m4a
+946:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/05 II. Adagio.m4a
+947:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/06 III. Rondo (Allegro).m4a
+948:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/07 Concerto for Bassoon and Orchestra in B flat, K191 - I. Allegro.m4a
+949:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/08 II. Andante ma adagio.m4a
+950:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/09 III. Rondo (Tempo di menuetto).m4a
+951:Wolfgang Amadeus Mozart/The Four Horn Concertos/01 Concerto for Horn and Orchestra No. 1 in D-dur, K412 - I. Allegro.m4a
+952:Wolfgang Amadeus Mozart/The Four Horn Concertos/02 II. Rondo - Allegro.m4a
+953:Wolfgang Amadeus Mozart/The Four Horn Concertos/03 Concerto for Horn and Orchestra No. 4 in Es-dur, K495 - I. Allegro maestoso.m4a
+954:Wolfgang Amadeus Mozart/The Four Horn Concertos/04 II. Romance - Andante cantabile.m4a
+955:Wolfgang Amadeus Mozart/The Four Horn Concertos/05 III. Rondo - Allegro vivace.m4a
+956:Wolfgang Amadeus Mozart/The Four Horn Concertos/06 Concerto for Horn and Orchestra No. 2 in Es-dur, K417 - I. Allegro.m4a
+957:Wolfgang Amadeus Mozart/The Four Horn Concertos/07 II. Andante.m4a
+958:Wolfgang Amadeus Mozart/The Four Horn Concertos/08 III. Rondo - Allegro.m4a
+959:Wolfgang Amadeus Mozart/The Four Horn Concertos/09 Concerto for Horn and Orchestra No. 3 in Es-dur, K447 - I. Allegro.m4a
+960:Wolfgang Amadeus Mozart/The Four Horn Concertos/10 II. Romance - Larghetto.m4a
+961:Wolfgang Amadeus Mozart/The Four Horn Concertos/11 III. Allegro.m4a
+962:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/01 Concerto for Violin and Orchestra No. 2 in D major, K211 - I. Allegro moderato.m4a
+963:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/02 II. Andante.m4a
+964:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/03 III. Rondeau - Allegro.m4a
+965:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/04 Concerto for Violin and Orchestra No. 4 in D major, K218 - I. Allegro.m4a
+966:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/05 II. Andante cantabile.m4a
+967:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/06 III. Rondeau.m4a
+968:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/07 Sinfonia concertante in E flat major, K364 - I. Allegro maestoso.m4a
+969:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/08 II. Andante.m4a
+970:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/09 III. Presto.m4a
+971:Xutos E Pontapés/Chuva Dissolvente.mp3
+972:Xutos E Pontapés/Circo de Feras.mp3
+973:Xutos E Pontapés/Homem do Leme.mp3
+974:Zero 7/Destiny.mp3
+975:Zero 7/Destiny.mp3
+976:Zero 7/Destiny.mp3
+977:Zero 7/Destiny.mp3
+978:Zero 7/Destiny.mp3
+979:Zero 7/Destiny.mp3
+980:Zero 7/Destiny.mp3
+981:Zero 7/Destiny.mp3
+982:Zero 7/Destiny.mp3
+983:Zero 7/Destiny.mp3
+984:Zero 7/Destiny.mp3
+985:Zero 7/Destiny.mp3
+986:John Mayer's Greatest Hits (2009 Ed.)/13. John Mayer - Say.mp3
+987:John Mayer 2019/01 New Light.mp3
+988:America Greatest Hits/(01) America - A Horse with No Name.mp3
+989:America Greatest Hits/(02) America - Sandman.mp3
+990:America Greatest Hits/(03) America - I Need You.mp3
+991:America Greatest Hits/(04) America - Everyone I Meet Is from California.mp3
+992:America Greatest Hits/(05) America - Ventura Highway.mp3
+993:America Greatest Hits/(06) America - Don't Cross the River.mp3
+994:America Greatest Hits/(08) America - Muskrat Love.mp3
+995:America Greatest Hits/(09) America - Another Try.mp3
+996:America Greatest Hits/(10) America - Tin Man.mp3
+997:America Greatest Hits/(11) America - Lonely People.mp3
+998:America Greatest Hits/(12) America - Sister Golden Hair.mp3
+999:America Greatest Hits/(13) America - Daisy Jane.mp3
+1000:America Greatest Hits/(14) America - Woman Tonight.mp3
+1001:America Greatest Hits/(15) America - Today's the Day.mp3
+1002:America Greatest Hits/(16) America - Amber Cascades.mp3
+1003:America Greatest Hits/(17) America - California Dreamin'.mp3
+1004:America Greatest Hits/(18) America - You Can Do Magic.mp3
+1005:America Greatest Hits/(19) America - Right Before Your Eyes.mp3
+1006:America Greatest Hits/(20) America - The Border.mp3
+1007:America Greatest Hits/(21) America - World of Light.mp3
+1008:Alizee The Best Songs/01. Moi... Lolita.mp3
+1009:The Doobie Brothers - Greatest Hits/01.Listen To The Music.mp3
+1010:Olivia Newton-John - The Greatest Hits/Bonus - Live - Song number with John Travolta - Grease/(Live at reunion) Olivia Newton-John   John Travolta - You're the One That I Want.mp4
+1011:Alizee The Best Songs/01. Moi... Lolita.mp3
+1012:Jacobs Piano/1 HOUR RELAXING PIANO  Studying and Relaxation  Jacobs Piano.mp3
+1013:Alizee The Best Songs/02. Lui ou toi.mp3
+1014:Alizee The Best Songs/03. L'Alize.mp3
+1015:2 Eivissa/Move Your Body.mp3
+1016:a-Ha/Take On Me.m4a
+1017:Aaron Neville & Celine Dion/Beauty And The Beast.mp3
+1018:ABBA/Dancing Queen.m4a
+1019:ABBA/Knowing Me, Knowing You.m4a
+1020:ABBA/Take A Chance On Me.m4a
+1021:ABBA/Mamma Mia.m4a
+1022:ABBA/Lay All Your Love On Me.m4a
+1023:ABBA/Super Trouper.m4a
+1024:ABBA/I Have A Dream.m4a
+1025:ABBA/The Winner Takes It All.m4a
+1026:ABBA/Money, Money, Money.m4a
+1027:ABBA/S.O.S.m4a
+1028:ABBA/Chiquitita.m4a
+1029:ABBA/Fernando.m4a
+1030:ABBA/Voulez Vous.m4a
+1031:ABBA/Gimme! Gimme! Gimme! (A Man After Midnight ).m4a
+1032:ABBA/Does Your Mother Know.m4a
+1033:ABBA/One Of Us.m4a
+1034:ABBA/The Name Of The Game.m4a
+1035:ABBA/Thank You For The Music.m4a
+1036:ABBA/Waterloo.m4a
+1037:ABBA/Andante, Andante.m4a
+1038:ABBA/One Man, One Woman.m4a
+1039:ABBA/Eagle.m4a
+1040:ABBA/Slipping Through My Fingers.m4a
+1041:ABBA/My Love, My Life.m4a
+1042:ABBA/Our Last Summer.m4a
+1043:ABBA/Like An Angel Passing Through My Room.m4a
+1044:ABBA/I Wonder (Departure).m4a
+1045:ABBA/I Let The Music Speak.m4a
+1046:ABBA/The Way Old Friends Do.m4a
+1047:ACDC/It's A Long Way To The Top (If You Wanna Rock 'N' Roll).mp3
+1048:ACDC/Back In Black.mp3
+1049:ACDC/Hells Bells.mp3
+1050:ACDC/Thunderstruck.mp3
+1051:ACDC/You Shook Me All Night Long.mp3
+1052:Ace of Base/Cruel Summer.mp3
+1053:Alan Jackson/Remember When.mp3
+1054:The Alan Parson Project/Eye in the Sky.mp3
+1055:Alanis Morissette/01 Alanis Morissette - You Oughta Know.mp3
+1056:Alanis Morissette/02 Alanis Morissette - Ironic.mp3
+1057:Alanis Morissette/05 Alanis Morissette - Thank You.mp3
+1058:Alanis Morissette/08 Alanis Morissette - You Learn.mp3
+1059:Alanis Morissette/10 Alanis Morissette - Hand in My Pocket.mp3
+1060:Alanis Morissette/11 Alanis Morissette - That I Would Be Good.mp3
+1061:Alanis Morissette/17 Alanis Morissette - Head Over Feet.mp3
+1062:All Saints/Never Ever.m4a
+1063:Amália Rodrigues/Estranha Forma de Vida.m4a
+1064:Amália Rodrigues/Fado Português.m4a
+1065:Amália Rodrigues/Trova Do Vento Que Passa.m4a
+1066:Amália Rodrigues/Povo Que Lavas No Rio.m4a
+1067:Amália Rodrigues/Com Que Voz.m4a
+1068:Amália Rodrigues/Vou Dar de Beber À Dor.m4a
+1069:Amor Electro/A Máquina.mp3
+1070:Amor Electro/Capitão Romance.mp3
+1071:Amor Electro/Mar Salgado.mp3
+1072:Amor Electro/Rosa Sangue.mp3
+1073:Amor Electro/Sei.mp3
+1074:Ana Carolina/Ana Carolina - Quem De Nós Dois (La Mia Storia Tra Le Dita).mp3
+1075:Ana Carolina/Ana Carolina e Seu Jorge - É isso aí.mp3
+1076:António Zambujo/Algo Estranho Acontece.mp3
+1077:António Zambujo/Flagrante.mp3
+1078:António Zambujo/Fortuna.mp3
+1079:António Zambujo/Lambreta.mp3
+1080:Aqua/Turn Back Time.mp3
+1081:The Art Of Noise Feat. Tom Jones/Kiss.m4a
+1082:Asia/Heat Of The Moment.mp3
+1083:Asia/Only time will tell.mp3
+1084:Asia/Sole Survivor.mp3
+1085:Avenged Sevenfold/Hail To The King.mp3
+1086:Avenged Sevenfold/Nightmare.mp3
+1087:Avenged Sevenfold/So Far Away.mp3
+1088:Backstreet Boys/As Long As You Love Me.mp3
+1089:Backstreet Boys/Everybody.mp3
+1090:Backstreet Boys/I Want It That Way.mp3
+1091:Backstreet Boys/I_Want_It_That_Way.mp3
+1092:Backstreet Boys/Quit Playing Games With My Hea.mp3
+1093:Backstreet Boys/Incomplete.m4a
+1094:Barbra Streisand/We're Not Makin' Love Anymore.m4a
+1095:Barbra Streisand/Woman In Love.m4a
+1096:Barbra Streisand/All I Ask Of You.m4a
+1097:Barbra Streisand/What Kind Of Fool.m4a
+1098:Barbra Streisand/By The Way.m4a
+1099:Barbra Streisand/Guilty.m4a
+1100:Barbra Streisand/Memory (From Cats).m4a
+1101:Barbra Streisand/The Way He Makes Me Feel.m4a
+1102:Barclay James Harvest/Child Of Universe.mp3
+1103:Barclay James Harvest/love on the line.mp3
+1104:Barclay James Harvest/Berlin.mp3
+1105:Barclay James Harvest/Titles.mp3
+1106:Barclay James Harvest/Victims Of Circumstance.mp3
+1107:Barclay James Harvest/Life is for Living.mp3
+1108:Barry White/Just The Way You Are.m4a
+1109:The Beach Boys/Kokomo.m4a
+1110:Bee Gees/Barbra Streisand & Barry Gibb - Guilty (HQ).mp3
+1111:Bee Gees/Barbra Streisand & Barry Gibb - What Kind Of Fool (1980).mp3
+1112:Bee Gees/To Love Somebody.m4a
+1113:Bee Gees/Massachusetts.m4a
+1114:Bee Gees/Words.m4a
+1115:Bee Gees/Run To Me.m4a
+1116:Bee Gees/Jive Talkin'.m4a
+1117:Bee Gees/You Should Be Dancing.m4a
+1118:Bee Gees/How Deep Is Your Love.m4a
+1119:Bee Gees/More Than A Woman.m4a
+1120:Bee Gees/Stayin' Alive.m4a
+1121:Bee Gees/Night Fever.m4a
+1122:Bee Gees/Too Much Heaven.m4a
+1123:Bee Gees/Tragedy.m4a
+1124:Bee Gees/You Win Again.m4a
+1125:Billy Idol/Eyes Without A Face.mp3
+1126:Billy Idol/Sweet Sixteen.mp3
+1127:Bjork/Army of Me (feat. Skunk Anansie).mp3
+1128:Blake Shelton/Came Here To Forget.mp3
+1129:Blake Shelton/Honey Bee.mp3
+1130:Blake Shelton/Who Are You When I'm Not Looking.mp3
+1131:Bobby McFerrin/Don't Worry, Be Happy.m4a
+1132:Bon Jovi/Runaway.mp3
+1133:Boston - Greatest Hits/01 Tell Me.mp3
+1134:Boston - Greatest Hits/02 Higher Power.mp3
+1135:Boston - Greatest Hits/03 More Than a Feeling.mp3
+1136:Boston - Greatest Hits/04 Peace of Mind.mp3
+1137:Boston - Greatest Hits/05 Don't Look Back.mp3
+1138:Boston - Greatest Hits/06 Cool the Engines.mp3
+1139:Boston - Greatest Hits/07 Livin' For You.mp3
+1140:Boston - Greatest Hits/08 Feelin' Satisfied.mp3
+1141:Boston - Greatest Hits/09 Party.mp3
+1142:Boston - Greatest Hits/10 Foreplay - Long Time.mp3
+1143:Boston - Greatest Hits/11 Amanda.mp3
+1144:Boston - Greatest Hits/12 Rock & Roll Band.mp3
+1145:Boston - Greatest Hits/13 Smokin'.mp3
+1146:Boston - Greatest Hits/14 A Man I'll Never Be.mp3
+1147:Boston - Greatest Hits/15 4th of July Reprise.mp3
+1148:Boston - Greatest Hits/16 Higher Power (Kalodner Edit).mp3
+1149:Boyzone/No Matter What.mp3
+1150:Boyzone/You Needed Me.mp3
+1151:Boyzone/A Picture Of You.m4a
+1152:Brett Eldredge/Wanna be that song.mp3
+1153:Brett Young/In Case You Didn't Know.mp3
+1154:Brett Young/Sleep Without You.mp3
+1155:Britney Spears/My Prerogative.m4a
+1156:Britney Spears/I'm A Slave 4 U.m4a
+1157:Britney Spears/Oops!... I Did It Again.m4a
+1158:Britney Spears/Me Against The Music.m4a
+1159:Britney Spears/Everytime.m4a
+1160:Britney Spears/...Baby One More Time.m4a
+1161:Britney Spears/(You Drive Me) Crazy (The Stop Remix!).m4a
+1162:Britney Spears/Boys (The Co-Ed Remix).m4a
+1163:Britney Spears/Sometimes.m4a
+1164:Britney Spears/Overprotected (The Dark Child Remix , Radio Edit).m4a
+1165:Britney Spears/Lucky.m4a
+1166:Britney Spears/Outrageous.m4a
+1167:Britney Spears/Born To Make You Happy.m4a
+1168:Britney Spears/I Love Rock 'N' Roll.m4a
+1169:Britney Spears/I'm Not A Girl, Not Yet A Woman.m4a
+1170:Bruce Springsteen/Dancing in the Dark.mp3
+1171:Bruce Springsteen/Streets Of Philadelphia.mp3
+1172:Bryan Adams/Brand New Day.mp3
+1173:Bryan Adams/Don't Even Try.mp3
+1174:Bryan Adams/I Thought I'd Seen Everything.mp3
+1175:Bryan Adams/You Belong To Me.mp3
+1176:Bryan Adams/Let's Make A Night To Remember.mp3
+1177:Bryan Adams/I'm Ready.mp3
+1178:Bryan Adams/When You're Gone ft. Melanie C.mp3
+1179:Bryan Adams/Heaven - Acoustic Live.mp3
+1180:Bryan Adams/It's Only Love.mp3
+1181:Bryan Adams/Run To You.mp3
+1182:Bryan Adams/Summer Of '69.mp3
+1183:Bryan Adams/Can't Stop This Thing We Started.m4a
+1184:Bryan Adams/Please Forgive Me.mp3
+1185:Bryan Adams/Best Of Me.mp3
+1186:Bryan Adams/Can't Stop This Thing We Started.mp3
+1187:Bryan Adams/Do I Have To Say The Words.mp3
+1188:Caetano Veloso/Sozinho.m4a
+1189:Caetano Veloso/Samba De Verao.m4a
+1190:Caetano Veloso/Leãozinho.m4a
+1191:Caetano Veloso/Sonhos.m4a
+1192:Calcanhoto/Vambora.mp3
+1193:Calcanhoto/Adriana Calcanhoto - 02-Mais Feliz.mp3
+1194:Calcanhoto/Adriana Calcanhoto - 07-Vambora.mp3
+1195:The Calling/Wherever You Will Go.mp3
+1196:Carlos do Carmo/Gaivota.m4a
+1197:Carlos do Carmo/Por Morrer Uma Andorinha.m4a
+1198:Carlos do Carmo/Canoas Do Tejo.m4a
+1199:Carlos do Carmo/Os putos.m4a
+1200:Carlos Paredes/Danças Portuguesas.m4a
+1201:Carlos Paredes/Acção.m4a
+1202:Carlos Paredes/Porto Santo.m4a
+1203:Carlos Paredes/Divertimento.m4a
+1204:Carlos Paredes/Canção Verdes Anos.m4a
+1205:Carlos Paredes/Sede e Morte.m4a
+1206:Carpenters/Close to you.mp3
+1207:Carpenters/We've Only Just Begun.mp3
+1208:Carpenters/Yesterday Once More.mp3
+1209:The Cars/Drive.mp3
+1210:Cat Stevens - Best Of/01.The Wind.mp3
+1211:Cat Stevens - Best Of/02.Wild World.mp3
+1212:Cat Stevens - Best Of/03.Oh Very Young.mp3
+1213:Cat Stevens - Best Of/04.Where Do The Children Play.mp3
+1214:Cat Stevens - Best Of/05.Hard Headed Woman.mp3
+1215:Cat Stevens - Best Of/06.Moonshadow.mp3
+1216:Cat Stevens - Best Of/07.Peace Train.mp3
+1217:Cat Stevens - Best Of/08.Father And Son.mp3
+1218:Cat Stevens - Best Of/09.Sitting.mp3
+1219:Cat Stevens - Best Of/10.How Can I Tell You.mp3
+1220:Cat Stevens - Best Of/11.Morning Has Broken.mp3
+1221:Cat Stevens - Best Of/12.The First Cut Is The Deepest.mp3
+1222:Celine Dion/I Drove All Night.mp3
+1223:Celine Dion/Think Twice.mp3
+1224:Celine Dion/Loved Me Back to Life.mp3
+1225:Celine Dion/All By Myself.mp3
+1226:Celine Dion/My Heart Will Go On.mp3
+1227:Celine Dion/Pour que tu m' aimes encore.mp3
+1228:Celine Dion/Beauty and the Beast.mp3
+1229:Cher/Heart Of Stone [Live - The Farewell Tour].mp3
+1230:Cher/Believe.m4a
+1231:Cher/The Shoop Shoop Song (It's In His Kiss).m4a
+1232:Cher/If I Could Turn Back Time.m4a
+1233:Cher/Heart Of Stone.m4a
+1234:Cher/Strong Enough.m4a
+1235:Cher/All Or Nothing.m4a
+1236:Cher/Dov'e L'Amore (Emilio Estefan Jnr. Mix).m4a
+1237:Chicago/If You Leave Me Now.mp3
+1238:Chicago - Best Of/101-Chicago-Make_Me_Smile_(New_Edit)-HHI.mp3
+1239:Chicago - Best Of/102-Chicago-25_Or_6_To_4-HHI.mp3
+1240:Chicago - Best Of/103-Chicago-Does_Anybody_Really_Know_What_Time_It_Is-HHI.mp3
+1241:Chicago - Best Of/104-Chicago-Beginnings-HHI.mp3
+1242:Chicago - Best Of/105-Chicago-Questions_67_And_68-HHI.mp3
+1243:Chicago - Best Of/106-Chicago-Im_A_Man_(New_Edit)-HHI.mp3
+1244:Chicago - Best Of/107-Chicago-Colour_My_World-HHI.mp3
+1245:Chicago - Best Of/108-Chicago-Free-HHI.mp3
+1246:Chicago - Best Of/109-Chicago-Lowdown-HHI.mp3
+1247:Chicago - Best Of/110-Chicago-Saturday_In_The_Park-HHI.mp3
+1248:Chicago - Best Of/111-Chicago-Dialogue_(Part_I_and_II)_(Single_Version)-HHI.mp3
+1249:Chicago - Best Of/112-Chicago-Just_You_N_Me-HHI.mp3
+1250:Chicago - Best Of/113-Chicago-Feelin_Stronger_Every_Day-HHI.mp3
+1251:Chicago - Best Of/114-Chicago-(Ive_Been)_Searchin_So_Long-HHI.mp3
+1252:Chicago - Best Of/115-Chicago-Wishing_You_Were_Here-HHI.mp3
+1253:Chicago - Best Of/116-Chicago-Call_On_Me-HHI.mp3
+1254:Chicago - Best Of/117-Chicago-Happy_Man_(Edit_Form_1981s_Greatest_Hits_Volume_II)-HHI.mp3
+1255:Chicago - Best Of/118-Chicago-Another_Rainy_Day_In_New_York_City-HHI.mp3
+1256:Chicago - Best Of/119-Chicago-If_You_Leave_Me_Now-HHI.mp3
+1257:Chicago - Best Of/201-Chicago-Old_Days-HHI.mp3
+1258:Chicago - Best Of/202-Chicago-Baby_What_A_Big_Surprise-HHI.mp3
+1259:Chicago - Best Of/203-Chicago-Take_Me_Back_To_Chicago_(Single_Version)-HHI.mp3
+1260:Chicago - Best Of/204-Chicago-Alive_Again-HHI.mp3
+1261:Chicago - Best Of/205-Chicago-No_Tell_Lover-HHI.mp3
+1262:Chicago - Best Of/206-Chicago-Love_Me_Tomorrow_(Single_Version)-HHI.mp3
+1263:Chicago - Best Of/207-Chicago-Hard_To_Say_Im_Sorryget_Away-HHI.mp3
+1264:Chicago - Best Of/208-Chicago-Stay_The_Night-HHI.mp3
+1265:Chicago - Best Of/209-Chicago-Hard_Habit_To_Break-HHI.mp3
+1266:Chicago - Best Of/210-Chicago-Youre_The_Inspiration-HHI.mp3
+1267:Chicago - Best Of/211-Chicago-Along_Comes_A_Woman_(Single_Version)-HHI.mp3
+1268:Chicago - Best Of/212-Chicago-Will_You_Still_Love_Me._(Single_Version)-HHI.mp3
+1269:Chicago - Best Of/213-Chicago-If_She_Would_Have_Been_Faithful___-HHI.mp3
+1270:Chicago - Best Of/214-Chicago-Look_Away_(Single_Version)-HHI.mp3
+1271:Chicago - Best Of/215-Chicago-What_Kind_Of_Man_Would_I_Be._(Single_Version)-HHI.mp3
+1272:Chicago - Best Of/216-Chicago-I_Dont_Wanna_Live_Without_Your_Love-HHI.mp3
+1273:Chicago - Best Of/217-Chicago-We_Can_Last_Forever_(Single_Version)-HHI.mp3
+1274:Chicago - Best Of/218-Chicago-Youre_Not_Alone_(Single_Version)-HHI.mp3
+1275:Chicago - Best Of/219-Chicago-Chasin_The_Wind-HHI.mp3
+1276:Chicago - Best Of/220-Chicago-Sing_Sing_Sing_(W_The_Gypsy_Kings)-HHI.mp3
+1277:Chico Buarque_Elza Soares/Façamos (Vamos Amar).m4a
+1278:Clã/Sopro do coração.mp3
+1279:Cliff Richard/We Don't Talk Anymore.mp3
+1280:Cock Robin/Just Around The Corner.mp3
+1281:Collective Soul/Shine.mp3
+1282:Compilations/Metal Ballads Vol. 2/02 Love Don't Lie.m4a
+1283:Compilations/Metal Ballads Vol. 2/03 Soldier Of Fortune.m4a
+1284:Compilations/Metal Ballads Vol. 2/04 Don't Wanna Be Your Fool.m4a
+1285:Compilations/Metal Ballads Vol. 2/07 You Make Me Feel.m4a
+1286:Compilations/Metal Ballads Vol. 2/09 What Love Can Be.m4a
+1287:Compilations/Metal Ballads Vol. 2/10 Empty Rooms.m4a
+1288:Compilations/Metal Ballads Vol. 2/12 You're All I Need.m4a
+1289:Compilations/Metal Ballads Vol. 2/13 Dream On.m4a
+1290:Compilations/Metal Ballads Vol. 2/14 When The Children Cry.m4a
+1291:Compilations/Now 14/1-01 Because of You.m4a
+1292:Compilations/Now 14/1-02 Talk.m4a
+1293:Compilations/Now 14/1-03 First Day of My Life.m4a
+1294:Compilations/Now 14/1-04 Sei-te de Cor.m4a
+1295:Compilations/Now 14/1-06 Advertising Space.m4a
+1296:Compilations/Now 14/1-07 I Belong to You.m4a
+1297:Compilations/Now 14/1-09 Love Generation.m4a
+1298:Compilations/Now 14/1-11 I Still.m4a
+1299:Compilations/Now 14/1-13 A Dança.m4a
+1300:Compilations/Now 14/1-16 Suddenly I See.m4a
+1301:Compilations/Now 14/1-18 Problema de Expressão (ao vivo).m4a
+1302:Compilations/Now 14/2-02 Check On It.m4a
+1303:Compilations/Now 14/2-03 My Humps.m4a
+1304:Compilations/Now 14/2-05 If It's Lovin'.m4a
+1305:Compilations/Now 14/2-10 Suffer Well.m4a
+1306:Compilations/Now 14/2-11 Number 1.m4a
+1307:Compilations/Now 14/2-13 Stickwitu.m4a
+1308:Compilations/Páginas Da Vida - Nacional/10 Se Quiser (Anytime).m4a
+1309:Compilations/Páginas Da Vida - Nacional/12 Eu Sei.m4a
+1310:Compilations/Páginas Da Vida - Nacional/16 Melodia (Da Ópera De Orfeu E Eurídice).m4a
+1311:Compilations/Ricky Martin/01 Livin' La Vida Loca.m4a
+1312:Compilations/Ricky Martin/03 She's All I Ever Had.m4a
+1313:Compilations/Ricky Martin/04 Shake Your Bon-Bon.m4a
+1314:Compilations/Ricky Martin/05 Be Careful (Cuidado Con Mi Corazon).m4a
+1315:Compilations/Ricky Martin/07 Love You For A Day.m4a
+1316:Compilations/The Best Of/04 Private Emotion.m4a
+1317:Compilations/The Best Of/10 Come To Me.m4a
+1318:The Corrs/Dreams.mp3
+1319:The Cranberries/Linger.mp3
+1320:The Cranberries/When You_re Gone.mp3
+1321:Credence Clearwatter Revival/Have You Ever Seen The Rain.mp3
+1322:Creed/With Arms Wide Open.mp3
+1323:Daniel Potter/Track 09.m4a
+1324:Daniela Mercury/Mutante.m4a
+1325:David Gray/Babylon.mp3
+1326:David Gray/Please Forgive Me.mp3
+1327:David Gray/Sail Away.mp3
+1328:David Gray/Say Hello Wave Goodbye.mp3
+1329:David Gray/The One I Love.mp3
+1330:David Gray/This Year's Love.mp3
+1331:Deep Purple/Child in Time.mp3
+1332:Deep Purple/Highway Star.mp3
+1333:Deep Purple/Perfect Strangers.mp3
+1334:Deep Purple/Smoke on the Water.mp3
+1335:Deep Purple/Hush.mp3
+1336:Deep Purple/Smoke On The Water.mp3
+1337:Deep Purple/Soldier Of Fortune.mp3
+1338:Deep Purple/Sweet Child In Time.MP3
+1339:Def Leppard/Animal.mp3
+1340:Def Leppard/Hysteria.mp3
+1341:Def Leppard/Foolin.mp3
+1342:Delicious/Supermodel.m4a
+1343:Depeche Mode/ Just Can't Get Enough.mp3
+1344:Depeche Mode/Enjoy The Silence.mp3
+1345:Depeche Mode/It's No Good.mp3
+1346:Depeche Mode/Personal jesus.mp3
+1347:Depeche Mode/Policy Of Truth.mp3
+1348:Depeche Mode/Precious.mp3
+1349:Depeche Mode/Strangelove.mp3
+1350:Dido/White Flag.mp3
+1351:Dire Straits/Communiqué.mp3
+1352:Dire Straits/Down To The Waterline.mp3
+1353:Dire Straits/How Long.mp3
+1354:Dire Straits/Lady Writer.mp3
+1355:Dire Straits/Money For Nothing.mp3
+1356:Dire Straits/News.mp3
+1357:Dire Straits/Once Upon A Time In The West.mp3
+1358:Dire Straits/Private Investigations.mp3
+1359:Dire Straits/Setting Me Up.mp3
+1360:Dire Straits/Sultans Of Swing   lyrics.mp3
+1361:Dire Straits/Sultans Of Swing live.mp3
+1362:Dire Straits/Telegraph Road.mp3
+1363:Dire Straits/The Man's Too Strong.mp3
+1364:Dire Straits/Tunnel of Love.mp3
+1365:Dire Straits/Water Of Love.mp3
+1366:Dire Straits/When It Comes To You.mp3
+1367:Dire Straits/Where Do You Think You're Going.mp3
+1368:Dire Straits/You And Your Friend.mp3
+1369:Dire Straits/Your Latest Trick.mp3
+1370:Dire Straits/Sultans of Swing.mp3
+1371:Disturbed/Land Of Confusion.mp3
+1372:Disturbed/The Light.mp3
+1373:Disturbed/The Sound Of Silence.mp3
+1374:Don Henley/All She Wants To Do Is Dance.m4a
+1375:Doors/Hello, I Love You.mp3
+1376:Doors/L.A. Woman (Orginal).mp3
+1377:Doors/Light My Fire.mp3
+1378:Doors/Love Her Madly.mp3
+1379:Doors/Love Me Two Times.mp3
+1380:Doors/People Are Strange.mp3
+1381:Doors/Riders On The Storm.mp3
+1382:Doors/Roadhouse Blues.mp3
+1383:Doors/Touch Me.mp3
+1384:Doug Supernaw & The Beach Boys/Long Tall Texan.m4a
+1385:Duran Duran/Come Undone.mp3
+1386:Duran Duran/Notorious.mp3
+1387:Duran Duran/Ordinary World.mp3
+1388:Elton John/Candle In The Wind.m4a
+1389:EMF/Unbelievable.m4a
+1390:Enrique Iglesias/Rhythm Divine.mp3
+1391:Enrique Iglesias/Ritmo Total (Rhythm Divine).m4a
+1392:Enrique Iglesias/Be With You.m4a
+1393:Enrique Iglesias/Bailamos.m4a
+1394:Enrique Iglesias/You're My (Duet With Sandy & Junior).m4a
+1395:Enrique Iglesias/Could I Have This Kiss Forever(Remix With Whitney Houston).m4a
+1396:Eric Church/Kill A Word.mp3
+1397:Excesso/Não Sei Viver Sem Ti.mp3
+1398:Extreme/More Than Words.mp3
+1399:Fausto/Atrás dos tempos outros tempos vêm.mp3
+1400:Fausto/(10) Ao Longo de Um Claro Rio de Água Doce - Fausto Bordalo Dias.mp3
+1401:Fergie/Track 05.m4a
+1402:Fingertips/Track 06.m4a
+1403:Five/Keep On Movin'.mp3
+1404:Five Finger Death Punch/Wrong Side Of Heaven.mp3
+1405:Fleetwood Mac/Dreams.mp3
+1406:Fleetwood Mac/Go Your Own Way.mp3
+1407:Florida Georgia Line/H.O.L.Y..mp3
+1408:Foo Fighters/The Pretender.mp3
+1409:Foreigner/Urgent.mp3
+1410:Foreigner/Waiting for a Girl Like You.mp3
+1411:Foreigner/Double Vision.mp3
+1412:Foreigner/Feels Like The First Time.mp3
+1413:Foreigner/That Was Yesterday.mp3
+1414:Foreigner/Cold As Ice.mp3
+1415:Foreigner/I Want to Know What Love Is.mp3
+1416:Free/All Right Now.mp3
+1417:Garbage/Push it.mp3
+1418:Gary Barlow/Forever Love.mp3
+1419:Gary Moore/I Love You More Than You'll Ever Know.mp3
+1420:Gary Moore/Still Got The Blues.mp3
+1421:Gary Moore/Story Of The Blues.m4a
+1422:Gary Moore/Separate Ways.m4a
+1423:Gary Moore/Still Got The Blues (For You).m4a
+1424:Gary Moore/The Sky Is Crying.m4a
+1425:Gary Moore/Parisienne Walkways.m4a
+1426:Gary Moore/Jumping At Shadows.m4a
+1427:George Michael/FastLove.mp3
+1428:George Michael/Outside.mp3
+1429:George Michael/Amazing.m4a
+1430:George Michael/John And Elvis Are Dead.m4a
+1431:George Michael/Flawless (Go To The City).m4a
+1432:George Michael/Careless Whisper.mp3
+1433:George Michael/Desafinado.mp3
+1434:George Michael/Kissing a Fool.mp3
+1435:Gerry Rafferty/Baker street.mp3
+1436:Gerry Rafferty/Right Down the Line.mp3
+1437:Gerry Rafferty/Stuck In The Middle With You.mp3
+1438:Gloria Estefan/Reach.mp3
+1439:GNR/Asas Electricas.mp3
+1440:GNR/Bellevue.mp3
+1441:GNR/Bem-Vindo ao Passado.mp3
+1442:GNR/Mais Vale Nunca.mp3
+1443:GNR/Morte ao Sol.mp3
+1444:GNR/Popless.mp3
+1445:GNR/Saliva.mp3
+1446:GNR/Sexta-feira (Um seu criado).mp3
+1447:GNR/Tirana.mp3
+1448:GNR/Video Maria.mp3
+1449:GNR/Sub 16.m4a
+1450:GNR/Efectivamente.m4a
+1451:GNR/Dunas.m4a
+1452:GNR/Cais.m4a
+1453:GNR/Asas.m4a
+1454:GNR/Pronuncia do norte.m4a
+1455:GNR/Mais vale nunca.m4a
+1456:GNR/Ana Lee.m4a
+1457:Harry Styles/Sign Of The Times.mp3
+1458:Heart/Alone.mp3
+1459:Heart/What About Love.mp3
+1460:Heart/These Dreams.m4a
+1461:INXS/Need You Tonight.m4a
+1462:INXS/Mystify.m4a
+1463:Irene Cara/Flash dance.m4a
+1464:Jacobs Piano/1 HOUR RELAXING PIANO  Studying and Relaxation  Jacobs Piano.mp3
+1465:Jennifer Lopez/Waiting  for tonight.mp3
+1466:Jennifer Paige/Crush.mp3
+1467:Joe Dassin/04.Les Champs-Elysees.mp3
+1468:Joe Dassin/01.Et Si Tu N'Existais Pas.mp3
+1469:Joe Dassin/10.Salut.mp3
+1470:Joe Dassin/13.L'Ete Indien.mp3
+1471:Jon Bon Jovi/Midnight in Chelsea.mp3
+1472:Jon Secada/Just Another Day.mp3
+1473:Jon Secada/Too Late Too Soon.mp3
+1474:Justin Timberlake/Track 02.m4a
+1475:Kansas/Dust In The Wind.mp3
+1476:Keane/A Bad Dream.mp3
+1477:Keane/Is It Any Wonder.mp3
+1478:Keane/Nothing In My Way.mp3
+1479:Keane/Somewhere Only We Know.m4a
+1480:Keane/This Is the Last Time.m4a
+1481:Keane/Bend And Break.m4a
+1482:Keane/We Might As Well Be Strangers.m4a
+1483:Keane/Everybody's Changing.m4a
+1484:Keane/Your Eyes Open.m4a
+1485:Keane/She Has No Time.m4a
+1486:Keane/Can't Stop Now.m4a
+1487:Keane/Sunshine.m4a
+1488:Keane/Untitled 1.m4a
+1489:Keane/Bedshaped.m4a
+1490:Keith Urban/Blue Ain't Your Color.mp3
+1491:Keith Urban/Somebody Like You.mp3
+1492:Keith Urban/The Fighter_Ft Carrie Underwood.mp3
+1493:Keith Urban/Wasted Time.mp3
+1494:Korn/Get Up.mp3
+1495:Kylie Minogue/More, More, More.m4a
+1496:Kylie Minogue/Love At First Sight.m4a
+1497:Kylie Minogue/Can't Get You Out Of My Head.m4a
+1498:Kylie Minogue/Fever.m4a
+1499:Kylie Minogue/In Your Eyes.m4a
+1500:Laura Pausini/Per te.m4a
+1501:LeAnn Rimes/Can't Fight The Moonlight.m4a
+1502:LeAnn Rimes/Please Remember.m4a
+1503:LeAnn Rimes/The Right Kind Of Wrong.m4a
+1504:LeAnn Rimes/But I Do Love You.m4a
+1505:LeAnn Rimes/Life Goes On.m4a
+1506:LeAnn Rimes/How Do I Live.m4a
+1507:LeAnn Rimes/Last Thing On My Mind.m4a
+1508:LeAnn Rimes/Crazy.m4a
+1509:LeAnn Rimes/Blue.m4a
+1510:LeAnn Rimes/17 You Light Up My Life.m4a
+1511:LeAnn Rimes/19 How Do I Live (Mig Dance Radio Edit).m4a
+1512:LeAnn Rimes/20 Can't Fight The Moonlight (Latino Mix).m4a
+1513:Led Zepplin/Black Dog & Rock and Roll.mp3
+1514:Led Zepplin/Immigrant Song.mp3
+1515:Led Zepplin/Kashmir.mp3
+1516:Led Zepplin/Stairway To Heaven.mp3
+1517:Lenny Kravitz/Fly away.mp3
+1518:Lenny Kravitz/I Belong To You.mp3
+1519:Lenny Kravitz/Stillness of Heart.mp3
+1520:Leonard/When Susana Cryes.mp3
+1521:Lighthouse Family/High.m4a
+1522:Lionel Richie/Hello.m4a
+1523:Lita Ford/Close My eyes Forever.mp3
+1524:Little Richard/Tutti Frutti.m4a
+1525:Lynyrd Skynyrd/Free bird.mp3
+1526:Madonna/Hung up.m4a
+1527:Madonna/Forbiden love.m4a
+1528:Madonna/Ray of light.mp3
+1529:Madonna/The Beast Within.m4a
+1530:Madonna/Vogue.m4a
+1531:Madonna/Nobody Knows Me.m4a
+1532:Madonna/American Life.m4a
+1533:Madonna/Hollywood (Remix).m4a
+1534:Madonna/Die Another Day.m4a
+1535:Madonna/Lament.m4a
+1536:Madonna/Like A Prayer.m4a
+1537:Madonna/Mother And Father.m4a
+1538:Madonna/Imagine.m4a
+1539:Madonna/Susan MacLeod _ Into The Groove.m4a
+1540:Madonna/Music.m4a
+1541:Madonna/Holiday.m4a
+1542:Madonna/I Love New York.m4a
+1543:Madonna/Frozen.m4a
+1544:Madredeus/A Vaca De Fogo.mp3
+1545:Madredeus/Ao longe o mar.mp3
+1546:Madredeus/Haja O Que Houver.mp3
+1547:Madredeus/O Pastor.mp3
+1548:Madredeus/Vem (Além Da Solidão).mp3
+1549:Marcia/A Insatisfação.mp3
+1550:Marcia/A Pele Que Há Em Mim.mp3
+1551:Marcia/Cabra-Cega.mp3
+1552:Marcia/Deixa Ser.mp3
+1553:Marcia/Eu Seguro.mp3
+1554:Maria Rita/A Festa.m4a
+1555:Maria Rita/Veja Bem Meu Beu.m4a
+1556:Marisa Monte/A Sua.m4a
+1557:Mariza/Já Me Deixou.mp3
+1558:Mariza/Minh' alma.mp3
+1559:Mariza/Rosa Branca.mp3
+1560:Mariza/Recurso.mp3
+1561:Mariza/Beijo De Saudade.mp3
+1562:Mariza/Vozes Do Mar.mp3
+1563:Mariza/Fronteira.mp3
+1564:Mariza/Alfama.mp3
+1565:Mariza/Tasco Da Mouraria.mp3
+1566:Mariza/Mariza - Alma de vento.mp3
+1567:Mariza/Mariza - Se eu mandasse nas palavras.mp3
+1568:Mariza/As Guitarras.mp3
+1569:Mariza/Pequenas Verdades.mp3
+1570:Mariza/Morada Aberta.mp3
+1571:Metallica/Nothing Else Matters.mp3
+1572:Michael Jackson/ In The Closet.mp3
+1573:Michael Jackson/Beat It.mp3
+1574:Michael Jackson/Billie Jean.mp3
+1575:Michael Jackson/Don't Stop 'Til You Get Enough.mp3
+1576:Michael Jackson/Michael Jackson - Rock With You.mp3
+1577:Michael Jackson/One Day In Your Life.mp3
+1578:Michael Jackson/Smooth Criminal.mp3
+1579:Michael Jackson/Wanna Be Startin' Somethin'.mp3
+1580:Midnight Oil/Beds Are Burning.mp3
+1581:Miguel Ângelo/Só Eu Te Posso Ajudar.mp3
+1582:Mika/Track 07.m4a
+1583:Mike And The Mechanics/Now That You've Gone.mp3
+1584:Mike Oldfield/Moonlight Shadow.mp3
+1585:Mozart Violin Concertos/1-01 Mozart_ Violin Concerto #3 In G, K 216 - 1. Allegro.m4a
+1586:Mozart Violin Concertos/1-02 Mozart_ Violin Concerto #3 In G, K 216 - 2. Adagio.m4a
+1587:Mozart Violin Concertos/1-03 Mozart_ Violin Concerto #3 In G, K 216 - 3. Rondeau_ Allegro.m4a
+1588:Mozart Violin Concertos/1-04 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 1. Allegro Aperto.m4a
+1589:Mozart Violin Concertos/1-05 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 2. Adagio.m4a
+1590:Mozart Violin Concertos/1-06 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 3. Rondeau_ Tempo Di Menuetto.m4a
+1591:Natalie Imbruglia/Torn.mp3
+1592:Neil Diamond - Best Of/01 - Solitary Man.mp3
+1593:Neil Diamond - Best Of/02 - Cherry, Cherry.mp3
+1594:Neil Diamond - Best Of/03 - I've Got The Feeling (Oh No No).mp3
+1595:Neil Diamond - Best Of/04 - You Got To Me.mp3
+1596:Neil Diamond - Best Of/05 - Girl, You'll Be A Woman Soon.mp3
+1597:Neil Diamond - Best Of/06 - I'm A Believer.mp3
+1598:Neil Diamond - Best Of/07 - Thank The Lord For The Night Time.mp3
+1599:Neil Diamond - Best Of/08 - Red, Red Wine.mp3
+1600:Neil Diamond - Best Of/09 - Sunday Sun.mp3
+1601:Neil Diamond - Best Of/10 - Shilo.mp3
+1602:Neil Diamond - Best Of/11 - Kentucky Woman.mp3
+1603:Neil Diamond - Best Of/12 - Brooklyn Roads.mp3
+1604:Neil Diamond - Best Of/13 - Glory Road.mp3
+1605:Neil Diamond - Best Of/14 - Holly Holy.mp3
+1606:Neil Diamond - Best Of/15 - And The Grass Won't Pay No Mind.mp3
+1607:Neil Diamond - Best Of/16 - Sweet Caroline.mp3
+1608:Neil Diamond - Best Of/17 - Brother Love's Traveling Salvation Show.mp3
+1609:Neil Diamond - Best Of/18 - Done Too Soon.mp3
+1610:Neil Diamond - Best Of/19 - Soolaimon.mp3
+1611:Neil Diamond - Best Of/20 - Cracklin' Rosie.mp3
+1612:Neil Diamond - Best Of/21 - Crunchy Granola Suite.mp3
+1613:Neil Diamond - Best Of/22 - I Am...I Said.mp3
+1614:Neil Diamond - Best Of/23 - Stones.mp3
+1615:Neil Diamond - Best Of/24 - Morningside.mp3
+1616:Neil Diamond - Best Of/25 - Song Sung Blue.mp3
+1617:Neil Diamond - Best Of/26 - Play Me.mp3
+1618:Neil Diamond - Best Of/27 - Be (Recapitulation And Farewell To Fletcher).mp3
+1619:Neil Diamond - Best Of/28 - Skybird.mp3
+1620:Neil Diamond - Best Of/29 - Lonely Looking Sky.mp3
+1621:Neil Diamond - Best Of/30 - I've Been This Way Before.mp3
+1622:Neil Diamond - Best Of/31 - Longfellow Serenade.mp3
+1623:Neil Diamond - Best Of/32 - Beautiful Noise.mp3
+1624:Neil Diamond - Best Of/33 - Street Life.mp3
+1625:Neil Diamond - Best Of/34 - If You Know What I Mean.mp3
+1626:Neil Diamond - Best Of/35 - Desiree.mp3
+1627:Neil Diamond - Best Of/36 - You Don't Bring Me Flowers.mp3
+1628:Neil Diamond - Best Of/37 - Forever In Blue Jeans.mp3
+1629:Neil Diamond - Best Of/38 - September Morn.mp3
+1630:Neil Diamond - Best Of/39 - The Story Of My Life.mp3
+1631:Neil Diamond - Best Of/40 - Yesterday's Songs.mp3
+1632:Neil Diamond - Best Of/41 - I Believe In Happy Endings.mp3
+1633:Neil Diamond - Best Of/42 - Hello Again.mp3
+1634:Neil Diamond - Best Of/43 - Love On The Rocks (From The Jazz Singer Soundtrack).mp3
+1635:Neil Diamond - Best Of/44 - Heartlight.mp3
+1636:Neil Diamond - Best Of/45 - Lady-Oh.mp3
+1637:Neil Diamond - Best Of/46 - Pretty Amazing Grace.mp3
+1638:Neil Diamond - Best Of/47 - Hell Yeah.mp3
+1639:Neil Diamond - Best Of/48 - We.mp3
+1640:Neil Diamond - Best Of/49 - The Art Of Love.mp3
+1641:Neil Diamond - Best Of/50 - America (From The Jazz Singer Soundtrack).mp3
+1642:Neil Young/Harvest Moon.mp3
+1643:Neil Young/Heart of Gold.mp3
+1644:Nelly Furtado/Track 01.m4a
+1645:Nelly Furtado/Turn of the Light.m4a
+1646:New Radicals/You Get What You Give.mp3
+1647:Nickelback/Sharp Dressed Man 2007 Live.mp3
+1648:Nickelback/Animals.mp3
+1649:Nickelback/Far Away.mp3
+1650:Nickelback/Photograph.mp3
+1651:Nickelback/Rockstar.mp3
+1652:Nickelback/Burn It To The Ground.mp3
+1653:Nickelback/Bottoms Up.mp3
+1654:Nickelback/This Means War.mp3
+1655:Nickelback/What Are You Waiting For.mp3
+1656:Nickelback/ Never Again .mp3
+1657:Nickelback/How You Remind Me.mp3
+1658:Nirvana/Smells Like Teen Spirit.mp3
+1659:No Doubt/It's My Life.mp3
+1660:Oasis/Wonderwall.mp3
+1661:Olivia Newton John/Hopelessly Devoted To You.mp3
+1662:Orlando Morais/Na Paz.m4a
+1663:Passenger/Let Her Go.mp3
+1664:Paul Young/Everytime You Go Away.mp3
+1665:Paulo Gonzo/Dei-te Quase Tudo.mp3
+1666:Paulo Gonzo/Espelho (De Outra Agua).mp3
+1667:Paulo Gonzo/Jardins Proibidos.mp3
+1668:Paulo Gonzo/Leve Beijo Triste.mp3
+1669:Paulo Gonzo/Quem De Nós Dois.mp3
+1670:Paulo Gonzo/Sei-te De Cor.mp3
+1671:Peter Frampton/Baby, I Love Your Way.mp3
+1672:Peter Frampton/Do You Feel Like I Do_.mp3
+1673:Peter Frampton/Show Me The Way.mp3
+1674:Phill Collins/A Groovy Kind Of Love.mp3
+1675:Phill Collins/Against All Odds.mp3
+1676:Phill Collins/Another Day In Paradise.mp3
+1677:Phill Collins/Don't Let Him Steal Your Heart Away.mp3
+1678:Pink Floyd - Best Of/103-pink_floyd-the_happiest_days_of_our_lives.mp3
+1679:Pink Floyd - Best Of/104-pink_floyd-another_brick_in_the_wall_(part_2).mp3
+1680:Pink Floyd - Best Of/106-pink_floyd-hey_you.mp3
+1681:Pink Floyd - Best Of/108-pink_floyd-the_great_gig_in_the_sky.mp3
+1682:Pink Floyd - Best Of/110-pink_floyd-money.mp3
+1683:Pink Floyd - Best Of/201-pink_floyd-shine_on_you_crazy_diamond_(parts_1-7).mp3
+1684:Pink Floyd - Best Of/202-pink_floyd-time.mp3
+1685:Pink Floyd - Best Of/204-pink_floyd-comfortably_numb.mp3
+1686:Pink Floyd - Best Of/207-pink_floyd-us_and_them.mp3
+1687:Pink Floyd - Best Of/208-pink_floyd-learning_to_fly.mp3
+1688:Pink Floyd - Best Of/210-pink_floyd-wish_you_were_here.mp3
+1689:Pretenders/Brass In Pocket.mp3
+1690:Pretenders/I'll Stand By You.mp3
+1691:Prince/Kiss.mp3
+1692:Prince/Diamonds And Pearls.m4a
+1693:Prince/Cream.m4a
+1694:Prince/Strollin'.m4a
+1695:Prince/Money Don't Matter 2 Night.m4a
+1696:Pussycat Dolls/Don't cha.m4a
+1697:Queen/Bohemian Rhapsody.m4a
+1698:Queen/Another One Bites The Dust.m4a
+1699:Queen/Bicycle Race.m4a
+1700:Queen/You're My Best Friend.m4a
+1701:Queen/Don't Stop Me Now.m4a
+1702:Queen/Crazy Little Thing Called Love.m4a
+1703:Queen/Somebody To Love.m4a
+1704:Queen/We Will Rock You 1.m4a
+1705:Queen/We Are The Champions.m4a
+1706:Queen/A Kind Of Magic.m4a
+1707:Queen/Under Pressure.m4a
+1708:Queen/Radio GA GA.m4a
+1709:Queen/I Want It All.m4a
+1710:Queen/I Want To Break Free.m4a
+1711:Queen/It's A Hard Life.m4a
+1712:Queen/Who Wants To Live Forever.m4a
+1713:Queen/The Show Must Go On.m4a
+1714:Queen/One Vision.m4a
+1715:Quinta do Bill/Se Te Amo.mp3
+1716:Quinta do Bill/Voa.mp3
+1717:R. Kelly/I Believe I Can Fly.mp3
+1718:Radio Macau/Amanhã é sempre longe demais.mp3
+1719:Radio Macau/Cantiga de Amor.mp3
+1720:Radio Macau/Manual De Sobrevivência.mp3
+1721:Radio Macau/O anzol.mp3
+1722:Rainbow/All Night Long.mp3
+1723:Rainbow/Can't Let You Go.mp3
+1724:Rainbow/I Surrender.mp3
+1725:Rainbow/Since You've Been Gone.mp3
+1726:Rainbow/Street Of Dreams.mp3
+1727:Rare Blend/Boom Boom Boom.m4a
+1728:Ray LaMontagne/01 You Are the Best Thing.m4a
+1729:Ray LaMontagne/02 Let It Be Me.m4a
+1730:Ray LaMontagne/03 Sarah.m4a
+1731:Ray LaMontagne/04 I Still Care for You.m4a
+1732:Ray LaMontagne/05 Winter Birds.m4a
+1733:Ray LaMontagne/06 Meg White.m4a
+1734:Ray LaMontagne/07 Hey Me, Hey M__a.m4a
+1735:Ray LaMontagne/08 Henry Nearly Killed Me (It's a Shame).m4a
+1736:Ray LaMontagne/09 A Falling Through.m4a
+1737:Ray LaMontagne/10 Gossip In the Grain.m4a
+1738:Richard Marx/Right Here Waiting.mp3
+1739:Ricky Martin/She's All I Ever Had.mp3
+1740:Ricky Martin/I don't care.m4a
+1741:Ricky Martin/Jaleo.m4a
+1742:Ricky Martin/La Copa De La Vida.m4a
+1743:Ricky Martin/Fuego de Noche, Nieve de Dia.mp3
+1744:Ricky Van Shelton & The Beach Boys/Fun, Fun, Fun.m4a
+1745:Rihana/Umbrella.m4a
+1746:Rihana/Push Up On Me.m4a
+1747:Rihana/Don't Stop The Music.m4a
+1748:Rihana/Shut Up And Drive.m4a
+1749:Robbie Williams/millenium.mp3
+1750:Robbie Williams/She's the One.mp3
+1751:Robbie Williams/Angels.mp3
+1752:Ronan Keating/Life Is A Rollercoaster.mp3
+1753:Ronan Keating/when you say nothing at all.mp3
+1754:Ronnie James Dio/Dream On.mp3
+1755:Ronnie James Dio/Holy Diver.mp3
+1756:Ronnie James Dio/Rainbow In The Dark.mp3
+1757:Ronnie James Dio/The Last In Line.mp3
+1758:Rosana/El Talismán.m4a
+1759:Rosana/A Fuego Lento.m4a
+1760:Rosana/Si Tú No Estás.m4a
+1761:Rosana/Bebes De Mí.m4a
+1762:Rosana/Sin Miedo.m4a
+1763:Rosana/Deray.m4a
+1764:Roxxette/Vulnerable.mp3
+1765:Sade/By Your Side.mp3
+1766:Sade/Your Love Is King.mp3
+1767:Sam Hunt/Take your Time.mp3
+1768:Sarah/Time to Say Goodbye.mp3
+1769:Savage Garden/I Knew I Love You.mp3
+1770:Savage Garden/To The Moon & Back.mp3
+1771:Sawyer Brown & The Beach Boys/05 I Get Around.m4a
+1772:Saxon/Ride Like The Wind.mp3
+1773:Saxon/Back on the Streets.mp3
+1774:Scorpions/No One Like You.mp3
+1775:Scorpions/Rock You Like A Hurricane.mp3
+1776:Scorpions/Holiday.mp3
+1777:Scorpions/Send Me An Angel.mp3
+1778:Scorpions/Wind Of Change.mp3
+1779:Scorpions/You And I.mp3
+1780:Scorpions/Still Loving You.m4a
+1781:Scorpions/When The Smoke Is Going Down.m4a
+1782:Scorpions/Always Somewhere.m4a
+1783:Scorpions/Lady Starlight.m4a
+1784:Scorpions/Holiday.m4a
+1785:Seal/Kiss From A Rose.m4a
+1786:Seu Jorge - Best Of/01 Burguesinha.mp3
+1787:Seu Jorge - Best Of/02 Mina Do Condomínio.mp3
+1788:Seu Jorge - Best Of/03 Tive Razão (ao vivo).mp3
+1789:Seu Jorge - Best Of/04 Carolina (ao vivo).mp3
+1790:Seu Jorge - Best Of/05 País Tropical (ao vivo).mp3
+1791:Seu Jorge - Best Of/06 São Gonça (ao vivo).mp3
+1792:Seu Jorge - Best Of/07 É Isso Aí (acústico).mp3
+1793:Seu Jorge - Best Of/08 Zé Do Caroço (ao vivo).mp3
+1794:Seu Jorge - Best Of/09 Eu Sou O Samba.mp3
+1795:Seu Jorge - Best Of/10 Pessoal Particular.mp3
+1796:Seu Jorge - Best Of/11 Seu Olhar.mp3
+1797:Seu Jorge - Best Of/12 Me Deixa Em Paz.mp3
+1798:Seu Jorge - Best Of/13 Pode Acreditar (Meu Laiá Laiá).mp3
+1799:Seu Jorge - Best Of/14 Cotidiano.mp3
+1800:Shadows/Theme from the deer Hunter (Cavatina).mp3
+1801:Shakira/La tortura.m4a
+1802:Shakira/Don't bother.m4a
+1803:Shania Twain/Man! I Feel Like A Woman!.m4a
+1804:Shania Twain/I'm Holdin' On To Love (To Save My Life).m4a
+1805:Shania Twain/Love Gets Me Every Time.m4a
+1806:Shania Twain/Don't Be Stupid (You Know I Love You).m4a
+1807:Shania Twain/You're Still The One.m4a
+1808:Shania Twain/That Don't Impress Me Much.m4a
+1809:Shania Twain/Whose Bed Have Your Boots Been Under.m4a
+1810:Shania Twain/No One Needs To Know.m4a
+1811:Sheryl Crow/Run Baby Run.m4a
+1812:Sia/Academia.mp3
+1813:Sia/Big Girls Cry.mp3
+1814:Sia/Day Too Soon.mp3
+1815:Sia/Distractions.mp3
+1816:Sia/Electric Bird.mp3
+1817:Sia/Lentil.mp3
+1818:Sia/Little Black Sandals.mp3
+1819:Sia/Soon We'll Be Found.mp3
+1820:Sia/The Girl You Lost to Cocaine.mp3
+1821:Simon & Garfunkel/The Sound of Silence (Original Version from 1964).mp3
+1822:Simone/Muito Estranho (Cuida Bem de Mim).m4a
+1823:Simply Red/Sunrise.mp3
+1824:Simply Red/You Make Me Feel Brand New.mp3
+1825:Simply Red/Something Got Me Started.m4a
+1826:Simply Red/Stars.m4a
+1827:Simply Red/For Your Babies.m4a
+1828:Sisters Sledge/Family.m4a
+1829:Sixpence None The Richer/Kiss Me.mp3
+1830:Skrillex/Equinox (First Of The Year) (Drum Cover).mp3
+1831:Snap!/The Power.m4a
+1832:Soundgarden/Black Hole Sun.mp3
+1833:Spice Girls/Stop.m4a
+1834:Steel Dragon/We All Die Young.mp3
+1835:Sting/When We Dance.m4a
+1836:Sting/Fields Of Gold.m4a
+1837:Sting/Englishman In New York.m4a
+1838:Sting/If I Ever Lose My Faith In You.m4a
+1839:Sting/Fragile.m4a
+1840:Sting/Fragilidad.mp3
+1841:Stravinsky - The Rite Of Spring, Firebird Suite/01 Stravinsky_ The Rite Of Spring - Part 1_ Introduction.m4a
+1842:Stravinsky - The Rite Of Spring, Firebird Suite/02 Stravinsky_ The Rite Of Spring - Part 1_ Harbingers Of Spring.m4a
+1843:Stravinsky - The Rite Of Spring, Firebird Suite/03 Stravinsky_ The Rite Of Spring - Part 1_ Mock Abduction.m4a
+1844:Stravinsky - The Rite Of Spring, Firebird Suite/04 Stravinsky_ The Rite Of Spring - Part 1_ Spring Rounds.m4a
+1845:Stravinsky - The Rite Of Spring, Firebird Suite/05 Stravinsky_ The Rite Of Spring - Part 1_ Games Of The Rival Tribes.m4a
+1846:Stravinsky - The Rite Of Spring, Firebird Suite/06 Stravinsky_ The Rite Of Spring - Part 1_ Procession Of The Wise Elder.m4a
+1847:Stravinsky - The Rite Of Spring, Firebird Suite/07 Stravinsky_ The Rite Of Spring - Part 1_ Adoration Of The Earth.m4a
+1848:Stravinsky - The Rite Of Spring, Firebird Suite/08 Stravinsky_ The Rite Of Spring - Part 1_ Dance Of The Earth.m4a
+1849:Stravinsky - The Rite Of Spring, Firebird Suite/09 Stravinsky_ The Rite Of Spring - Part 2_ Introduction.m4a
+1850:Stravinsky - The Rite Of Spring, Firebird Suite/10 Stravinsky_ The Rite Of Spring - Part 2_ Mystic Circles Of The Young Girls.m4a
+1851:Stravinsky - The Rite Of Spring, Firebird Suite/11 Stravinsky_ The Rite Of Spring - Part 2_ Glorification Of The Chosen One.m4a
+1852:Stravinsky - The Rite Of Spring, Firebird Suite/12 Stravinsky_ The Rite Of Spring - Part 2_ Summoning Of The Ancients.m4a
+1853:Stravinsky - The Rite Of Spring, Firebird Suite/13 Stravinsky_ The Rite Of Spring - Part 2_ Ritual Of The Ancients.m4a
+1854:Stravinsky - The Rite Of Spring, Firebird Suite/14 Stravinsky_ The Rite Of Spring - Part 2_ Sacrificial Dance.m4a
+1855:Stravinsky - The Rite Of Spring, Firebird Suite/15 Stravinsky_ The Firebird - Introduction.m4a
+1856:Stravinsky - The Rite Of Spring, Firebird Suite/16 Stravinsky_ The Firebird - The Firebird & His Dance.m4a
+1857:Stravinsky - The Rite Of Spring, Firebird Suite/17 Stravinsky_ The Firebird - Variation Of The Firebird.m4a
+1858:Stravinsky - The Rite Of Spring, Firebird Suite/18 Stravinsky_ The Firebird - The Round Of The Princesses.m4a
+1859:Stravinsky - The Rite Of Spring, Firebird Suite/19 Stravinsky_ The Firebird - Infernal Dance Of King Kastchei.m4a
+1860:Stravinsky - The Rite Of Spring, Firebird Suite/20 Stravinsky_ The Firebird - Berceuse.m4a
+1861:Stravinsky - The Rite Of Spring, Firebird Suite/21 Stravinsky_ The Firebird - Finale.m4a
+1862:Supertramp/School.m4a
+1863:Supertramp/Goodbye Stranger.m4a
+1864:Supertramp/The Logical Song.m4a
+1865:Supertramp/Bloody Well Right.m4a
+1866:Supertramp/Breakfast In America.m4a
+1867:Supertramp/Rudy.m4a
+1868:Supertramp/Take The Long Way Home.m4a
+1869:Supertramp/Crime Of The Century.m4a
+1870:Supertramp/Dreamer.m4a
+1871:Supertramp/Ain't Nobody But Me.m4a
+1872:Supertramp/Hide In Your Shell.m4a
+1873:Supertramp/From Now On.m4a
+1874:Supertramp/Give A Little Bit.m4a
+1875:Supertramp/It's Raining Again.m4a
+1876:Supertramp/Cannonball.m4a
+1877:Supertramp/Lady.m4a
+1878:Supertramp/Oh Darling.m4a
+1879:Supertramp/Even In The Quietest Moment.m4a
+1880:Supertramp/Waiting So Long.m4a
+1881:Supertramp/Babaji.m4a
+1882:Supertramp/Gone Hollywood.m4a
+1883:Supertramp/If Everyone Was Listening.m4a
+1884:Supertramp/Just Another Nervous Wreck.m4a
+1885:Supertramp/Don't Leave Me Now.m4a
+1886:Supertramp/My Kind Of Lady.m4a
+1887:Supertramp/A Soapbox Opera.m4a
+1888:Supertramp/Downstream.m4a
+1889:Supertramp/Fool's Overture.m4a
+1890:System Of A Down/Lonely Day.mp3
+1891:System Of A Down/B.Y.O.B.mp3
+1892:System Of A Down/Aerials.mp3
+1893:System Of A Down/Chop Suey!.mp3
+1894:System Of A Down/Toxicity.mp3
+1895:Talk Talk/It´s My Life.mp3
+1896:Talk Talk/Such A Shame.mp3
+1897:Talk Talk/Talk Talk.m4a
+1898:Thomas Rhett/It Goes Like This.mp3
+1899:Three Days Grace/I Hate Everything About You.mp3
+1900:Tiago Bettencourt/Caminho De Voltar.mp3
+1901:Tiago Bettencourt/Fúria e Paz.mp3
+1902:Tiago Bettencourt/Maria.mp3
+1903:Tiago Bettencourt/Partimos a Pedra.mp3
+1904:Tiago Bettencourt/Sara.mp3
+1905:Tiago Bettencourt/Se Me Deixasses Ser.mp3
+1906:Tiago Bettencourt/Sol de Março.mp3
+1907:Timothy B. Schmit & The Beach Boys/Caroline, No.m4a
+1908:Tina Turner/The Best.m4a
+1909:Tina Turner/What's Love Got To Do With It.m4a
+1910:Tina Turner/I Can't Stand The Rain.m4a
+1911:Tina Turner/I Don't Wanna Lose You.m4a
+1912:Tina Turner/Let's Stay Together.m4a
+1913:Tina Turner/Private Dancer.m4a
+1914:Tina Turner/We Don't Need Another Hero.m4a
+1915:Tina Turner/Typical Male.m4a
+1916:Tina Turner/Way Of The World.m4a
+1917:Titãs/Epitáfio.m4a
+1918:Toranja/Carta.mp3
+1919:Toranja/Laços.mp3
+1920:Toranja/Quebramos os Dois.mp3
+1921:Train/Drops Of Jupiter.mp3
+1922:Tres Tristes Tigres/O mundo a meus pés.mp3
+1923:Trovante/125 Azul.mp3
+1924:Trovante/Balada das Sete Saias.mp3
+1925:Trovante/Fizeram os Dias Assim.mp3
+1926:Trovante/Um Caso Mais.mp3
+1927:U2/Magnificent.mp3
+1928:U2/Mysterious Ways.mp3
+1929:UB40/Kingston Town.m4a
+1930:Van Halen/Ain't Talkin' 'Bout Love.mp3
+1931:Van Halen/Dreams.mp3
+1932:Van Halen/Eruption_You Really Got Me.mp3
+1933:Van Halen/Panama.mp3
+1934:Van Halen/When Its Love.mp3
+1935:Van Halen/Eruption.mp3
+1936:Van Halen/Jump.mp3
+1937:Van Halen/Love Walks In.mp3
+1938:Van Halen/Why Cant This Be Love.mp3
+1939:The Verve/The Drugs Don_t Work.mp3
+1940:White Lion/When The Children Cry.mp3
+1941:Whitesnake/Crying in the Rain.mp3
+1942:Whitesnake/Slow an' Easy.mp3
+1943:Whitesnake/Spit It Out.mp3
+1944:Whitesnake/Love Ain't No Stranger.mp3
+1945:Whitesnake/Still Of The Night.m4a
+1946:Whitesnake/Here I Go Again.m4a
+1947:Whitesnake/Give Me All Your Love.m4a
+1948:Whitesnake/Is This Love.m4a
+1949:Whitesnake/Don't Turn Away.m4a
+1950:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/01 Konzert für Flöte und Hafe C-.Dur KV 299 1. Allegro.m4a
+1951:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/02 Konzert für Flöte und Hafe C-.Dur KV 299 2. Andantino.m4a
+1952:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/03 Konzert für Flöte und Hafe C-.Dur KV 299 3. Rondeau - Allegro.m4a
+1953:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/04 Konzer für Flöte und Orchester G-Dur KV 313 1. Allegro maestoso.m4a
+1954:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/05 Konzer für Flöte und Orchester G-Dur KV 313 2. Adagio ma non troppo.m4a
+1955:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/06 Konzer für Flöte und Orchester G-Dur KV 313 3. Rondeau - tempo di menu etto.m4a
+1956:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/07 Andante für Flöte und Orchester C-Dur KV 315.m4a
+1957:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/01 Concerto for Oboe and Orchestra in C major, K314 - I. Allegro aperto.m4a
+1958:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/02 II. Adagio non troppo.m4a
+1959:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/03 III. Rondo (Allegretto).m4a
+1960:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/04 Concerto for Clarinet and Orchestra in A major, K622 - I. Allegro.m4a
+1961:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/05 II. Adagio.m4a
+1962:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/06 III. Rondo (Allegro).m4a
+1963:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/07 Concerto for Bassoon and Orchestra in B flat, K191 - I. Allegro.m4a
+1964:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/08 II. Andante ma adagio.m4a
+1965:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/09 III. Rondo (Tempo di menuetto).m4a
+1966:Wolfgang Amadeus Mozart/The Four Horn Concertos/01 Concerto for Horn and Orchestra No. 1 in D-dur, K412 - I. Allegro.m4a
+1967:Wolfgang Amadeus Mozart/The Four Horn Concertos/02 II. Rondo - Allegro.m4a
+1968:Wolfgang Amadeus Mozart/The Four Horn Concertos/03 Concerto for Horn and Orchestra No. 4 in Es-dur, K495 - I. Allegro maestoso.m4a
+1969:Wolfgang Amadeus Mozart/The Four Horn Concertos/04 II. Romance - Andante cantabile.m4a
+1970:Wolfgang Amadeus Mozart/The Four Horn Concertos/05 III. Rondo - Allegro vivace.m4a
+1971:Wolfgang Amadeus Mozart/The Four Horn Concertos/06 Concerto for Horn and Orchestra No. 2 in Es-dur, K417 - I. Allegro.m4a
+1972:Wolfgang Amadeus Mozart/The Four Horn Concertos/07 II. Andante.m4a
+1973:Wolfgang Amadeus Mozart/The Four Horn Concertos/08 III. Rondo - Allegro.m4a
+1974:Wolfgang Amadeus Mozart/The Four Horn Concertos/09 Concerto for Horn and Orchestra No. 3 in Es-dur, K447 - I. Allegro.m4a
+1975:Wolfgang Amadeus Mozart/The Four Horn Concertos/10 II. Romance - Larghetto.m4a
+1976:Wolfgang Amadeus Mozart/The Four Horn Concertos/11 III. Allegro.m4a
+1977:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/01 Concerto for Violin and Orchestra No. 2 in D major, K211 - I. Allegro moderato.m4a
+1978:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/02 II. Andante.m4a
+1979:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/03 III. Rondeau - Allegro.m4a
+1980:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/04 Concerto for Violin and Orchestra No. 4 in D major, K218 - I. Allegro.m4a
+1981:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/05 II. Andante cantabile.m4a
+1982:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/06 III. Rondeau.m4a
+1983:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/07 Sinfonia concertante in E flat major, K364 - I. Allegro maestoso.m4a
+1984:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/08 II. Andante.m4a
+1985:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/09 III. Presto.m4a
+1986:Xutos E Pontapés/Chuva Dissolvente.mp3
+1987:Xutos E Pontapés/Circo de Feras.mp3
+1988:Xutos E Pontapés/Homem do Leme.mp3
+1989:Zero 7/Destiny.mp3
+1990:Zero 7/Destiny.mp3
+1991:Zero 7/Destiny.mp3
+1992:Zero 7/Destiny.mp3
+1993:Zero 7/Destiny.mp3
+1994:Zero 7/Destiny.mp3
+1995:Zero 7/Destiny.mp3
+1996:Zero 7/Destiny.mp3
+1997:Zero 7/Destiny.mp3
+1998:Zero 7/Destiny.mp3
+1999:Zero 7/Destiny.mp3
+2000:Zero 7/Destiny.mp3
+2001:2 Eivissa/Move Your Body.mp3
+2002:a-Ha/Take On Me.m4a
+2003:Aaron Neville & Celine Dion/Beauty And The Beast.mp3
+2004:ABBA/Dancing Queen.m4a
+2005:ABBA/Knowing Me, Knowing You.m4a
+2006:ABBA/Take A Chance On Me.m4a
+2007:ABBA/Mamma Mia.m4a
+2008:ABBA/Lay All Your Love On Me.m4a
+2009:ABBA/Super Trouper.m4a
+2010:ABBA/I Have A Dream.m4a
+2011:ABBA/The Winner Takes It All.m4a
+2012:ABBA/Money, Money, Money.m4a
+2013:ABBA/S.O.S.m4a
+2014:ABBA/Chiquitita.m4a
+2015:ABBA/Fernando.m4a
+2016:ABBA/Voulez Vous.m4a
+2017:ABBA/Gimme! Gimme! Gimme! (A Man After Midnight ).m4a
+2018:ABBA/Does Your Mother Know.m4a
+2019:ABBA/One Of Us.m4a
+2020:ABBA/The Name Of The Game.m4a
+2021:ABBA/Thank You For The Music.m4a
+2022:ABBA/Waterloo.m4a
+2023:ABBA/Andante, Andante.m4a
+2024:ABBA/One Man, One Woman.m4a
+2025:ABBA/Eagle.m4a
+2026:ABBA/Slipping Through My Fingers.m4a
+2027:ABBA/My Love, My Life.m4a
+2028:ABBA/Our Last Summer.m4a
+2029:ABBA/Like An Angel Passing Through My Room.m4a
+2030:ABBA/I Wonder (Departure).m4a
+2031:ABBA/I Let The Music Speak.m4a
+2032:ABBA/The Way Old Friends Do.m4a
+2033:ACDC/It's A Long Way To The Top (If You Wanna Rock 'N' Roll).mp3
+2034:ACDC/Back In Black.mp3
+2035:ACDC/Hells Bells.mp3
+2036:ACDC/Thunderstruck.mp3
+2037:ACDC/You Shook Me All Night Long.mp3
+2038:Ace of Base/Cruel Summer.mp3
+2039:Alan Jackson/Remember When.mp3
+2040:The Alan Parson Project/Eye in the Sky.mp3
+2041:Alanis Morissette/01 Alanis Morissette - You Oughta Know.mp3
+2042:Alanis Morissette/02 Alanis Morissette - Ironic.mp3
+2043:Alanis Morissette/05 Alanis Morissette - Thank You.mp3
+2044:Alanis Morissette/08 Alanis Morissette - You Learn.mp3
+2045:Alanis Morissette/10 Alanis Morissette - Hand in My Pocket.mp3
+2046:Alanis Morissette/11 Alanis Morissette - That I Would Be Good.mp3
+2047:Alanis Morissette/17 Alanis Morissette - Head Over Feet.mp3
+2048:All Saints/Never Ever.m4a
+2049:Amália Rodrigues/Estranha Forma de Vida.m4a
+2050:Amália Rodrigues/Fado Português.m4a
+2051:Amália Rodrigues/Trova Do Vento Que Passa.m4a
+2052:Amália Rodrigues/Povo Que Lavas No Rio.m4a
+2053:Amália Rodrigues/Com Que Voz.m4a
+2054:Amália Rodrigues/Vou Dar de Beber À Dor.m4a
+2055:Amor Electro/A Máquina.mp3
+2056:Amor Electro/Capitão Romance.mp3
+2057:Amor Electro/Mar Salgado.mp3
+2058:Amor Electro/Rosa Sangue.mp3
+2059:Amor Electro/Sei.mp3
+2060:Ana Carolina/Ana Carolina - Quem De Nós Dois (La Mia Storia Tra Le Dita).mp3
+2061:Ana Carolina/Ana Carolina e Seu Jorge - É isso aí.mp3
+2062:António Zambujo/Algo Estranho Acontece.mp3
+2063:António Zambujo/Flagrante.mp3
+2064:António Zambujo/Fortuna.mp3
+2065:António Zambujo/Lambreta.mp3
+2066:Aqua/Turn Back Time.mp3
+2067:The Art Of Noise Feat. Tom Jones/Kiss.m4a
+2068:Asia/Heat Of The Moment.mp3
+2069:Asia/Only time will tell.mp3
+2070:Asia/Sole Survivor.mp3
+2071:Avenged Sevenfold/Hail To The King.mp3
+2072:Avenged Sevenfold/Nightmare.mp3
+2073:Avenged Sevenfold/So Far Away.mp3
+2074:Backstreet Boys/As Long As You Love Me.mp3
+2075:Backstreet Boys/Everybody.mp3
+2076:Backstreet Boys/I Want It That Way.mp3
+2077:Backstreet Boys/I_Want_It_That_Way.mp3
+2078:Backstreet Boys/Quit Playing Games With My Hea.mp3
+2079:Backstreet Boys/Incomplete.m4a
+2080:Barbra Streisand/We're Not Makin' Love Anymore.m4a
+2081:Barbra Streisand/Woman In Love.m4a
+2082:Barbra Streisand/All I Ask Of You.m4a
+2083:Barbra Streisand/What Kind Of Fool.m4a
+2084:Barbra Streisand/By The Way.m4a
+2085:Barbra Streisand/Guilty.m4a
+2086:Barbra Streisand/Memory (From Cats).m4a
+2087:Barbra Streisand/The Way He Makes Me Feel.m4a
+2088:Barclay James Harvest/Child Of Universe.mp3
+2089:Barclay James Harvest/love on the line.mp3
+2090:Barclay James Harvest/Berlin.mp3
+2091:Barclay James Harvest/Titles.mp3
+2092:Barclay James Harvest/Victims Of Circumstance.mp3
+2093:Barclay James Harvest/Life is for Living.mp3
+2094:Barry White/Just The Way You Are.m4a
+2095:The Beach Boys/Kokomo.m4a
+2096:Bee Gees/Barbra Streisand & Barry Gibb - Guilty (HQ).mp3
+2097:Bee Gees/Barbra Streisand & Barry Gibb - What Kind Of Fool (1980).mp3
+2098:Bee Gees/To Love Somebody.m4a
+2099:Bee Gees/Massachusetts.m4a
+2100:Bee Gees/Words.m4a
+2101:Bee Gees/Run To Me.m4a
+2102:Bee Gees/Jive Talkin'.m4a
+2103:Bee Gees/You Should Be Dancing.m4a
+2104:Bee Gees/How Deep Is Your Love.m4a
+2105:Bee Gees/More Than A Woman.m4a
+2106:Bee Gees/Stayin' Alive.m4a
+2107:Bee Gees/Night Fever.m4a
+2108:Bee Gees/Too Much Heaven.m4a
+2109:Bee Gees/Tragedy.m4a
+2110:Bee Gees/You Win Again.m4a
+2111:Billy Idol/Eyes Without A Face.mp3
+2112:Billy Idol/Sweet Sixteen.mp3
+2113:Bjork/Army of Me (feat. Skunk Anansie).mp3
+2114:Blake Shelton/Came Here To Forget.mp3
+2115:Blake Shelton/Honey Bee.mp3
+2116:Blake Shelton/Who Are You When I'm Not Looking.mp3
+2117:Bobby McFerrin/Don't Worry, Be Happy.m4a
+2118:Bon Jovi/Runaway.mp3
+2119:Boston - Greatest Hits/01 Tell Me.mp3
+2120:Boston - Greatest Hits/02 Higher Power.mp3
+2121:Boston - Greatest Hits/03 More Than a Feeling.mp3
+2122:Boston - Greatest Hits/04 Peace of Mind.mp3
+2123:Boston - Greatest Hits/05 Don't Look Back.mp3
+2124:Boston - Greatest Hits/06 Cool the Engines.mp3
+2125:Boston - Greatest Hits/07 Livin' For You.mp3
+2126:Boston - Greatest Hits/08 Feelin' Satisfied.mp3
+2127:Boston - Greatest Hits/09 Party.mp3
+2128:Boston - Greatest Hits/10 Foreplay - Long Time.mp3
+2129:Boston - Greatest Hits/11 Amanda.mp3
+2130:Boston - Greatest Hits/12 Rock & Roll Band.mp3
+2131:Boston - Greatest Hits/13 Smokin'.mp3
+2132:Boston - Greatest Hits/14 A Man I'll Never Be.mp3
+2133:Boston - Greatest Hits/15 4th of July Reprise.mp3
+2134:Boston - Greatest Hits/16 Higher Power (Kalodner Edit).mp3
+2135:Boyzone/No Matter What.mp3
+2136:Boyzone/You Needed Me.mp3
+2137:Boyzone/A Picture Of You.m4a
+2138:Brett Eldredge/Wanna be that song.mp3
+2139:Brett Young/In Case You Didn't Know.mp3
+2140:Brett Young/Sleep Without You.mp3
+2141:Britney Spears/My Prerogative.m4a
+2142:Britney Spears/I'm A Slave 4 U.m4a
+2143:Britney Spears/Oops!... I Did It Again.m4a
+2144:Britney Spears/Me Against The Music.m4a
+2145:Britney Spears/Everytime.m4a
+2146:Britney Spears/...Baby One More Time.m4a
+2147:Britney Spears/(You Drive Me) Crazy (The Stop Remix!).m4a
+2148:Britney Spears/Boys (The Co-Ed Remix).m4a
+2149:Britney Spears/Sometimes.m4a
+2150:Britney Spears/Overprotected (The Dark Child Remix , Radio Edit).m4a
+2151:Britney Spears/Lucky.m4a
+2152:Britney Spears/Outrageous.m4a
+2153:Britney Spears/Born To Make You Happy.m4a
+2154:Britney Spears/I Love Rock 'N' Roll.m4a
+2155:Britney Spears/I'm Not A Girl, Not Yet A Woman.m4a
+2156:Bruce Springsteen/Dancing in the Dark.mp3
+2157:Bruce Springsteen/Streets Of Philadelphia.mp3
+2158:Bryan Adams/Brand New Day.mp3
+2159:Bryan Adams/Don't Even Try.mp3
+2160:Bryan Adams/I Thought I'd Seen Everything.mp3
+2161:Bryan Adams/You Belong To Me.mp3
+2162:Bryan Adams/Let's Make A Night To Remember.mp3
+2163:Bryan Adams/I'm Ready.mp3
+2164:Bryan Adams/When You're Gone ft. Melanie C.mp3
+2165:Bryan Adams/Heaven - Acoustic Live.mp3
+2166:Bryan Adams/It's Only Love.mp3
+2167:Bryan Adams/Run To You.mp3
+2168:Bryan Adams/Summer Of '69.mp3
+2169:Bryan Adams/Can't Stop This Thing We Started.m4a
+2170:Bryan Adams/Please Forgive Me.mp3
+2171:Bryan Adams/Best Of Me.mp3
+2172:Bryan Adams/Can't Stop This Thing We Started.mp3
+2173:Bryan Adams/Do I Have To Say The Words.mp3
+2174:Caetano Veloso/Sozinho.m4a
+2175:Caetano Veloso/Samba De Verao.m4a
+2176:Caetano Veloso/Leãozinho.m4a
+2177:Caetano Veloso/Sonhos.m4a
+2178:Calcanhoto/Vambora.mp3
+2179:Calcanhoto/Adriana Calcanhoto - 02-Mais Feliz.mp3
+2180:Calcanhoto/Adriana Calcanhoto - 07-Vambora.mp3
+2181:The Calling/Wherever You Will Go.mp3
+2182:Carlos do Carmo/Gaivota.m4a
+2183:Carlos do Carmo/Por Morrer Uma Andorinha.m4a
+2184:Carlos do Carmo/Canoas Do Tejo.m4a
+2185:Carlos do Carmo/Os putos.m4a
+2186:Carlos Paredes/Danças Portuguesas.m4a
+2187:Carlos Paredes/Acção.m4a
+2188:Carlos Paredes/Porto Santo.m4a
+2189:Carlos Paredes/Divertimento.m4a
+2190:Carlos Paredes/Canção Verdes Anos.m4a
+2191:Carlos Paredes/Sede e Morte.m4a
+2192:Carpenters/Close to you.mp3
+2193:Carpenters/We've Only Just Begun.mp3
+2194:Carpenters/Yesterday Once More.mp3
+2195:The Cars/Drive.mp3
+2196:Cat Stevens - Best Of/01.The Wind.mp3
+2197:Cat Stevens - Best Of/02.Wild World.mp3
+2198:Cat Stevens - Best Of/03.Oh Very Young.mp3
+2199:Cat Stevens - Best Of/04.Where Do The Children Play.mp3
+2200:Cat Stevens - Best Of/05.Hard Headed Woman.mp3
+2201:Cat Stevens - Best Of/06.Moonshadow.mp3
+2202:Cat Stevens - Best Of/07.Peace Train.mp3
+2203:Cat Stevens - Best Of/08.Father And Son.mp3
+2204:Cat Stevens - Best Of/09.Sitting.mp3
+2205:Cat Stevens - Best Of/10.How Can I Tell You.mp3
+2206:Cat Stevens - Best Of/11.Morning Has Broken.mp3
+2207:Cat Stevens - Best Of/12.The First Cut Is The Deepest.mp3
+2208:Celine Dion/I Drove All Night.mp3
+2209:Celine Dion/Think Twice.mp3
+2210:Celine Dion/Loved Me Back to Life.mp3
+2211:Celine Dion/All By Myself.mp3
+2212:Celine Dion/My Heart Will Go On.mp3
+2213:Celine Dion/Pour que tu m' aimes encore.mp3
+2214:Celine Dion/Beauty and the Beast.mp3
+2215:Cher/Heart Of Stone [Live - The Farewell Tour].mp3
+2216:Cher/Believe.m4a
+2217:Cher/The Shoop Shoop Song (It's In His Kiss).m4a
+2218:Cher/If I Could Turn Back Time.m4a
+2219:Cher/Heart Of Stone.m4a
+2220:Cher/Strong Enough.m4a
+2221:Cher/All Or Nothing.m4a
+2222:Cher/Dov'e L'Amore (Emilio Estefan Jnr. Mix).m4a
+2223:Chicago/If You Leave Me Now.mp3
+2224:Chicago - Best Of/101-Chicago-Make_Me_Smile_(New_Edit)-HHI.mp3
+2225:Chicago - Best Of/102-Chicago-25_Or_6_To_4-HHI.mp3
+2226:Chicago - Best Of/103-Chicago-Does_Anybody_Really_Know_What_Time_It_Is-HHI.mp3
+2227:Chicago - Best Of/104-Chicago-Beginnings-HHI.mp3
+2228:Chicago - Best Of/105-Chicago-Questions_67_And_68-HHI.mp3
+2229:Chicago - Best Of/106-Chicago-Im_A_Man_(New_Edit)-HHI.mp3
+2230:Chicago - Best Of/107-Chicago-Colour_My_World-HHI.mp3
+2231:Chicago - Best Of/108-Chicago-Free-HHI.mp3
+2232:Chicago - Best Of/109-Chicago-Lowdown-HHI.mp3
+2233:Chicago - Best Of/110-Chicago-Saturday_In_The_Park-HHI.mp3
+2234:Chicago - Best Of/111-Chicago-Dialogue_(Part_I_and_II)_(Single_Version)-HHI.mp3
+2235:Chicago - Best Of/112-Chicago-Just_You_N_Me-HHI.mp3
+2236:Chicago - Best Of/113-Chicago-Feelin_Stronger_Every_Day-HHI.mp3
+2237:Chicago - Best Of/114-Chicago-(Ive_Been)_Searchin_So_Long-HHI.mp3
+2238:Chicago - Best Of/115-Chicago-Wishing_You_Were_Here-HHI.mp3
+2239:Chicago - Best Of/116-Chicago-Call_On_Me-HHI.mp3
+2240:Chicago - Best Of/117-Chicago-Happy_Man_(Edit_Form_1981s_Greatest_Hits_Volume_II)-HHI.mp3
+2241:Chicago - Best Of/118-Chicago-Another_Rainy_Day_In_New_York_City-HHI.mp3
+2242:Chicago - Best Of/119-Chicago-If_You_Leave_Me_Now-HHI.mp3
+2243:Chicago - Best Of/201-Chicago-Old_Days-HHI.mp3
+2244:Chicago - Best Of/202-Chicago-Baby_What_A_Big_Surprise-HHI.mp3
+2245:Chicago - Best Of/203-Chicago-Take_Me_Back_To_Chicago_(Single_Version)-HHI.mp3
+2246:Chicago - Best Of/204-Chicago-Alive_Again-HHI.mp3
+2247:Chicago - Best Of/205-Chicago-No_Tell_Lover-HHI.mp3
+2248:Chicago - Best Of/206-Chicago-Love_Me_Tomorrow_(Single_Version)-HHI.mp3
+2249:Chicago - Best Of/207-Chicago-Hard_To_Say_Im_Sorryget_Away-HHI.mp3
+2250:Chicago - Best Of/208-Chicago-Stay_The_Night-HHI.mp3
+2251:Chicago - Best Of/209-Chicago-Hard_Habit_To_Break-HHI.mp3
+2252:Chicago - Best Of/210-Chicago-Youre_The_Inspiration-HHI.mp3
+2253:Chicago - Best Of/211-Chicago-Along_Comes_A_Woman_(Single_Version)-HHI.mp3
+2254:Chicago - Best Of/212-Chicago-Will_You_Still_Love_Me._(Single_Version)-HHI.mp3
+2255:Chicago - Best Of/213-Chicago-If_She_Would_Have_Been_Faithful___-HHI.mp3
+2256:Chicago - Best Of/214-Chicago-Look_Away_(Single_Version)-HHI.mp3
+2257:Chicago - Best Of/215-Chicago-What_Kind_Of_Man_Would_I_Be._(Single_Version)-HHI.mp3
+2258:Chicago - Best Of/216-Chicago-I_Dont_Wanna_Live_Without_Your_Love-HHI.mp3
+2259:Chicago - Best Of/217-Chicago-We_Can_Last_Forever_(Single_Version)-HHI.mp3
+2260:Chicago - Best Of/218-Chicago-Youre_Not_Alone_(Single_Version)-HHI.mp3
+2261:Chicago - Best Of/219-Chicago-Chasin_The_Wind-HHI.mp3
+2262:Chicago - Best Of/220-Chicago-Sing_Sing_Sing_(W_The_Gypsy_Kings)-HHI.mp3
+2263:Chico Buarque_Elza Soares/Façamos (Vamos Amar).m4a
+2264:Clã/Sopro do coração.mp3
+2265:Cliff Richard/We Don't Talk Anymore.mp3
+2266:Cock Robin/Just Around The Corner.mp3
+2267:Collective Soul/Shine.mp3
+2268:Compilations/Metal Ballads Vol. 2/02 Love Don't Lie.m4a
+2269:Compilations/Metal Ballads Vol. 2/03 Soldier Of Fortune.m4a
+2270:Compilations/Metal Ballads Vol. 2/04 Don't Wanna Be Your Fool.m4a
+2271:Compilations/Metal Ballads Vol. 2/07 You Make Me Feel.m4a
+2272:Compilations/Metal Ballads Vol. 2/09 What Love Can Be.m4a
+2273:Compilations/Metal Ballads Vol. 2/10 Empty Rooms.m4a
+2274:Compilations/Metal Ballads Vol. 2/12 You're All I Need.m4a
+2275:Compilations/Metal Ballads Vol. 2/13 Dream On.m4a
+2276:Compilations/Metal Ballads Vol. 2/14 When The Children Cry.m4a
+2277:Compilations/Now 14/1-01 Because of You.m4a
+2278:Compilations/Now 14/1-02 Talk.m4a
+2279:Compilations/Now 14/1-03 First Day of My Life.m4a
+2280:Compilations/Now 14/1-04 Sei-te de Cor.m4a
+2281:Compilations/Now 14/1-06 Advertising Space.m4a
+2282:Compilations/Now 14/1-07 I Belong to You.m4a
+2283:Compilations/Now 14/1-09 Love Generation.m4a
+2284:Compilations/Now 14/1-11 I Still.m4a
+2285:Compilations/Now 14/1-13 A Dança.m4a
+2286:Compilations/Now 14/1-16 Suddenly I See.m4a
+2287:Compilations/Now 14/1-18 Problema de Expressão (ao vivo).m4a
+2288:Compilations/Now 14/2-02 Check On It.m4a
+2289:Compilations/Now 14/2-03 My Humps.m4a
+2290:Compilations/Now 14/2-05 If It's Lovin'.m4a
+2291:Compilations/Now 14/2-10 Suffer Well.m4a
+2292:Compilations/Now 14/2-11 Number 1.m4a
+2293:Compilations/Now 14/2-13 Stickwitu.m4a
+2294:Compilations/Páginas Da Vida - Nacional/10 Se Quiser (Anytime).m4a
+2295:Compilations/Páginas Da Vida - Nacional/12 Eu Sei.m4a
+2296:Compilations/Páginas Da Vida - Nacional/16 Melodia (Da Ópera De Orfeu E Eurídice).m4a
+2297:Compilations/Ricky Martin/01 Livin' La Vida Loca.m4a
+2298:Compilations/Ricky Martin/03 She's All I Ever Had.m4a
+2299:Compilations/Ricky Martin/04 Shake Your Bon-Bon.m4a
+2300:Compilations/Ricky Martin/05 Be Careful (Cuidado Con Mi Corazon).m4a
+2301:Compilations/Ricky Martin/07 Love You For A Day.m4a
+2302:Compilations/The Best Of/04 Private Emotion.m4a
+2303:Compilations/The Best Of/10 Come To Me.m4a
+2304:The Corrs/Dreams.mp3
+2305:The Cranberries/Linger.mp3
+2306:The Cranberries/When You_re Gone.mp3
+2307:Credence Clearwatter Revival/Have You Ever Seen The Rain.mp3
+2308:Creed/With Arms Wide Open.mp3
+2309:Daniel Potter/Track 09.m4a
+2310:Daniela Mercury/Mutante.m4a
+2311:David Gray/Babylon.mp3
+2312:David Gray/Please Forgive Me.mp3
+2313:David Gray/Sail Away.mp3
+2314:David Gray/Say Hello Wave Goodbye.mp3
+2315:David Gray/The One I Love.mp3
+2316:David Gray/This Year's Love.mp3
+2317:Deep Purple/Child in Time.mp3
+2318:Deep Purple/Highway Star.mp3
+2319:Deep Purple/Perfect Strangers.mp3
+2320:Deep Purple/Smoke on the Water.mp3
+2321:Deep Purple/Hush.mp3
+2322:Deep Purple/Smoke On The Water.mp3
+2323:Deep Purple/Soldier Of Fortune.mp3
+2324:Deep Purple/Sweet Child In Time.MP3
+2325:Def Leppard/Animal.mp3
+2326:Def Leppard/Hysteria.mp3
+2327:Def Leppard/Foolin.mp3
+2328:Delicious/Supermodel.m4a
+2329:Depeche Mode/ Just Can't Get Enough.mp3
+2330:Depeche Mode/Enjoy The Silence.mp3
+2331:Depeche Mode/It's No Good.mp3
+2332:Depeche Mode/Personal jesus.mp3
+2333:Depeche Mode/Policy Of Truth.mp3
+2334:Depeche Mode/Precious.mp3
+2335:Depeche Mode/Strangelove.mp3
+2336:Dido/White Flag.mp3
+2337:Dire Straits/Communiqué.mp3
+2338:Dire Straits/Down To The Waterline.mp3
+2339:Dire Straits/How Long.mp3
+2340:Dire Straits/Lady Writer.mp3
+2341:Dire Straits/Money For Nothing.mp3
+2342:Dire Straits/News.mp3
+2343:Dire Straits/Once Upon A Time In The West.mp3
+2344:Dire Straits/Private Investigations.mp3
+2345:Dire Straits/Setting Me Up.mp3
+2346:Dire Straits/Sultans Of Swing   lyrics.mp3
+2347:Dire Straits/Sultans Of Swing live.mp3
+2348:Dire Straits/Telegraph Road.mp3
+2349:Dire Straits/The Man's Too Strong.mp3
+2350:Dire Straits/Tunnel of Love.mp3
+2351:Dire Straits/Water Of Love.mp3
+2352:Dire Straits/When It Comes To You.mp3
+2353:Dire Straits/Where Do You Think You're Going.mp3
+2354:Dire Straits/You And Your Friend.mp3
+2355:Dire Straits/Your Latest Trick.mp3
+2356:Dire Straits/Sultans of Swing.mp3
+2357:Disturbed/Land Of Confusion.mp3
+2358:Disturbed/The Light.mp3
+2359:Disturbed/The Sound Of Silence.mp3
+2360:Don Henley/All She Wants To Do Is Dance.m4a
+2361:Doors/Hello, I Love You.mp3
+2362:Doors/L.A. Woman (Orginal).mp3
+2363:Doors/Light My Fire.mp3
+2364:Doors/Love Her Madly.mp3
+2365:Doors/Love Me Two Times.mp3
+2366:Doors/People Are Strange.mp3
+2367:Doors/Riders On The Storm.mp3
+2368:Doors/Roadhouse Blues.mp3
+2369:Doors/Touch Me.mp3
+2370:Doug Supernaw & The Beach Boys/Long Tall Texan.m4a
+2371:Duran Duran/Come Undone.mp3
+2372:Duran Duran/Notorious.mp3
+2373:Duran Duran/Ordinary World.mp3
+2374:Elton John/Candle In The Wind.m4a
+2375:EMF/Unbelievable.m4a
+2376:Enrique Iglesias/Rhythm Divine.mp3
+2377:Enrique Iglesias/Ritmo Total (Rhythm Divine).m4a
+2378:Enrique Iglesias/Be With You.m4a
+2379:Enrique Iglesias/Bailamos.m4a
+2380:Enrique Iglesias/You're My (Duet With Sandy & Junior).m4a
+2381:Enrique Iglesias/Could I Have This Kiss Forever(Remix With Whitney Houston).m4a
+2382:Eric Church/Kill A Word.mp3
+2383:Excesso/Não Sei Viver Sem Ti.mp3
+2384:Extreme/More Than Words.mp3
+2385:Fausto/Atrás dos tempos outros tempos vêm.mp3
+2386:Fausto/(10) Ao Longo de Um Claro Rio de Água Doce - Fausto Bordalo Dias.mp3
+2387:Fergie/Track 05.m4a
+2388:Fingertips/Track 06.m4a
+2389:Five/Keep On Movin'.mp3
+2390:Five Finger Death Punch/Wrong Side Of Heaven.mp3
+2391:Fleetwood Mac/Dreams.mp3
+2392:Fleetwood Mac/Go Your Own Way.mp3
+2393:Florida Georgia Line/H.O.L.Y..mp3
+2394:Foo Fighters/The Pretender.mp3
+2395:Foreigner/Urgent.mp3
+2396:Foreigner/Waiting for a Girl Like You.mp3
+2397:Foreigner/Double Vision.mp3
+2398:Foreigner/Feels Like The First Time.mp3
+2399:Foreigner/That Was Yesterday.mp3
+2400:Foreigner/Cold As Ice.mp3
+2401:Foreigner/I Want to Know What Love Is.mp3
+2402:Free/All Right Now.mp3
+2403:Garbage/Push it.mp3
+2404:Gary Barlow/Forever Love.mp3
+2405:Gary Moore/I Love You More Than You'll Ever Know.mp3
+2406:Gary Moore/Still Got The Blues.mp3
+2407:Gary Moore/Story Of The Blues.m4a
+2408:Gary Moore/Separate Ways.m4a
+2409:Gary Moore/Still Got The Blues (For You).m4a
+2410:Gary Moore/The Sky Is Crying.m4a
+2411:Gary Moore/Parisienne Walkways.m4a
+2412:Gary Moore/Jumping At Shadows.m4a
+2413:George Michael/FastLove.mp3
+2414:George Michael/Outside.mp3
+2415:George Michael/Amazing.m4a
+2416:George Michael/John And Elvis Are Dead.m4a
+2417:George Michael/Flawless (Go To The City).m4a
+2418:George Michael/Careless Whisper.mp3
+2419:George Michael/Desafinado.mp3
+2420:George Michael/Kissing a Fool.mp3
+2421:Gerry Rafferty/Baker street.mp3
+2422:Gerry Rafferty/Right Down the Line.mp3
+2423:Gerry Rafferty/Stuck In The Middle With You.mp3
+2424:Gloria Estefan/Reach.mp3
+2425:GNR/Asas Electricas.mp3
+2426:GNR/Bellevue.mp3
+2427:GNR/Bem-Vindo ao Passado.mp3
+2428:GNR/Mais Vale Nunca.mp3
+2429:GNR/Morte ao Sol.mp3
+2430:GNR/Popless.mp3
+2431:GNR/Saliva.mp3
+2432:GNR/Sexta-feira (Um seu criado).mp3
+2433:GNR/Tirana.mp3
+2434:GNR/Video Maria.mp3
+2435:GNR/Sub 16.m4a
+2436:GNR/Efectivamente.m4a
+2437:GNR/Dunas.m4a
+2438:GNR/Cais.m4a
+2439:GNR/Asas.m4a
+2440:GNR/Pronuncia do norte.m4a
+2441:GNR/Mais vale nunca.m4a
+2442:GNR/Ana Lee.m4a
+2443:Harry Styles/Sign Of The Times.mp3
+2444:Heart/Alone.mp3
+2445:Heart/What About Love.mp3
+2446:Heart/These Dreams.m4a
+2447:INXS/Need You Tonight.m4a
+2448:INXS/Mystify.m4a
+2449:Irene Cara/Flash dance.m4a
+2450:Jacobs Piano/1 HOUR RELAXING PIANO  Studying and Relaxation  Jacobs Piano.mp3
+2451:Jennifer Lopez/Waiting  for tonight.mp3
+2452:Jennifer Paige/Crush.mp3
+2453:Joe Dassin/04.Les Champs-Elysees.mp3
+2454:Joe Dassin/01.Et Si Tu N'Existais Pas.mp3
+2455:Joe Dassin/10.Salut.mp3
+2456:Joe Dassin/13.L'Ete Indien.mp3
+2457:Jon Bon Jovi/Midnight in Chelsea.mp3
+2458:Jon Secada/Just Another Day.mp3
+2459:Jon Secada/Too Late Too Soon.mp3
+2460:Justin Timberlake/Track 02.m4a
+2461:Kansas/Dust In The Wind.mp3
+2462:Keane/A Bad Dream.mp3
+2463:Keane/Is It Any Wonder.mp3
+2464:Keane/Nothing In My Way.mp3
+2465:Keane/Somewhere Only We Know.m4a
+2466:Keane/This Is the Last Time.m4a
+2467:Keane/Bend And Break.m4a
+2468:Keane/We Might As Well Be Strangers.m4a
+2469:Keane/Everybody's Changing.m4a
+2470:Keane/Your Eyes Open.m4a
+2471:Keane/She Has No Time.m4a
+2472:Keane/Can't Stop Now.m4a
+2473:Keane/Sunshine.m4a
+2474:Keane/Untitled 1.m4a
+2475:Keane/Bedshaped.m4a
+2476:Keith Urban/Blue Ain't Your Color.mp3
+2477:Keith Urban/Somebody Like You.mp3
+2478:Keith Urban/The Fighter_Ft Carrie Underwood.mp3
+2479:Keith Urban/Wasted Time.mp3
+2480:Korn/Get Up.mp3
+2481:Kylie Minogue/More, More, More.m4a
+2482:Kylie Minogue/Love At First Sight.m4a
+2483:Kylie Minogue/Can't Get You Out Of My Head.m4a
+2484:Kylie Minogue/Fever.m4a
+2485:Kylie Minogue/In Your Eyes.m4a
+2486:Laura Pausini/Per te.m4a
+2487:LeAnn Rimes/Can't Fight The Moonlight.m4a
+2488:LeAnn Rimes/Please Remember.m4a
+2489:LeAnn Rimes/The Right Kind Of Wrong.m4a
+2490:LeAnn Rimes/But I Do Love You.m4a
+2491:LeAnn Rimes/Life Goes On.m4a
+2492:LeAnn Rimes/How Do I Live.m4a
+2493:LeAnn Rimes/Last Thing On My Mind.m4a
+2494:LeAnn Rimes/Crazy.m4a
+2495:LeAnn Rimes/Blue.m4a
+2496:LeAnn Rimes/17 You Light Up My Life.m4a
+2497:LeAnn Rimes/19 How Do I Live (Mig Dance Radio Edit).m4a
+2498:LeAnn Rimes/20 Can't Fight The Moonlight (Latino Mix).m4a
+2499:Led Zepplin/Black Dog & Rock and Roll.mp3
+2500:Led Zepplin/Immigrant Song.mp3
+2501:Led Zepplin/Kashmir.mp3
+2502:Led Zepplin/Stairway To Heaven.mp3
+2503:Lenny Kravitz/Fly away.mp3
+2504:Lenny Kravitz/I Belong To You.mp3
+2505:Lenny Kravitz/Stillness of Heart.mp3
+2506:Leonard/When Susana Cryes.mp3
+2507:Lighthouse Family/High.m4a
+2508:Lionel Richie/Hello.m4a
+2509:Lita Ford/Close My eyes Forever.mp3
+2510:Little Richard/Tutti Frutti.m4a
+2511:Lynyrd Skynyrd/Free bird.mp3
+2512:Madonna/Hung up.m4a
+2513:Madonna/Forbiden love.m4a
+2514:Madonna/Ray of light.mp3
+2515:Madonna/The Beast Within.m4a
+2516:Madonna/Vogue.m4a
+2517:Madonna/Nobody Knows Me.m4a
+2518:Madonna/American Life.m4a
+2519:Madonna/Hollywood (Remix).m4a
+2520:Madonna/Die Another Day.m4a
+2521:Madonna/Lament.m4a
+2522:Madonna/Like A Prayer.m4a
+2523:Madonna/Mother And Father.m4a
+2524:Madonna/Imagine.m4a
+2525:Madonna/Susan MacLeod _ Into The Groove.m4a
+2526:Madonna/Music.m4a
+2527:Madonna/Holiday.m4a
+2528:Madonna/I Love New York.m4a
+2529:Madonna/Frozen.m4a
+2530:Madredeus/A Vaca De Fogo.mp3
+2531:Madredeus/Ao longe o mar.mp3
+2532:Madredeus/Haja O Que Houver.mp3
+2533:Madredeus/O Pastor.mp3
+2534:Madredeus/Vem (Além Da Solidão).mp3
+2535:Marcia/A Insatisfação.mp3
+2536:Marcia/A Pele Que Há Em Mim.mp3
+2537:Marcia/Cabra-Cega.mp3
+2538:Marcia/Deixa Ser.mp3
+2539:Marcia/Eu Seguro.mp3
+2540:Maria Rita/A Festa.m4a
+2541:Maria Rita/Veja Bem Meu Beu.m4a
+2542:Marisa Monte/A Sua.m4a
+2543:Mariza/Já Me Deixou.mp3
+2544:Mariza/Minh' alma.mp3
+2545:Mariza/Rosa Branca.mp3
+2546:Mariza/Recurso.mp3
+2547:Mariza/Beijo De Saudade.mp3
+2548:Mariza/Vozes Do Mar.mp3
+2549:Mariza/Fronteira.mp3
+2550:Mariza/Alfama.mp3
+2551:Mariza/Tasco Da Mouraria.mp3
+2552:Mariza/Mariza - Alma de vento.mp3
+2553:Mariza/Mariza - Se eu mandasse nas palavras.mp3
+2554:Mariza/As Guitarras.mp3
+2555:Mariza/Pequenas Verdades.mp3
+2556:Mariza/Morada Aberta.mp3
+2557:Metallica/Nothing Else Matters.mp3
+2558:Michael Jackson/ In The Closet.mp3
+2559:Michael Jackson/Beat It.mp3
+2560:Michael Jackson/Billie Jean.mp3
+2561:Michael Jackson/Don't Stop 'Til You Get Enough.mp3
+2562:Michael Jackson/Michael Jackson - Rock With You.mp3
+2563:Michael Jackson/One Day In Your Life.mp3
+2564:Michael Jackson/Smooth Criminal.mp3
+2565:Michael Jackson/Wanna Be Startin' Somethin'.mp3
+2566:Midnight Oil/Beds Are Burning.mp3
+2567:Miguel Ângelo/Só Eu Te Posso Ajudar.mp3
+2568:Mika/Track 07.m4a
+2569:Mike And The Mechanics/Now That You've Gone.mp3
+2570:Mike Oldfield/Moonlight Shadow.mp3
+2571:Mozart Violin Concertos/1-01 Mozart_ Violin Concerto #3 In G, K 216 - 1. Allegro.m4a
+2572:Mozart Violin Concertos/1-02 Mozart_ Violin Concerto #3 In G, K 216 - 2. Adagio.m4a
+2573:Mozart Violin Concertos/1-03 Mozart_ Violin Concerto #3 In G, K 216 - 3. Rondeau_ Allegro.m4a
+2574:Mozart Violin Concertos/1-04 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 1. Allegro Aperto.m4a
+2575:Mozart Violin Concertos/1-05 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 2. Adagio.m4a
+2576:Mozart Violin Concertos/1-06 Mozart_ Violin Concerto #5 In A, K 219, _Turkish_ - 3. Rondeau_ Tempo Di Menuetto.m4a
+2577:Natalie Imbruglia/Torn.mp3
+2578:Neil Diamond - Best Of/01 - Solitary Man.mp3
+2579:Neil Diamond - Best Of/02 - Cherry, Cherry.mp3
+2580:Neil Diamond - Best Of/03 - I've Got The Feeling (Oh No No).mp3
+2581:Neil Diamond - Best Of/04 - You Got To Me.mp3
+2582:Neil Diamond - Best Of/05 - Girl, You'll Be A Woman Soon.mp3
+2583:Neil Diamond - Best Of/06 - I'm A Believer.mp3
+2584:Neil Diamond - Best Of/07 - Thank The Lord For The Night Time.mp3
+2585:Neil Diamond - Best Of/08 - Red, Red Wine.mp3
+2586:Neil Diamond - Best Of/09 - Sunday Sun.mp3
+2587:Neil Diamond - Best Of/10 - Shilo.mp3
+2588:Neil Diamond - Best Of/11 - Kentucky Woman.mp3
+2589:Neil Diamond - Best Of/12 - Brooklyn Roads.mp3
+2590:Neil Diamond - Best Of/13 - Glory Road.mp3
+2591:Neil Diamond - Best Of/14 - Holly Holy.mp3
+2592:Neil Diamond - Best Of/15 - And The Grass Won't Pay No Mind.mp3
+2593:Neil Diamond - Best Of/16 - Sweet Caroline.mp3
+2594:Neil Diamond - Best Of/17 - Brother Love's Traveling Salvation Show.mp3
+2595:Neil Diamond - Best Of/18 - Done Too Soon.mp3
+2596:Neil Diamond - Best Of/19 - Soolaimon.mp3
+2597:Neil Diamond - Best Of/20 - Cracklin' Rosie.mp3
+2598:Neil Diamond - Best Of/21 - Crunchy Granola Suite.mp3
+2599:Neil Diamond - Best Of/22 - I Am...I Said.mp3
+2600:Neil Diamond - Best Of/23 - Stones.mp3
+2601:Neil Diamond - Best Of/24 - Morningside.mp3
+2602:Neil Diamond - Best Of/25 - Song Sung Blue.mp3
+2603:Neil Diamond - Best Of/26 - Play Me.mp3
+2604:Neil Diamond - Best Of/27 - Be (Recapitulation And Farewell To Fletcher).mp3
+2605:Neil Diamond - Best Of/28 - Skybird.mp3
+2606:Neil Diamond - Best Of/29 - Lonely Looking Sky.mp3
+2607:Neil Diamond - Best Of/30 - I've Been This Way Before.mp3
+2608:Neil Diamond - Best Of/31 - Longfellow Serenade.mp3
+2609:Neil Diamond - Best Of/32 - Beautiful Noise.mp3
+2610:Neil Diamond - Best Of/33 - Street Life.mp3
+2611:Neil Diamond - Best Of/34 - If You Know What I Mean.mp3
+2612:Neil Diamond - Best Of/35 - Desiree.mp3
+2613:Neil Diamond - Best Of/36 - You Don't Bring Me Flowers.mp3
+2614:Neil Diamond - Best Of/37 - Forever In Blue Jeans.mp3
+2615:Neil Diamond - Best Of/38 - September Morn.mp3
+2616:Neil Diamond - Best Of/39 - The Story Of My Life.mp3
+2617:Neil Diamond - Best Of/40 - Yesterday's Songs.mp3
+2618:Neil Diamond - Best Of/41 - I Believe In Happy Endings.mp3
+2619:Neil Diamond - Best Of/42 - Hello Again.mp3
+2620:Neil Diamond - Best Of/43 - Love On The Rocks (From The Jazz Singer Soundtrack).mp3
+2621:Neil Diamond - Best Of/44 - Heartlight.mp3
+2622:Neil Diamond - Best Of/45 - Lady-Oh.mp3
+2623:Neil Diamond - Best Of/46 - Pretty Amazing Grace.mp3
+2624:Neil Diamond - Best Of/47 - Hell Yeah.mp3
+2625:Neil Diamond - Best Of/48 - We.mp3
+2626:Neil Diamond - Best Of/49 - The Art Of Love.mp3
+2627:Neil Diamond - Best Of/50 - America (From The Jazz Singer Soundtrack).mp3
+2628:Neil Young/Harvest Moon.mp3
+2629:Neil Young/Heart of Gold.mp3
+2630:Nelly Furtado/Track 01.m4a
+2631:Nelly Furtado/Turn of the Light.m4a
+2632:New Radicals/You Get What You Give.mp3
+2633:Nickelback/Sharp Dressed Man 2007 Live.mp3
+2634:Nickelback/Animals.mp3
+2635:Nickelback/Far Away.mp3
+2636:Nickelback/Photograph.mp3
+2637:Nickelback/Rockstar.mp3
+2638:Nickelback/Burn It To The Ground.mp3
+2639:Nickelback/Bottoms Up.mp3
+2640:Nickelback/This Means War.mp3
+2641:Nickelback/What Are You Waiting For.mp3
+2642:Nickelback/ Never Again .mp3
+2643:Nickelback/How You Remind Me.mp3
+2644:Nirvana/Smells Like Teen Spirit.mp3
+2645:No Doubt/It's My Life.mp3
+2646:Oasis/Wonderwall.mp3
+2647:Olivia Newton John/Hopelessly Devoted To You.mp3
+2648:Orlando Morais/Na Paz.m4a
+2649:Passenger/Let Her Go.mp3
+2650:Paul Young/Everytime You Go Away.mp3
+2651:Paulo Gonzo/Dei-te Quase Tudo.mp3
+2652:Paulo Gonzo/Espelho (De Outra Agua).mp3
+2653:Paulo Gonzo/Jardins Proibidos.mp3
+2654:Paulo Gonzo/Leve Beijo Triste.mp3
+2655:Paulo Gonzo/Quem De Nós Dois.mp3
+2656:Paulo Gonzo/Sei-te De Cor.mp3
+2657:Peter Frampton/Baby, I Love Your Way.mp3
+2658:Peter Frampton/Do You Feel Like I Do_.mp3
+2659:Peter Frampton/Show Me The Way.mp3
+2660:Phill Collins/A Groovy Kind Of Love.mp3
+2661:Phill Collins/Against All Odds.mp3
+2662:Phill Collins/Another Day In Paradise.mp3
+2663:Phill Collins/Don't Let Him Steal Your Heart Away.mp3
+2664:Pink Floyd - Best Of/103-pink_floyd-the_happiest_days_of_our_lives.mp3
+2665:Pink Floyd - Best Of/104-pink_floyd-another_brick_in_the_wall_(part_2).mp3
+2666:Pink Floyd - Best Of/106-pink_floyd-hey_you.mp3
+2667:Pink Floyd - Best Of/108-pink_floyd-the_great_gig_in_the_sky.mp3
+2668:Pink Floyd - Best Of/110-pink_floyd-money.mp3
+2669:Pink Floyd - Best Of/201-pink_floyd-shine_on_you_crazy_diamond_(parts_1-7).mp3
+2670:Pink Floyd - Best Of/202-pink_floyd-time.mp3
+2671:Pink Floyd - Best Of/204-pink_floyd-comfortably_numb.mp3
+2672:Pink Floyd - Best Of/207-pink_floyd-us_and_them.mp3
+2673:Pink Floyd - Best Of/208-pink_floyd-learning_to_fly.mp3
+2674:Pink Floyd - Best Of/210-pink_floyd-wish_you_were_here.mp3
+2675:Pretenders/Brass In Pocket.mp3
+2676:Pretenders/I'll Stand By You.mp3
+2677:Prince/Kiss.mp3
+2678:Prince/Diamonds And Pearls.m4a
+2679:Prince/Cream.m4a
+2680:Prince/Strollin'.m4a
+2681:Prince/Money Don't Matter 2 Night.m4a
+2682:Pussycat Dolls/Don't cha.m4a
+2683:Queen/Bohemian Rhapsody.m4a
+2684:Queen/Another One Bites The Dust.m4a
+2685:Queen/Bicycle Race.m4a
+2686:Queen/You're My Best Friend.m4a
+2687:Queen/Don't Stop Me Now.m4a
+2688:Queen/Crazy Little Thing Called Love.m4a
+2689:Queen/Somebody To Love.m4a
+2690:Queen/We Will Rock You 1.m4a
+2691:Queen/We Are The Champions.m4a
+2692:Queen/A Kind Of Magic.m4a
+2693:Queen/Under Pressure.m4a
+2694:Queen/Radio GA GA.m4a
+2695:Queen/I Want It All.m4a
+2696:Queen/I Want To Break Free.m4a
+2697:Queen/It's A Hard Life.m4a
+2698:Queen/Who Wants To Live Forever.m4a
+2699:Queen/The Show Must Go On.m4a
+2700:Queen/One Vision.m4a
+2701:Quinta do Bill/Se Te Amo.mp3
+2702:Quinta do Bill/Voa.mp3
+2703:R. Kelly/I Believe I Can Fly.mp3
+2704:Radio Macau/Amanhã é sempre longe demais.mp3
+2705:Radio Macau/Cantiga de Amor.mp3
+2706:Radio Macau/Manual De Sobrevivência.mp3
+2707:Radio Macau/O anzol.mp3
+2708:Rainbow/All Night Long.mp3
+2709:Rainbow/Can't Let You Go.mp3
+2710:Rainbow/I Surrender.mp3
+2711:Rainbow/Since You've Been Gone.mp3
+2712:Rainbow/Street Of Dreams.mp3
+2713:Rare Blend/Boom Boom Boom.m4a
+2714:Ray LaMontagne/01 You Are the Best Thing.m4a
+2715:Ray LaMontagne/02 Let It Be Me.m4a
+2716:Ray LaMontagne/03 Sarah.m4a
+2717:Ray LaMontagne/04 I Still Care for You.m4a
+2718:Ray LaMontagne/05 Winter Birds.m4a
+2719:Ray LaMontagne/06 Meg White.m4a
+2720:Ray LaMontagne/07 Hey Me, Hey M__a.m4a
+2721:Ray LaMontagne/08 Henry Nearly Killed Me (It's a Shame).m4a
+2722:Ray LaMontagne/09 A Falling Through.m4a
+2723:Ray LaMontagne/10 Gossip In the Grain.m4a
+2724:Richard Marx/Right Here Waiting.mp3
+2725:Ricky Martin/She's All I Ever Had.mp3
+2726:Ricky Martin/I don't care.m4a
+2727:Ricky Martin/Jaleo.m4a
+2728:Ricky Martin/La Copa De La Vida.m4a
+2729:Ricky Martin/Fuego de Noche, Nieve de Dia.mp3
+2730:Ricky Van Shelton & The Beach Boys/Fun, Fun, Fun.m4a
+2731:Rihana/Umbrella.m4a
+2732:Rihana/Push Up On Me.m4a
+2733:Rihana/Don't Stop The Music.m4a
+2734:Rihana/Shut Up And Drive.m4a
+2735:Robbie Williams/millenium.mp3
+2736:Robbie Williams/She's the One.mp3
+2737:Robbie Williams/Angels.mp3
+2738:Ronan Keating/Life Is A Rollercoaster.mp3
+2739:Ronan Keating/when you say nothing at all.mp3
+2740:Ronnie James Dio/Dream On.mp3
+2741:Ronnie James Dio/Holy Diver.mp3
+2742:Ronnie James Dio/Rainbow In The Dark.mp3
+2743:Ronnie James Dio/The Last In Line.mp3
+2744:Rosana/El Talismán.m4a
+2745:Rosana/A Fuego Lento.m4a
+2746:Rosana/Si Tú No Estás.m4a
+2747:Rosana/Bebes De Mí.m4a
+2748:Rosana/Sin Miedo.m4a
+2749:Rosana/Deray.m4a
+2750:Roxxette/Vulnerable.mp3
+2751:Sade/By Your Side.mp3
+2752:Sade/Your Love Is King.mp3
+2753:Sam Hunt/Take your Time.mp3
+2754:Sarah/Time to Say Goodbye.mp3
+2755:Savage Garden/I Knew I Love You.mp3
+2756:Savage Garden/To The Moon & Back.mp3
+2757:Sawyer Brown & The Beach Boys/05 I Get Around.m4a
+2758:Saxon/Ride Like The Wind.mp3
+2759:Saxon/Back on the Streets.mp3
+2760:Scorpions/No One Like You.mp3
+2761:Scorpions/Rock You Like A Hurricane.mp3
+2762:Scorpions/Holiday.mp3
+2763:Scorpions/Send Me An Angel.mp3
+2764:Scorpions/Wind Of Change.mp3
+2765:Scorpions/You And I.mp3
+2766:Scorpions/Still Loving You.m4a
+2767:Scorpions/When The Smoke Is Going Down.m4a
+2768:Scorpions/Always Somewhere.m4a
+2769:Scorpions/Lady Starlight.m4a
+2770:Scorpions/Holiday.m4a
+2771:Seal/Kiss From A Rose.m4a
+2772:Seu Jorge - Best Of/01 Burguesinha.mp3
+2773:Seu Jorge - Best Of/02 Mina Do Condomínio.mp3
+2774:Seu Jorge - Best Of/03 Tive Razão (ao vivo).mp3
+2775:Seu Jorge - Best Of/04 Carolina (ao vivo).mp3
+2776:Seu Jorge - Best Of/05 País Tropical (ao vivo).mp3
+2777:Seu Jorge - Best Of/06 São Gonça (ao vivo).mp3
+2778:Seu Jorge - Best Of/07 É Isso Aí (acústico).mp3
+2779:Seu Jorge - Best Of/08 Zé Do Caroço (ao vivo).mp3
+2780:Seu Jorge - Best Of/09 Eu Sou O Samba.mp3
+2781:Seu Jorge - Best Of/10 Pessoal Particular.mp3
+2782:Seu Jorge - Best Of/11 Seu Olhar.mp3
+2783:Seu Jorge - Best Of/12 Me Deixa Em Paz.mp3
+2784:Seu Jorge - Best Of/13 Pode Acreditar (Meu Laiá Laiá).mp3
+2785:Seu Jorge - Best Of/14 Cotidiano.mp3
+2786:Shadows/Theme from the deer Hunter (Cavatina).mp3
+2787:Shakira/La tortura.m4a
+2788:Shakira/Don't bother.m4a
+2789:Shania Twain/Man! I Feel Like A Woman!.m4a
+2790:Shania Twain/I'm Holdin' On To Love (To Save My Life).m4a
+2791:Shania Twain/Love Gets Me Every Time.m4a
+2792:Shania Twain/Don't Be Stupid (You Know I Love You).m4a
+2793:Shania Twain/You're Still The One.m4a
+2794:Shania Twain/That Don't Impress Me Much.m4a
+2795:Shania Twain/Whose Bed Have Your Boots Been Under.m4a
+2796:Shania Twain/No One Needs To Know.m4a
+2797:Sheryl Crow/Run Baby Run.m4a
+2798:Sia/Academia.mp3
+2799:Sia/Big Girls Cry.mp3
+2800:Sia/Day Too Soon.mp3
+2801:Sia/Distractions.mp3
+2802:Sia/Electric Bird.mp3
+2803:Sia/Lentil.mp3
+2804:Sia/Little Black Sandals.mp3
+2805:Sia/Soon We'll Be Found.mp3
+2806:Sia/The Girl You Lost to Cocaine.mp3
+2807:Simon & Garfunkel/The Sound of Silence (Original Version from 1964).mp3
+2808:Simone/Muito Estranho (Cuida Bem de Mim).m4a
+2809:Simply Red/Sunrise.mp3
+2810:Simply Red/You Make Me Feel Brand New.mp3
+2811:Simply Red/Something Got Me Started.m4a
+2812:Simply Red/Stars.m4a
+2813:Simply Red/For Your Babies.m4a
+2814:Sisters Sledge/Family.m4a
+2815:Sixpence None The Richer/Kiss Me.mp3
+2816:Skrillex/Equinox (First Of The Year) (Drum Cover).mp3
+2817:Snap!/The Power.m4a
+2818:Soundgarden/Black Hole Sun.mp3
+2819:Spice Girls/Stop.m4a
+2820:Steel Dragon/We All Die Young.mp3
+2821:Sting/When We Dance.m4a
+2822:Sting/Fields Of Gold.m4a
+2823:Sting/Englishman In New York.m4a
+2824:Sting/If I Ever Lose My Faith In You.m4a
+2825:Sting/Fragile.m4a
+2826:Sting/Fragilidad.mp3
+2827:Stravinsky - The Rite Of Spring, Firebird Suite/01 Stravinsky_ The Rite Of Spring - Part 1_ Introduction.m4a
+2828:Stravinsky - The Rite Of Spring, Firebird Suite/02 Stravinsky_ The Rite Of Spring - Part 1_ Harbingers Of Spring.m4a
+2829:Stravinsky - The Rite Of Spring, Firebird Suite/03 Stravinsky_ The Rite Of Spring - Part 1_ Mock Abduction.m4a
+2830:Stravinsky - The Rite Of Spring, Firebird Suite/04 Stravinsky_ The Rite Of Spring - Part 1_ Spring Rounds.m4a
+2831:Stravinsky - The Rite Of Spring, Firebird Suite/05 Stravinsky_ The Rite Of Spring - Part 1_ Games Of The Rival Tribes.m4a
+2832:Stravinsky - The Rite Of Spring, Firebird Suite/06 Stravinsky_ The Rite Of Spring - Part 1_ Procession Of The Wise Elder.m4a
+2833:Stravinsky - The Rite Of Spring, Firebird Suite/07 Stravinsky_ The Rite Of Spring - Part 1_ Adoration Of The Earth.m4a
+2834:Stravinsky - The Rite Of Spring, Firebird Suite/08 Stravinsky_ The Rite Of Spring - Part 1_ Dance Of The Earth.m4a
+2835:Stravinsky - The Rite Of Spring, Firebird Suite/09 Stravinsky_ The Rite Of Spring - Part 2_ Introduction.m4a
+2836:Stravinsky - The Rite Of Spring, Firebird Suite/10 Stravinsky_ The Rite Of Spring - Part 2_ Mystic Circles Of The Young Girls.m4a
+2837:Stravinsky - The Rite Of Spring, Firebird Suite/11 Stravinsky_ The Rite Of Spring - Part 2_ Glorification Of The Chosen One.m4a
+2838:Stravinsky - The Rite Of Spring, Firebird Suite/12 Stravinsky_ The Rite Of Spring - Part 2_ Summoning Of The Ancients.m4a
+2839:Stravinsky - The Rite Of Spring, Firebird Suite/13 Stravinsky_ The Rite Of Spring - Part 2_ Ritual Of The Ancients.m4a
+2840:Stravinsky - The Rite Of Spring, Firebird Suite/14 Stravinsky_ The Rite Of Spring - Part 2_ Sacrificial Dance.m4a
+2841:Stravinsky - The Rite Of Spring, Firebird Suite/15 Stravinsky_ The Firebird - Introduction.m4a
+2842:Stravinsky - The Rite Of Spring, Firebird Suite/16 Stravinsky_ The Firebird - The Firebird & His Dance.m4a
+2843:Stravinsky - The Rite Of Spring, Firebird Suite/17 Stravinsky_ The Firebird - Variation Of The Firebird.m4a
+2844:Stravinsky - The Rite Of Spring, Firebird Suite/18 Stravinsky_ The Firebird - The Round Of The Princesses.m4a
+2845:Stravinsky - The Rite Of Spring, Firebird Suite/19 Stravinsky_ The Firebird - Infernal Dance Of King Kastchei.m4a
+2846:Stravinsky - The Rite Of Spring, Firebird Suite/20 Stravinsky_ The Firebird - Berceuse.m4a
+2847:Stravinsky - The Rite Of Spring, Firebird Suite/21 Stravinsky_ The Firebird - Finale.m4a
+2848:Supertramp/School.m4a
+2849:Supertramp/Goodbye Stranger.m4a
+2850:Supertramp/The Logical Song.m4a
+2851:Supertramp/Bloody Well Right.m4a
+2852:Supertramp/Breakfast In America.m4a
+2853:Supertramp/Rudy.m4a
+2854:Supertramp/Take The Long Way Home.m4a
+2855:Supertramp/Crime Of The Century.m4a
+2856:Supertramp/Dreamer.m4a
+2857:Supertramp/Ain't Nobody But Me.m4a
+2858:Supertramp/Hide In Your Shell.m4a
+2859:Supertramp/From Now On.m4a
+2860:Supertramp/Give A Little Bit.m4a
+2861:Supertramp/It's Raining Again.m4a
+2862:Supertramp/Cannonball.m4a
+2863:Supertramp/Lady.m4a
+2864:Supertramp/Oh Darling.m4a
+2865:Supertramp/Even In The Quietest Moment.m4a
+2866:Supertramp/Waiting So Long.m4a
+2867:Supertramp/Babaji.m4a
+2868:Supertramp/Gone Hollywood.m4a
+2869:Supertramp/If Everyone Was Listening.m4a
+2870:Supertramp/Just Another Nervous Wreck.m4a
+2871:Supertramp/Don't Leave Me Now.m4a
+2872:Supertramp/My Kind Of Lady.m4a
+2873:Supertramp/A Soapbox Opera.m4a
+2874:Supertramp/Downstream.m4a
+2875:Supertramp/Fool's Overture.m4a
+2876:System Of A Down/Lonely Day.mp3
+2877:System Of A Down/B.Y.O.B.mp3
+2878:System Of A Down/Aerials.mp3
+2879:System Of A Down/Chop Suey!.mp3
+2880:System Of A Down/Toxicity.mp3
+2881:Talk Talk/It´s My Life.mp3
+2882:Talk Talk/Such A Shame.mp3
+2883:Talk Talk/Talk Talk.m4a
+2884:Thomas Rhett/It Goes Like This.mp3
+2885:Three Days Grace/I Hate Everything About You.mp3
+2886:Tiago Bettencourt/Caminho De Voltar.mp3
+2887:Tiago Bettencourt/Fúria e Paz.mp3
+2888:Tiago Bettencourt/Maria.mp3
+2889:Tiago Bettencourt/Partimos a Pedra.mp3
+2890:Tiago Bettencourt/Sara.mp3
+2891:Tiago Bettencourt/Se Me Deixasses Ser.mp3
+2892:Tiago Bettencourt/Sol de Março.mp3
+2893:Timothy B. Schmit & The Beach Boys/Caroline, No.m4a
+2894:Tina Turner/The Best.m4a
+2895:Tina Turner/What's Love Got To Do With It.m4a
+2896:Tina Turner/I Can't Stand The Rain.m4a
+2897:Tina Turner/I Don't Wanna Lose You.m4a
+2898:Tina Turner/Let's Stay Together.m4a
+2899:Tina Turner/Private Dancer.m4a
+2900:Tina Turner/We Don't Need Another Hero.m4a
+2901:Tina Turner/Typical Male.m4a
+2902:Tina Turner/Way Of The World.m4a
+2903:Titãs/Epitáfio.m4a
+2904:Toranja/Carta.mp3
+2905:Toranja/Laços.mp3
+2906:Toranja/Quebramos os Dois.mp3
+2907:Train/Drops Of Jupiter.mp3
+2908:Tres Tristes Tigres/O mundo a meus pés.mp3
+2909:Trovante/125 Azul.mp3
+2910:Trovante/Balada das Sete Saias.mp3
+2911:Trovante/Fizeram os Dias Assim.mp3
+2912:Trovante/Um Caso Mais.mp3
+2913:U2/Magnificent.mp3
+2914:U2/Mysterious Ways.mp3
+2915:UB40/Kingston Town.m4a
+2916:Van Halen/Ain't Talkin' 'Bout Love.mp3
+2917:Van Halen/Dreams.mp3
+2918:Van Halen/Eruption_You Really Got Me.mp3
+2919:Van Halen/Panama.mp3
+2920:Van Halen/When Its Love.mp3
+2921:Van Halen/Eruption.mp3
+2922:Van Halen/Jump.mp3
+2923:Van Halen/Love Walks In.mp3
+2924:Van Halen/Why Cant This Be Love.mp3
+2925:The Verve/The Drugs Don_t Work.mp3
+2926:White Lion/When The Children Cry.mp3
+2927:Whitesnake/Crying in the Rain.mp3
+2928:Whitesnake/Slow an' Easy.mp3
+2929:Whitesnake/Spit It Out.mp3
+2930:Whitesnake/Love Ain't No Stranger.mp3
+2931:Whitesnake/Still Of The Night.m4a
+2932:Whitesnake/Here I Go Again.m4a
+2933:Whitesnake/Give Me All Your Love.m4a
+2934:Whitesnake/Is This Love.m4a
+2935:Whitesnake/Don't Turn Away.m4a
+2936:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/01 Konzert für Flöte und Hafe C-.Dur KV 299 1. Allegro.m4a
+2937:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/02 Konzert für Flöte und Hafe C-.Dur KV 299 2. Andantino.m4a
+2938:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/03 Konzert für Flöte und Hafe C-.Dur KV 299 3. Rondeau - Allegro.m4a
+2939:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/04 Konzer für Flöte und Orchester G-Dur KV 313 1. Allegro maestoso.m4a
+2940:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/05 Konzer für Flöte und Orchester G-Dur KV 313 2. Adagio ma non troppo.m4a
+2941:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/06 Konzer für Flöte und Orchester G-Dur KV 313 3. Rondeau - tempo di menu etto.m4a
+2942:Wolfgang Amadeus Mozart/Edition Wolfgang Amadeus Mozart/07 Andante für Flöte und Orchester C-Dur KV 315.m4a
+2943:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/01 Concerto for Oboe and Orchestra in C major, K314 - I. Allegro aperto.m4a
+2944:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/02 II. Adagio non troppo.m4a
+2945:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/03 III. Rondo (Allegretto).m4a
+2946:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/04 Concerto for Clarinet and Orchestra in A major, K622 - I. Allegro.m4a
+2947:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/05 II. Adagio.m4a
+2948:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/06 III. Rondo (Allegro).m4a
+2949:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/07 Concerto for Bassoon and Orchestra in B flat, K191 - I. Allegro.m4a
+2950:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/08 II. Andante ma adagio.m4a
+2951:Wolfgang Amadeus Mozart/Oboe-, Clarinet- and Bassoon Concertos/09 III. Rondo (Tempo di menuetto).m4a
+2952:Wolfgang Amadeus Mozart/The Four Horn Concertos/01 Concerto for Horn and Orchestra No. 1 in D-dur, K412 - I. Allegro.m4a
+2953:Wolfgang Amadeus Mozart/The Four Horn Concertos/02 II. Rondo - Allegro.m4a
+2954:Wolfgang Amadeus Mozart/The Four Horn Concertos/03 Concerto for Horn and Orchestra No. 4 in Es-dur, K495 - I. Allegro maestoso.m4a
+2955:Wolfgang Amadeus Mozart/The Four Horn Concertos/04 II. Romance - Andante cantabile.m4a
+2956:Wolfgang Amadeus Mozart/The Four Horn Concertos/05 III. Rondo - Allegro vivace.m4a
+2957:Wolfgang Amadeus Mozart/The Four Horn Concertos/06 Concerto for Horn and Orchestra No. 2 in Es-dur, K417 - I. Allegro.m4a
+2958:Wolfgang Amadeus Mozart/The Four Horn Concertos/07 II. Andante.m4a
+2959:Wolfgang Amadeus Mozart/The Four Horn Concertos/08 III. Rondo - Allegro.m4a
+2960:Wolfgang Amadeus Mozart/The Four Horn Concertos/09 Concerto for Horn and Orchestra No. 3 in Es-dur, K447 - I. Allegro.m4a
+2961:Wolfgang Amadeus Mozart/The Four Horn Concertos/10 II. Romance - Larghetto.m4a
+2962:Wolfgang Amadeus Mozart/The Four Horn Concertos/11 III. Allegro.m4a
+2963:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/01 Concerto for Violin and Orchestra No. 2 in D major, K211 - I. Allegro moderato.m4a
+2964:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/02 II. Andante.m4a
+2965:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/03 III. Rondeau - Allegro.m4a
+2966:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/04 Concerto for Violin and Orchestra No. 4 in D major, K218 - I. Allegro.m4a
+2967:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/05 II. Andante cantabile.m4a
+2968:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/06 III. Rondeau.m4a
+2969:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/07 Sinfonia concertante in E flat major, K364 - I. Allegro maestoso.m4a
+2970:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/08 II. Andante.m4a
+2971:Wolfgang Amadeus Mozart/Violin Concertos No. 2 and 4/09 III. Presto.m4a
+2972:Xutos E Pontapés/Chuva Dissolvente.mp3
+2973:Xutos E Pontapés/Circo de Feras.mp3
+2974:Xutos E Pontapés/Homem do Leme.mp3
+2975:Zero 7/Destiny.mp3
+2976:Zero 7/Destiny.mp3
+2977:Zero 7/Destiny.mp3
+2978:Zero 7/Destiny.mp3
+2979:Zero 7/Destiny.mp3
+2980:Zero 7/Destiny.mp3
+2981:Zero 7/Destiny.mp3
+2982:Zero 7/Destiny.mp3
+2983:Zero 7/Destiny.mp3
+2984:Zero 7/Destiny.mp3
+2985:Zero 7/Destiny.mp3
+2986:Zero 7/Destiny.mp3
 playlist_end

@@ -61,12 +61,14 @@ if [[ $TERM == *tmux* ]]; then
     alias :vs='tmux split-window -h'
 fi
 
-# Usage of rsync to backup entire system
-alias bckup='sudo rsync -aAXv --delete --dry-run --exclude={/dev/*,/proc/*,/sys/*,\
-    /tmp/*,/run/*,/mnt/*,/media/*,"swapfile","lost+found",".cache","Downloads",\
-    ".VirtualBoxVMs",".ecryptfs"} / /run/media/alu/ALU/'
+# Usage of rsync to backup system
+alias bckup='sudo rsync -aAXv --delete --dry-run --exclude={ /dev/*,/proc/*,/sys/*,\
+    /tmp/*,/run/*,/mnt/*,/media/*,/home/,"swapfile","lost+found",".cache","Downloads",\
+    ".VirtualBoxVMs",".ecryptfs" } / /run/media/carlosado/toshiba/'
+
 alias rcp='rsync -v --progress'             # show progress when using rsync
 alias rmv='rcp --remove-source-files'       # self explanatory
+alias rstr='rsync -aAXv --delete --exclude="lost+found" /mnt/usb/ /mnt/system/'
 
 # Utilities
 alias calc='python -qi -c "from math import *"'   # a calculator
