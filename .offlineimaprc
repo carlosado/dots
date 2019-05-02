@@ -1,0 +1,42 @@
+
+[general]
+pythonfile = ~/.offlineimap.py
+ui = ttyui
+accounts = Gmail
+fsync = False
+
+[Account Gmail]
+localrepository = Gmail-Local
+remoterepository = Gmail-Remote
+postsynchook = notmuch new
+
+[Repository Gmail-Local]
+type = Maildir
+localfolders = ~/Mail/Gmail
+restoreatime = no
+nametrans = lambda folder: {'drafts':  '[Gmail]/Rascunhos',
+                            'sent':    '[Gmail]/Correio enviado',
+                            'flagged': '[Gmail]/Com estrela',
+                            'trash':   '[Gmail]/Caixote do Lixo',
+                            'archive': '[Gmail]/Todo o correio',
+                            }.get(folder, folder)
+
+[Repository Gmail-Remote]
+maxconnections = 1
+type = Gmail
+remoteuser = diaoliveira@gmail.com
+remotepasseval = get_pass("gmail")
+realdelete = no
+sslcacertfile = /etc/ssl/certs/ca-certificates.crt
+ssl_version = tls1_2
+createfolders = false
+nametrans = lambda folder: {'[Gmail]/Rascunhos':    'drafts',
+                            '[Gmail]/Correio enviado': 'sent',
+                            '[Gmail]/Com estrela':   'flagged',
+                            '[Gmail]/Caixote do Lixo':  'trash',
+                            '[Gmail]/Todo o correio':  'archive',
+                            }.get(folder, folder)
+folderfilter = lambda folder: folder not in ['[Gmail]/Caixote do Lixo',
+                                             '[Gmail]/Importante',
+                                             '[Gmail]/Spam',
+                                             ]
