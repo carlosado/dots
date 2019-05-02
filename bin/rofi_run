@@ -45,7 +45,7 @@ for arg in "$@"; do
             ;;
         -r|--run)
             rofi -modi run,drun -show drun -line-padding 4 \
-                -columns 2 -padding 50 -hide-scrollbar \
+                -padding 300 -hide-scrollbar \
                 -show-icons -drun-icon-theme "ArchLabs-Light"
             ;;
         -w|--window)
@@ -81,11 +81,11 @@ for arg in "$@"; do
         -l|--logout)
             if grep -q 'exec startx' $HOME/.*profile; then
                 ANS="$(rofi -sep "|" -dmenu -i -p 'System' -width 20 \
-                    -hide-scrollbar -line-padding 4 -padding 20 \
+                    -hide-scrollbar -line-padding 4 -padding 20 -position 0 \
                     -lines 3 <<< " Lock| Reboot| Shutdown")"
             else
                 ANS="$(rofi -sep "|" -dmenu -i -p 'System' -width 20 \
-                    -hide-scrollbar -line-padding 4 -padding 20 \
+                    -hide-scrollbar -line-padding 4 -padding 300 -position 0\
                     -lines 4 <<< " Lock| Logout| Reboot| Shutdown")"
             fi
 

@@ -17,9 +17,6 @@ nnoremap <Leader>r :lrewind<CR>
 " ----- MRU -------
 nnoremap <Leader>m :MRU<CR>
 
-" ------ Indent Guides ------
-nnoremap <Leader>t :IndentGuidesEnable<CR>
-
 " ------ Goyo ------
 nnoremap <Leader>g :Goyo<CR>
 

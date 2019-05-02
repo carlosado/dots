@@ -21,11 +21,13 @@ Plug 'rstacruz/vim-opinion'             "rstcruz vim options edited
 Plug 'scrooloose/nerdcommenter'         "Control your code comments
 Plug 'sheerun/vim-polyglot'             "All language packs you'll need
 "Plug 'vim-ruby/vim-ruby'
-"Plug 'rust-lang/rust.vim'
+Plug 'rust-lang/rust.vim'
 
 " ---- Completion related plugins ----
 Plug 'valloric/youcompleteme', { 'do': './install.py --all' }  "Code completion
 Plug 'mattn/emmet-vim'                  "Expand abreviations on HTML/CSS code
+"Plug 'townk/vim-autoclose'              "Auto close brackets
+Plug 'vim-scripts/AutoClose'
 
 " ---- Code display related plugins ----
 Plug 'tpope/vim-surround'               "Quoting and parenthesizing made simple

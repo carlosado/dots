@@ -48,6 +48,12 @@ alias pun='sudo pacman -Rs'       # remove
 alias pcc='sudo pacman -Scc'      # clear cache
 alias prm='sudo pacman -Rnsc'     # really remove, configs and all
 
+# Rust shortcuts
+alias cn='cargo new'            # start a new rust project
+alias cb='cargo build'          # compile your rust project
+alias cr='cargo run'            # run your rust project
+alias cc='cargo check'          # check if your project compiles
+
 # make shortcuts
 alias pkg='makepkg --printsrcinfo > .SRCINFO && makepkg -fsrc'
 alias spkg='makepkg --printsrcinfo > .SRCINFO && makepkg -fsrc --sign'
@@ -80,5 +86,4 @@ alias xp='xprop | awk -F\"'" '/CLASS/ {printf \"NAME = %s\nCLASS = %s\n\", \$2, 
 alias get='curl --continue-at - --location --progress-bar --remote-name --remote-time'
 
 # Manage home dotfiles through a Git bare repository
-alias cfg='/usr/bin/git --git-dir=/home/carlosado/.cfg --work-tree=/home/carlosado'
 alias dots='/usr/bin/git --git-dir=/home/carlosado/.dots --work-tree=/home/carlosado'
