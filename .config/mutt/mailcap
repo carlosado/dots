@@ -1,0 +1,32 @@
+# MS Word documents
+application/msword; ~/.config/mutt/view_attachment.sh %s "-" '/Applications/TextEdit.app'
+
+# Images
+image/jpg; ~/.config/mutt/view_attachment.sh %s jpg
+image/jpeg; ~/.config/mutt/view_attachment.sh %s jpg
+image/pjpeg; ~/.config/mutt/view_attachment.sh %s jpg
+image/png; ~/.config/mutt/view_attachment.sh %s png
+image/gif; ~/.config/mutt/view_attachment.sh %s gif
+
+# PDFs
+application/pdf; ~/.config/mutt/view_attachment.sh %s pdf
+
+# HTML
+text/html; ~/.config/mutt/view_attachment.sh %s html
+
+# Unidentified files
+application/octet-stream; ~/.config/mutt/view_attachment.sh %s "-"
+
+#-----------------------------------------------------------------------------
+#audio/*; /usr/bin/xdg-open %s ; copiousoutput
+
+image/*; /usr/bin/xdg-open %s ; copiousoutput
+
+#application/msword; /usr/bin/xdg-open %s ; copiousoutput
+#application/pdf; /usr/bin/xdg-open %s ; copiousoutput
+#application/postscript ; /usr/bin/xdg-open %s ; copiousoutput
+
+#text/html; qutebrowser %s && sleep 5 ; test=test -n "$DISPLAY";
+#nametemplate=%s.html; needsterminal
+#text/html; lynx -dump %s ; copiousoutput; nametemplate=%s.html
+text/html; w3m -I %{charset} -T text/html ; copiousoutput; nametemplate=%s.html
