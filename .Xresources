@@ -1,5 +1,5 @@
 ! Base colors
-*.foreground:  #E1E1E1
+*.foreground:  #ffffcc
 *.background:  #1c2023
 *.cursorColor: #778899
 
@@ -20,32 +20,32 @@
 *.color14: #96b5b4
 *.color15: #c0c5ce
 
-! Rofi
-rofi.width: 10
+! Rofi config is in /.config/rofi
+!rofi.width: 10
 !rofi.lines: 5
 !rofi.columns: 1
-rofi.font: Menlo 12
+!rofi.font: Menlo 12
 !rofi.bw: 0
-rofi.location: center
+!rofi.location: center
 !rofi.padding: 200
 !rofi.sort: true
 !rofi.eh: 1
 !rofi.line-padding: 2
-rofi.color-enabled: true
-rofi.hide-scrollbar: true
+!rofi.color-enabled: true
+!rofi.hide-scrollbar: true
 !rofi.separator-style: solid
 !rofi.separator-style: none
-rofi.fullscreen: true
+!rofi.fullscreen: true
 !rofi.color-window: #1c2023, #919ba0, #1c2023
 !rofi.color-normal: #1c2023, #919ba0, #1c2023, #a4a4a4, #1c2023
 !rofi.color-urgent: argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49
 !rofi.color-active: argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49
 !                   'background'    'border'       'separator'
-rofi.color-window: argb:cc2f343f, argb:cc2f343f, argb:cc2f343f
+!rofi.color-window: argb:cc2f343f, argb:cc2f343f, argb:cc2f343f
 !                   'bg'            'fg'      'bgalt'        'hlbg'       'hlfg'
-rofi.color-normal: argb:002f343f, #d8dee8, argb:002f343f, argb:002f343f, #bf616a
-rofi.color-active: #2f343f, #b48ead, #2f343f, #2f343f, #93e5cc
-rofi.color-urgent: #2f343f, #ebcb8b, #2f343f, #2f343f, #ebcb8b
+!rofi.color-normal: argb:002f343f, #d8dee8, argb:002f343f, argb:002f343f, #bf616a
+!rofi.color-active: #2f343f, #b48ead, #2f343f, #2f343f, #93e5cc
+!rofi.color-urgent: #2f343f, #ebcb8b, #2f343f, #2f343f, #ebcb8b
 
 
 ! xterm
