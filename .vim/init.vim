@@ -7,7 +7,7 @@
 runtime! archlinux.vim
 
 " ---- tentative leader maping ----
-"let g:mapleader = "\<Space>"
+let g:mapleader = "\<Space>"
 
 " ------------- Ok. Let's Plug it -------------
 " ---- Use Plug-vim for plugins population ----
@@ -25,6 +25,7 @@ Plug 'rust-lang/rust.vim'
 
 " ---- Completion related plugins ----
 Plug 'valloric/youcompleteme', { 'do': './install.py --all' }  "Code completion
+Plug 'rdnetto/YCM-Generator', { 'branch': 'stable'}
 Plug 'mattn/emmet-vim'                  "Expand abreviations on HTML/CSS code
 "Plug 'townk/vim-autoclose'              "Auto close brackets
 Plug 'vim-scripts/AutoClose'

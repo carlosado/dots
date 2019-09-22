@@ -37,7 +37,6 @@ modules-left   = i3
 modules-center = clock
 modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pack network volume}
 
-
 ; Bottom bar configuration
 [bar/i3-bottom-bar]
 
@@ -59,6 +58,11 @@ border-bottom-size = 0
 modules-left   = kernel mpd
 modules-center = 
 modules-right  = system-usb-udev redshift compton_toggle keyboard filesystem
+
+; Tray
+tray-position = center
+tray-padding = 2
+tray-background = ${colors.background}
 
 ;=====================================================
 ;     Bspwm Bars

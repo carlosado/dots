@@ -87,3 +87,6 @@ alias get='curl --continue-at - --location --progress-bar --remote-name --remote
 
 # Manage home dotfiles through a Git bare repository
 alias dots='/usr/bin/git --git-dir=/home/carlosado/.dots --work-tree=/home/carlosado'
+
+# Launch clamscan user options
+alias clamscan='clamscan --recursive --infected --move=~/quarantine --log=~/quarantine/log'

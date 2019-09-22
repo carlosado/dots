@@ -38,10 +38,10 @@ class Zenburn(ColorScheme):
             if context.document:
                 fg = 151
             if context.container:
-                attr |= bold
+#                attr |= bold
                 fg = 174
             if context.directory:
-                attr |= bold
+#                attr |= bold
                 fg = 223
             elif context.executable and not \
                     any((context.media, context.container,

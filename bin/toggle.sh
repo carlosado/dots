@@ -79,7 +79,8 @@ toggle_redshift()
         if [[ -z $temp ]]; then
             echo " $icon "                # Greyed out (not running)
         elif [[ $temp -ge 5000 ]]; then
-            echo "%{F#8039A0} $icon "     # Blue
+#            echo "%{F#8039A0} $icon "     # Blue
+            echo "%{F#a2d1ec} $icon "
         elif [[ $temp -ge 4000 ]]; then
             echo "%{F#F203F0} $icon "     # Yellow
         else

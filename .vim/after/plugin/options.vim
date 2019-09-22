@@ -27,7 +27,7 @@ set list listchars=tab:>>,trail:~
 
 " ------ enable a colorscheme ------
 colorscheme gruvbox
-set background=dark
+set background=light
 
 if $TERM !=? 'linux'
     set termguicolors

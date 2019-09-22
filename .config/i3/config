@@ -24,9 +24,10 @@ client.background       $bg
 for_window [class="^.*"] border pixel 2, title_format "<b> %class >> %title </b>"
 
 # gaps
+smart_borders on
 smart_gaps on
-gaps inner 5
-gaps outer 5
+gaps inner 2
+gaps outer 2
 
 # font
 font pango:Menlo\ Regular:h10
@@ -90,14 +91,17 @@ bindsym Control+space exec --no-startup-id rofi_run -r
 
 # core
 bindsym $Mod+w          exec --no-startup-id exo-open --launch WebBrowser
-bindsym $Mod+f          exec --no-startup-id exo-open --launch FileManager
+#bindsym $Mod+f          exec --no-startup-id exo-open --launch FileManager
+bindsym $Mod+f          exec --no-startup-id termite -e ranger
 #bindsym $Mod+t          exec --no-startup-id exo-open --launch TerminalEmulator
+bindsym $Mod+t          exec --no-startup-id termite
 bindsym $Mod+Return     exec --no-startup-id exo-open --launch TerminalEmulator
 bindsym Control+Shift+t exec --no-startup-id exo-open --launch TerminalEmulator
-bindsym $Mod+t exec cd "$(xcwd)" && exec xterm
+#bindsym $Mod+t exec cd "$(xcwd)" && exec xterm
 
 # blank sreen
 bindsym $Mod+Shift+x exec i3lock
+
 # logout script
 bindsym $Mod+x exec --no-startup-id rofi_run -l
 
@@ -284,20 +288,22 @@ for_window [class="(?i)(?:geany|firefox)"]  focus
 
 # Assign Applications to specific workspace
 # get class with xprop
-assign [class="xterm"] → $WS1
-assign [class="xterm"]  → $WS2
-assign [class="Termite"]  → $WS3
-assign [class="Opera"] → $WS4
+assign [class="Termite"] → $WS1
+assign [class="Termite"]  → $WS2
+#assign [class="Termite" instance="termite"] → $WS3
+assign [title="ranger:~"] → $WS3
+assign [class="Opera"]  → $WS4
 assign [class="vlc"] → $WS5
 assign [class="libreoffice-startcenter"] → $WS6
 assign [class="org.gnome.meld"] → $WS6
 assign [class="MuPDF"] → $WS7
 assign [class="Tor Browser"] → $WS8
+assign [class="Google-chrome"] → $WS8
 
 # focus, floating, & sticky
 for_window [title="(?i)(?:copying|deleting|moving)"] floating enable
 for_window [window_role="(?i)(?:pop-up|setup)"]      floating enable
 
-popup_during_fullscreen smart
+#popup_during_fullscreen smart
 
 exec --no-startup-id i3-msg workspace $WS1

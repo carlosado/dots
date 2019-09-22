@@ -1,5 +1,5 @@
 "
-" ------ maping Plugins ------
+" ------ Maping Plugins ------
 "
 " ------ NerdTree ------
 nnoremap <Leader>f :NERDTreeToggle<Enter>
@@ -25,6 +25,10 @@ nnoremap <Leader>cs :mksession! ~/.vim/sessions/    " close (save) a session
 nnoremap <Leader>os :source ~/.vim/sessions/        " open a session
 nnoremap <Leader>rs :!rm ~/.vim/sessions/           " delete a session
 
+
+" xclip "
+vmap <F6> :!xclip -f -sel clip<CR>
+map <F7> mz:-1r !xclip -o -sel clip<CR>`z
 
 " open ranger as a file chooser using the function below
 "nnoremap <Leader>r :call <SID>ranger()<CR>

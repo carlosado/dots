@@ -51,7 +51,7 @@
 ! xterm
 xterm*termName: xterm-256color
 xterm*faceName: Menlo
-xterm*faceSize: 10
+xterm*faceSize: 11
 xterm*renderFont: true
 xterm*loginShell: true
 xterm*vt100*geometry: 90x34
