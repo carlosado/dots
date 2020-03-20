@@ -1,5 +1,7 @@
 #!/usr/bin/zsh
 
+# popup alias list
+#alias pop='grep -E "^alias" ~/.zsh/settings/aliases.zsh | awk '{$1=""; print $0}' | sed 's/^ *//g'| grep -vE "^XF86" | column | pr -2 -w 160 -t | less'
 # quick exit
 alias q='exit 0'
 alias d='clear'
@@ -48,7 +50,14 @@ alias pun='sudo pacman -Rs'       # remove
 alias pcc='sudo pacman -Scc'      # clear cache
 alias prm='sudo pacman -Rnsc'     # really remove, configs and all
 
-# Rust shortcuts
+# jupyter notebook shortcuts
+alias jn='jupyter notebook'       # launch jupyter notebook server
+alias jl='jupyter lab'            # launch jupyter lab server
+
+# python shortcuts
+alias pip='pip install --user'    # don't mess with root pacman in arch linux
+
+# rust shortcuts
 alias cn='cargo new'            # start a new rust project
 alias cb='cargo build'          # compile your rust project
 alias cr='cargo run'            # run your rust project

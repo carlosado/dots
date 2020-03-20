@@ -1,5 +1,6 @@
 " Borrowed from Sane vim defaults for ArchLabs
 
+filetype plugin on
 " system clipboard (requires +clipboard)
 set clipboard^=unnamed,unnamedplus
 

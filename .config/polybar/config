@@ -35,7 +35,8 @@ monitor = LVDS1
 
 modules-left   = i3
 modules-center = clock
-modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pack network volume}
+modules-right  = battery coreuse temperature memory pkg network volume
+;modules-right  = ${env:POLYBAR_MODULES:coreuse temperature memory pack network volume}
 
 ; Bottom bar configuration
 [bar/i3-bottom-bar]

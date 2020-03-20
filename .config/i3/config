@@ -42,10 +42,11 @@ set $down k
 set $left j
 set $right semicolon
 
+# Set default apps for each workspace
 set $WS1 "1:  "
-set $WS2 "2:  "
-set $WS3 "3:  "
-set $WS4 "4:  "
+set $WS2 "2:  "
+set $WS3 "3:  "
+set $WS4 "4:  "
 set $WS5 "5:  "
 set $WS6 "6:  "
 set $WS7 "7:  "
@@ -69,10 +70,11 @@ exec_always --no-startup-id xrdb -load ~/.Xresources
 
 # run once
 exec --no-startup-id xfsettingsd
-exec --no-startup-id al-compositor --start
+#exec --no-startup-id al-compositor --start
 exec --no-startup-id redshift -c ~/.config/redshift/redshift.conf
 exec --no-startup-id mpd
 #exec --no-startup-id compton --config $HOME/.config/compton.conf -b
+exec --no-startup-id picom --config $HOME/.config/picom/picom.conf -b
 
 # needed for super to launch rofi through ksuperkey, see ~/.xprofile
 bindsym Mod1+F1 exec --no-startup-id rofi_run -r
@@ -159,6 +161,8 @@ bindsym $mod+Mod2+KP_8 workspace $WS8
 bindsym $mod+Mod1+Left workspace prev
 bindsym $mod+Mod1+Right workspace next
 
+# auto back-and-forth when switching to current workspace
+#worspace_auto_back_and_forth yes
 
 # move focused container to workspace
 bindsym $Mod+Shift+1 move container to workspace $WS1; workspace $WS1
@@ -289,16 +293,13 @@ for_window [class="(?i)(?:geany|firefox)"]  focus
 # Assign Applications to specific workspace
 # get class with xprop
 assign [class="Termite"] → $WS1
-assign [class="Termite"]  → $WS2
-#assign [class="Termite" instance="termite"] → $WS3
-assign [title="ranger:~"] → $WS3
-assign [class="Opera"]  → $WS4
+assign [class="Opera"]  → $WS2
+assign [class="Chrome"] → $WS2
+assign [title="termite"] → $WS4
 assign [class="vlc"] → $WS5
 assign [class="libreoffice-startcenter"] → $WS6
-assign [class="org.gnome.meld"] → $WS6
 assign [class="MuPDF"] → $WS7
 assign [class="Tor Browser"] → $WS8
-assign [class="Google-chrome"] → $WS8
 
 # focus, floating, & sticky
 for_window [title="(?i)(?:copying|deleting|moving)"] floating enable

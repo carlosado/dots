@@ -22,6 +22,7 @@ Plug 'scrooloose/nerdcommenter'         "Control your code comments
 Plug 'sheerun/vim-polyglot'             "All language packs you'll need
 "Plug 'vim-ruby/vim-ruby'
 Plug 'rust-lang/rust.vim'
+Plug 'suan/vim-instant-markdown', {'for': 'markdown'}
 
 " ---- Completion related plugins ----
 Plug 'valloric/youcompleteme', { 'do': './install.py --all' }  "Code completion
@@ -41,6 +42,7 @@ Plug 'morhetz/gruvbox'                  "Colorscheme
 Plug 'w0rp/ale'                         "Asynchronous linting/fixing
 Plug 'tpope/vim-fugitive'               "A Git wrapper for vim
 Plug 'tpope/vim-sleuth'                 "An autoindent engine
+"Plug 'jamshedvesuna/vim-markdown-preview' "Markdown previewer
 
 " ---- Interface related plugins ----
 Plug 'itchyny/lightline.vim'            "A light configurable statusline

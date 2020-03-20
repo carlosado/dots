@@ -76,6 +76,9 @@ handle_extension() {
             w3m -dump "${FILE_PATH}" && exit 5
             lynx -dump -- "${FILE_PATH}" && exit 5
             elinks -dump "${FILE_PATH}" && exit 5
+            ;;
+        markdown|md)
+            try ansimd "$path" && { dump | trim; exit 5; } || exit 2
     esac
 }
 
